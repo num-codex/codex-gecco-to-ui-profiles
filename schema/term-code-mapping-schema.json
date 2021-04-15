@@ -1,0 +1,51 @@
+{
+	"$schema": "http://num.codex/draft-1/termCodeMapping/schema#",
+	
+	"definitions" : {
+		"termCode": {
+			"type": "object",
+			"description": "The termCode defines a concept based on a coding system (i.e. LOINC). The triplet of code, system and version identify the concept.",
+			"properties": {
+				"code": { "type": "string" },
+				"system": { "type": "string"},
+				"version": { "type": "string"},
+				"display": { "type": "string"}
+			}, 
+			"required": ["code", "system", "display"]
+		},
+		"fixedCriteria": {
+			"type": "object",
+			"properties": {
+				"fhirPath": {"type": "string" },
+				"searchParameter": {"type": "string"},
+				"type": { "type": "string" },
+				"value": { 
+					"type": "array",
+					"minItems": 1,
+					"items": {"$ref": "#/definitions/termCode"}
+				}
+			},
+			"required": ["fhirPath", "searchParameter", "value"]
+		},
+		"entry": {
+			"type": "object",
+			"properties": {
+				"key": { "$ref": "#/definitions/termCode" },
+				"fhirResourceType": {"type": "string"},
+				"termCodeSearchParameter": {"type": "string"},
+				"fixedCriteria": {
+					"type": "array",
+					"minItems": 0,
+					"items": { "$ref": "#/definitions/fixedCriteria"}
+				}
+			},
+			"required": ["key", "fhirResourceType", "termCodeSearchParameter"]
+		}
+	},
+	
+	"title": "termCodeMappingDefinition",
+	"description": "Using the termCode of a concept as a code the termCodeMapping provides additional information for building the query",
+	"type": "array",
+	"minItems": 1,
+	"items": { "$ref": "#/definitions/entry"	}
+}

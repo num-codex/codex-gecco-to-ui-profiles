@@ -3,7 +3,7 @@
         {
             "children": [],
             "display": "CRP",
-            "id": "521e56be-8475-4855-b3fc-39ea96972634",
+            "id": "ff0b5247-58fd-4d95-8a22-cfac0f8b0fb5",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -37,7 +37,7 @@
         {
             "children": [],
             "display": "Ferritin",
-            "id": "89c0871d-34a3-49bd-acf1-cb63977aa032",
+            "id": "2db1f22a-400f-4570-8e47-e3852825a596",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -63,7 +63,7 @@
         {
             "children": [],
             "display": "Bilirubin",
-            "id": "3af50223-04c9-4e47-b38f-03303ddadd6f",
+            "id": "a5e8ac10-0996-4112-ba7d-e77f9eaaefa5",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -93,7 +93,7 @@
         {
             "children": [],
             "display": "D-dimer",
-            "id": "816315b8-7834-4635-beee-608da19f06aa",
+            "id": "651a332d-5f06-4688-a81a-f5ffddd62179",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -127,7 +127,7 @@
         {
             "children": [],
             "display": "Gamma-GT",
-            "id": "39694ec2-2fac-43a9-8591-223bfeb809d1",
+            "id": "ebd80285-badb-481c-b95b-c6b5fe566d09",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -153,7 +153,7 @@
         {
             "children": [],
             "display": "GOT/AST",
-            "id": "9dd06dec-218f-4d81-ad41-e1eacc4e3aa8",
+            "id": "f9919bb0-7817-4855-81ef-19073fe3a5bb",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -179,7 +179,7 @@
         {
             "children": [],
             "display": "LDH",
-            "id": "6f37275c-a837-4503-8a15-35d95123c4e6",
+            "id": "b2574239-3c58-4a4e-b9e7-36e268b8c045",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -205,7 +205,7 @@
         {
             "children": [],
             "display": "Kardiale Troponine",
-            "id": "5978b04f-7704-49f4-9649-aa0b8f7cdf80",
+            "id": "4b105ccd-4353-4dc4-bd26-69e033cdca94",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -239,7 +239,7 @@
         {
             "children": [],
             "display": "H\u00e4moglobin",
-            "id": "2bbae654-40fb-4054-a046-49aab3fa182e",
+            "id": "2a0fb3f3-e95b-4a4b-bde0-7ff6b799f4d8",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -273,7 +273,7 @@
         {
             "children": [],
             "display": "Kreatinin",
-            "id": "d93e22cd-3b18-47e8-8bbb-567358a07199",
+            "id": "52f59003-1cff-415b-912a-9640509631f6",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -299,7 +299,7 @@
         {
             "children": [],
             "display": "Laktat",
-            "id": "e0aeea7e-c1c5-4f48-a636-138f3e22c606",
+            "id": "810f6b59-3ea7-4edc-937a-65b847958096",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -329,7 +329,7 @@
         {
             "children": [],
             "display": "Leukozyten absolut",
-            "id": "04c01bf7-1536-4788-a35a-0676d6f64069",
+            "id": "4e7e5836-d6d4-4475-bfb8-f5d3b5c3c71f",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -355,7 +355,7 @@
         {
             "children": [],
             "display": "Lymphozyten absolut",
-            "id": "5563e72a-b765-4025-ae51-3507c2da47e2",
+            "id": "542796c7-4231-445c-8dcf-5cbd652f1e36",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -381,7 +381,7 @@
         {
             "children": [],
             "display": "Neutrophile absolut",
-            "id": "f7f63deb-f64a-49b4-8b36-2710672080f1",
+            "id": "22542101-55ea-49d8-a189-87d9cd86bd3c",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -407,7 +407,7 @@
         {
             "children": [],
             "display": "PTT",
-            "id": "50e6b6b7-82f4-48a9-a054-8386d2b76541",
+            "id": "ac967026-e918-4e82-be93-b6d7b6631008",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -433,7 +433,7 @@
         {
             "children": [],
             "display": "Thrombozyten absolut",
-            "id": "65bf3926-5c8f-41b3-9351-2c3cc1459618",
+            "id": "bf519eb2-3231-4bef-b3f9-ff810b8a5b61",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -459,7 +459,7 @@
         {
             "children": [],
             "display": "INR",
-            "id": "e776b897-4b70-4d92-9653-0da9988a21ac",
+            "id": "3a48ec53-4646-446f-ac24-faa08075a15d",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -485,7 +485,7 @@
         {
             "children": [],
             "display": "Serum-Albumin",
-            "id": "c9c6da24-df9b-443c-baff-f2a12e4ce90d",
+            "id": "fa5e23c4-cb15-4151-82b2-cf59f18a5104",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -519,7 +519,7 @@
         {
             "children": [],
             "display": "Antithrombin III",
-            "id": "798f7648-d84f-4702-82e6-46c2a783d453",
+            "id": "64759fce-b50c-45ca-8296-03edc7454e17",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -549,7 +549,7 @@
         {
             "children": [],
             "display": "PCT (Procalcitonin)",
-            "id": "f5166ac3-6e18-474a-84b0-495b5fceb898",
+            "id": "1e1ef895-9441-4e2a-bfd5-887d7d16b76f",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -575,7 +575,7 @@
         {
             "children": [],
             "display": "Il-6 (Interleukin 6)",
-            "id": "40fca8fd-3a80-40ee-ae0c-5c816f545465",
+            "id": "0997da3b-d3ec-4ef1-a01d-0768cb4fccf0",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -601,7 +601,7 @@
         {
             "children": [],
             "display": "NT-pro-BNP",
-            "id": "6dc53b12-4058-40d5-b796-65bbc8a0e8ce",
+            "id": "e0f6ad9d-6d2a-4297-b350-4c517eac110f",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -627,7 +627,7 @@
         {
             "children": [],
             "display": "Fibrinogen",
-            "id": "483b9786-0ad8-46c6-8892-658cdb846b73",
+            "id": "0063421b-79b5-46ad-9808-d5da73e4b0eb",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -657,7 +657,7 @@
         {
             "children": [],
             "display": "SARS-CoV-2-RT-PCR",
-            "id": "0c8d2181-fdd0-4a7e-8e9b-177cab07de7d",
+            "id": "4a8fe3d9-37f6-43b5-9851-8382f1ef8fc2",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -693,7 +693,7 @@
         }
     ],
     "display": "Laborwerte",
-    "id": "c87710c7-ba38-403d-b052-2ab0a96e2f3e",
+    "id": "ee168cb5-e89c-4c51-844c-6f7b6d54f91b",
     "leaf": false,
     "selectable": false,
     "termCode": {

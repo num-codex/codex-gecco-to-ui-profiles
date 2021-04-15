@@ -3,7 +3,7 @@
         {
             "children": [],
             "display": "Dialyse / H\u00e4mofiltration",
-            "id": "6b151c80-c1d8-4107-bbc9-74aa76d5b981",
+            "id": "7b3717dd-3ac4-48ae-99e8-1fc02781580a",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -17,7 +17,7 @@
         {
             "children": [],
             "display": "Apherese",
-            "id": "b3799ff2-99e5-4786-852b-2d94637c8026",
+            "id": "f67b6ccb-6825-4be9-9ed3-70f2c24cee46",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -31,7 +31,7 @@
         {
             "children": [],
             "display": "Bauchlage",
-            "id": "9fb6d5b2-39bf-4604-bf09-06aec7900953",
+            "id": "b7b0837c-4a96-40fd-81dc-bbac06aae6dd",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -45,7 +45,7 @@
         {
             "children": [],
             "display": "ECMO-Therapie",
-            "id": "e23942e8-23bc-4376-9317-a03f9b3c6604",
+            "id": "1495b9a2-276d-4345-9ec0-49619d4ceda6",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -58,7 +58,7 @@
         }
     ],
     "display": "Therapie",
-    "id": "7b2a5f33-5004-469f-a285-e8bf17b432e6",
+    "id": "4e2a7ef7-9c4c-483d-956f-f0514452c097",
     "leaf": false,
     "selectable": false,
     "termCode": {
