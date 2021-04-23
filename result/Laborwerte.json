@@ -3,7 +3,7 @@
         {
             "children": [],
             "display": "CRP",
-            "id": "8ac0cd28-ddb4-47f4-9529-83fafd7226b2",
+            "id": "0fc55656-f9d8-484b-8357-1ab14bc4b434",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -37,7 +37,7 @@
         {
             "children": [],
             "display": "Ferritin",
-            "id": "ce1f8453-eecf-4491-97d8-e153a01a86b7",
+            "id": "6f578038-0a3d-4571-a0e6-b7be22b89c60",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -63,7 +63,7 @@
         {
             "children": [],
             "display": "Bilirubin",
-            "id": "da2065a4-fddf-4e90-86e0-d524af1209a2",
+            "id": "dbaaa3eb-0658-48a7-ad6f-849e1413e500",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -93,7 +93,7 @@
         {
             "children": [],
             "display": "D-dimer",
-            "id": "7e7b5bf2-bc41-4d8e-9b8f-659776895788",
+            "id": "26ceddf1-8f70-48bb-83eb-5266524a9e44",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -127,7 +127,7 @@
         {
             "children": [],
             "display": "Gamma-GT",
-            "id": "28a9c5cd-4ada-43f5-a326-173faaa6317f",
+            "id": "31a963e9-28c6-41b1-8ffa-64b549190bc1",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -153,7 +153,7 @@
         {
             "children": [],
             "display": "GOT/AST",
-            "id": "32097429-8b6e-4de3-8c44-b17e2ad0abb3",
+            "id": "691b77e1-cd37-402f-b555-d79dc28c0683",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -179,7 +179,7 @@
         {
             "children": [],
             "display": "LDH",
-            "id": "89acbc03-c762-49cc-baad-7d95253941c7",
+            "id": "121923ae-b484-4603-9e76-9f806f7870fc",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -205,7 +205,7 @@
         {
             "children": [],
             "display": "Kardiale Troponine",
-            "id": "84c99819-d86e-4ddc-a9b4-8a72c7b588f7",
+            "id": "bdaa1991-c584-4da4-b6e8-7adb3f37b219",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -239,7 +239,7 @@
         {
             "children": [],
             "display": "H\u00e4moglobin",
-            "id": "faafe5d4-326f-4b5e-8325-3e32609c1b40",
+            "id": "8409bd81-3274-49b7-abe8-cdcf8ca4404b",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -273,7 +273,7 @@
         {
             "children": [],
             "display": "Kreatinin",
-            "id": "8f46f5c2-3dc5-4244-a0b1-de1f4ed1362c",
+            "id": "98da8734-0294-4784-9acd-448d82b47373",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -299,7 +299,7 @@
         {
             "children": [],
             "display": "Laktat",
-            "id": "bb970cde-d7ca-4bba-a9fd-d22e9708cf97",
+            "id": "09a58747-f2a9-4ddb-93c9-0bb61c9f228e",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -329,7 +329,7 @@
         {
             "children": [],
             "display": "Leukozyten absolut",
-            "id": "adc91d0a-bcf1-428f-892e-31dba0f94257",
+            "id": "095e2de9-2878-4061-94a8-ac87b686d252",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -355,7 +355,7 @@
         {
             "children": [],
             "display": "Lymphozyten absolut",
-            "id": "09701a26-97c1-4b63-a5c9-b9e259a25c19",
+            "id": "7fb88a97-7ef6-4c43-abd2-df95d1054321",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -381,7 +381,7 @@
         {
             "children": [],
             "display": "Neutrophile absolut",
-            "id": "cce18ffc-d898-4413-a936-1f1968201b61",
+            "id": "892510a7-9a41-49c2-99e3-2bc15d19c09c",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -407,7 +407,7 @@
         {
             "children": [],
             "display": "PTT",
-            "id": "5440abc9-bd2c-49c5-b12f-42db6a0bfaeb",
+            "id": "bd645d2f-25b9-4679-aa44-3f45cedd5cf8",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -433,7 +433,7 @@
         {
             "children": [],
             "display": "Thrombozyten absolut",
-            "id": "232a5832-fa70-4553-ae2b-fe3cd722ae5f",
+            "id": "73c2e49d-21a2-4f95-8eaf-55a1b72a3097",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -459,7 +459,7 @@
         {
             "children": [],
             "display": "INR",
-            "id": "9041cb2a-f3f9-4599-95a2-4256a8e4b76a",
+            "id": "2447db72-4f33-4f62-878f-977d1f082c8d",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -485,7 +485,7 @@
         {
             "children": [],
             "display": "Serum-Albumin",
-            "id": "5ea1f486-e21c-471e-805c-254d024e2beb",
+            "id": "6d920055-4493-4089-beb3-22a22d507d3a",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -519,7 +519,7 @@
         {
             "children": [],
             "display": "Antithrombin III",
-            "id": "ee532a2d-8aa8-444d-b7b6-a78bf11299c7",
+            "id": "459da66e-4ce9-4674-b72f-f95b7c4636f8",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -549,7 +549,7 @@
         {
             "children": [],
             "display": "PCT (Procalcitonin)",
-            "id": "812f7a2a-15af-43d4-89c7-82bbe08413f7",
+            "id": "bbef910b-b84e-4e51-8720-21f1267fd1f4",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -575,7 +575,7 @@
         {
             "children": [],
             "display": "Il-6 (Interleukin 6)",
-            "id": "7afdc5da-34b2-4266-8a86-e24247162d4d",
+            "id": "a71bc72f-b079-43a6-be8d-9dcab10f91f4",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -601,7 +601,7 @@
         {
             "children": [],
             "display": "NT-pro-BNP",
-            "id": "17012a91-86b2-48f0-a32f-273335892a38",
+            "id": "111e3896-7086-44ee-88d8-8bee6866c940",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -627,7 +627,7 @@
         {
             "children": [],
             "display": "Fibrinogen",
-            "id": "54bf9a4d-5745-4b3a-ba6d-ba4e9d6fc1f1",
+            "id": "1682a742-7dfd-4413-9cad-ceca2297f7fb",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -657,7 +657,7 @@
         {
             "children": [],
             "display": "SARS-CoV-2-RT-PCR",
-            "id": "f5f81e6f-2d11-4871-96ea-244e41452287",
+            "id": "8190549d-5ebd-4e1c-a50a-35fc7adbe229",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -690,10 +690,262 @@
                     "type": "concept"
                 }
             ]
+        },
+        {
+            "children": [],
+            "display": "SARS-CoV-2 (COVID-19) IgG IA Ql",
+            "id": "7455722f-0c4a-40a3-b267-9650e0ccd996",
+            "leaf": true,
+            "selectable": true,
+            "termCode": {
+                "code": "94563-4",
+                "display": "SARS-CoV-2 (COVID-19) IgG Ab [Presence] in Serum or Plasma by Immunoassay",
+                "system": "http://loinc.org"
+            },
+            "timeRestrictionAllowed": false,
+            "valueDefinitions": [
+                {
+                    "allowedUnits": [],
+                    "precision": 1,
+                    "selectableConcepts": [
+                        {
+                            "code": "260373001",
+                            "display": "Detected (qualifier value)",
+                            "system": "http://snomed.info/sct"
+                        },
+                        {
+                            "code": "260415000",
+                            "display": "Not detected (qualifier value)",
+                            "system": "http://snomed.info/sct"
+                        },
+                        {
+                            "code": "419984006",
+                            "display": "Inconclusive (qualifier value)",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "type": "concept"
+                }
+            ]
+        },
+        {
+            "children": [],
+            "display": "SARS-CoV-2 (COVID-19) IgG IA Qn",
+            "id": "b5ad9910-ed66-4cf8-ab1a-bb338ac1d4ac",
+            "leaf": true,
+            "selectable": true,
+            "termCode": {
+                "code": "94505-5",
+                "display": "SARS-CoV-2 (COVID-19) IgG Ab [Units/volume] in Serum or Plasma by Immunoassay",
+                "system": "http://loinc.org"
+            },
+            "timeRestrictionAllowed": false,
+            "valueDefinitions": [
+                {
+                    "allowedUnits": [
+                        {
+                            "code": "[arb'U]/mL",
+                            "display": "[arb'U]/mL"
+                        }
+                    ],
+                    "precision": 1,
+                    "selectableConcepts": [],
+                    "type": "quantity"
+                }
+            ]
+        },
+        {
+            "children": [],
+            "display": "SARS-CoV-2 (COVID-19) IgM IA Ql",
+            "id": "ff4fe594-5b4e-4c9c-9035-05e1686d26e8",
+            "leaf": true,
+            "selectable": true,
+            "termCode": {
+                "code": "94564-2",
+                "display": "SARS-CoV-2 (COVID-19) IgM Ab [Presence] in Serum or Plasma by Immunoassay",
+                "system": "http://loinc.org"
+            },
+            "timeRestrictionAllowed": false,
+            "valueDefinitions": [
+                {
+                    "allowedUnits": [],
+                    "precision": 1,
+                    "selectableConcepts": [
+                        {
+                            "code": "260373001",
+                            "display": "Detected (qualifier value)",
+                            "system": "http://snomed.info/sct"
+                        },
+                        {
+                            "code": "260415000",
+                            "display": "Not detected (qualifier value)",
+                            "system": "http://snomed.info/sct"
+                        },
+                        {
+                            "code": "419984006",
+                            "display": "Inconclusive (qualifier value)",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "type": "concept"
+                }
+            ]
+        },
+        {
+            "children": [],
+            "display": "SARS-CoV-2 (COVID-19) IgM IA Qn",
+            "id": "55f2c384-178b-4ef8-80c7-fe9a65dc05cc",
+            "leaf": true,
+            "selectable": true,
+            "termCode": {
+                "code": "94506-3",
+                "display": "SARS-CoV-2 (COVID-19) IgM Ab [Units/volume] in Serum or Plasma by Immunoassay",
+                "system": "http://loinc.org"
+            },
+            "timeRestrictionAllowed": false,
+            "valueDefinitions": [
+                {
+                    "allowedUnits": [
+                        {
+                            "code": "[arb'U]/mL",
+                            "display": "[arb'U]/mL"
+                        }
+                    ],
+                    "precision": 1,
+                    "selectableConcepts": [],
+                    "type": "quantity"
+                }
+            ]
+        },
+        {
+            "children": [],
+            "display": "SARS-CoV-2 (COVID-19) IgA IA Ql",
+            "id": "bfa673dc-7031-4b3f-a532-5492004e96cb",
+            "leaf": true,
+            "selectable": true,
+            "termCode": {
+                "code": "94562-6",
+                "display": "SARS-CoV-2 (COVID-19) IgA Ab [Presence] in Serum or Plasma by Immunoassay",
+                "system": "http://loinc.org"
+            },
+            "timeRestrictionAllowed": false,
+            "valueDefinitions": [
+                {
+                    "allowedUnits": [],
+                    "precision": 1,
+                    "selectableConcepts": [
+                        {
+                            "code": "260373001",
+                            "display": "Detected (qualifier value)",
+                            "system": "http://snomed.info/sct"
+                        },
+                        {
+                            "code": "260415000",
+                            "display": "Not detected (qualifier value)",
+                            "system": "http://snomed.info/sct"
+                        },
+                        {
+                            "code": "419984006",
+                            "display": "Inconclusive (qualifier value)",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "type": "concept"
+                }
+            ]
+        },
+        {
+            "children": [],
+            "display": "SARS-CoV-2 (COVID-19) IgA IA Qn",
+            "id": "d2cc8a8a-cf25-43cb-80fc-ef493b337d89",
+            "leaf": true,
+            "selectable": true,
+            "termCode": {
+                "code": "94720-0",
+                "display": "SARS-CoV-2 (COVID-19) IgA Ab [Units/volume] in Serum or Plasma by Immunoassay",
+                "system": "http://loinc.org"
+            },
+            "timeRestrictionAllowed": false,
+            "valueDefinitions": [
+                {
+                    "allowedUnits": [
+                        {
+                            "code": "[IU]/mL",
+                            "display": "[IU]/mL"
+                        }
+                    ],
+                    "precision": 1,
+                    "selectableConcepts": [],
+                    "type": "quantity"
+                }
+            ]
+        },
+        {
+            "children": [],
+            "display": "SARS-CoV-2 (COVID-19) Ab IA Ql",
+            "id": "dbae7389-590f-434f-a541-2ec158bcd333",
+            "leaf": true,
+            "selectable": true,
+            "termCode": {
+                "code": "94762-2",
+                "display": "SARS-CoV-2 (COVID-19) Ab [Presence] in Serum or Plasma by Immunoassay",
+                "system": "http://loinc.org"
+            },
+            "timeRestrictionAllowed": false,
+            "valueDefinitions": [
+                {
+                    "allowedUnits": [],
+                    "precision": 1,
+                    "selectableConcepts": [
+                        {
+                            "code": "260373001",
+                            "display": "Detected (qualifier value)",
+                            "system": "http://snomed.info/sct"
+                        },
+                        {
+                            "code": "260415000",
+                            "display": "Not detected (qualifier value)",
+                            "system": "http://snomed.info/sct"
+                        },
+                        {
+                            "code": "419984006",
+                            "display": "Inconclusive (qualifier value)",
+                            "system": "http://snomed.info/sct"
+                        }
+                    ],
+                    "type": "concept"
+                }
+            ]
+        },
+        {
+            "children": [],
+            "display": "SARS-CoV-2 (COVID-19) Ab IA Qn",
+            "id": "04d06911-8ab8-4f71-a199-e625ae5cf777",
+            "leaf": true,
+            "selectable": true,
+            "termCode": {
+                "code": "94769-7",
+                "display": "SARS-CoV-2 (COVID-19) Ab [Units/volume] in Serum or Plasma by Immunoassay",
+                "system": "http://loinc.org"
+            },
+            "timeRestrictionAllowed": false,
+            "valueDefinitions": [
+                {
+                    "allowedUnits": [
+                        {
+                            "code": "[IU]/mL",
+                            "display": "[IU]/mL"
+                        }
+                    ],
+                    "precision": 1,
+                    "selectableConcepts": [],
+                    "type": "quantity"
+                }
+            ]
         }
     ],
     "display": "Laborwerte",
-    "id": "edc4965e-3d83-4eaf-a864-edcde00b4499",
+    "id": "9be6f66a-900b-4e8d-b8a7-d7af030707ce",
     "leaf": false,
     "selectable": false,
     "termCode": {
