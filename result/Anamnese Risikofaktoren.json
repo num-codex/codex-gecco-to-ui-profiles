@@ -5,7 +5,7 @@
                 {
                     "children": [],
                     "display": "Lungentuberkulose ohne Angabe einer bakteriologischen, molekularbiologischen oder histologischen Sicherung",
-                    "id": "c8edd728-2bcc-475d-a4f6-6e691dbf67ad",
+                    "id": "0405952b-4b23-4c92-a5d8-606bf5742157",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -19,7 +19,7 @@
                 {
                     "children": [],
                     "display": "\u00dcberm\u00e4\u00dfige Adipositas mit alveol\u00e4rer Hypoventilation",
-                    "id": "f6f4688d-e8e5-49a9-b79c-3c648951a36d",
+                    "id": "6acfb7d7-a44c-4f55-9579-e59e45f730a8",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -33,7 +33,7 @@
                 {
                     "children": [],
                     "display": "Schlafapnoe",
-                    "id": "0f98ca2c-4c3b-4fe2-8e7f-8ecd485c3608",
+                    "id": "549531a0-ab38-47f3-aa5e-8aa244833ded",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -47,7 +47,7 @@
                 {
                     "children": [],
                     "display": "Krankheit der Atemwege durch spezifischen organischen Staub",
-                    "id": "e90a4f47-0f8b-43f1-9a95-cae7d67a565c",
+                    "id": "b0dbbc84-4869-4f03-9953-fdf2b502c56a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -61,7 +61,7 @@
                 {
                     "children": [],
                     "display": "Farmerlunge",
-                    "id": "baf5b5f8-0126-40e6-913f-0ad3121140bf",
+                    "id": "7c54f3dc-0b85-4f7b-9ae6-3eff98807973",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -75,7 +75,7 @@
                 {
                     "children": [],
                     "display": "Bagassose",
-                    "id": "2b96be3d-cc60-44bd-970f-bdcbed9d4757",
+                    "id": "b0a8686d-91d0-4405-a378-fbb73dd19c53",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -89,7 +89,7 @@
                 {
                     "children": [],
                     "display": "Chronische Krankheiten der Atmungsorgane durch chemische Substanzen, Gase, Rauch und D\u00e4mpfe",
-                    "id": "c621d822-372f-4cf3-966a-761968d58017",
+                    "id": "a9ae7d13-fecf-4fc4-95ea-93c3b52d3748",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -103,7 +103,7 @@
                 {
                     "children": [],
                     "display": "Chronische und sonstige Lungenbeteiligung bei Strahleneinwirkung",
-                    "id": "7c751e54-395c-4618-8040-6279dac81b39",
+                    "id": "5431d4b6-ef62-4e9f-b2cc-91b215d25155",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -117,7 +117,7 @@
                 {
                     "children": [],
                     "display": "Arzneimittelinduzierte interstitielle Lungenkrankheit, nicht n\u00e4her bezeichnet",
-                    "id": "4188d081-9840-4461-b1b6-6014c455e4f5",
+                    "id": "6757a3ba-ffc5-4936-9ecb-1782277dc815",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -131,7 +131,7 @@
                 {
                     "children": [],
                     "display": "Sonstige interstitielle Lungenkrankheiten mit Fibrose",
-                    "id": "10c492c5-fcdf-4e50-8274-b302dd4d2628",
+                    "id": "625d9a56-a0e9-452b-80d8-9ce84c6e13a0",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -145,7 +145,7 @@
                 {
                     "children": [],
                     "display": "Sonstige chronische Atemwegskrankheiten mit Ursprung in der Perinatalperiode",
-                    "id": "61c841c6-1a9b-486a-a56a-59bee284db80",
+                    "id": "dc436377-d999-4b0b-8fc6-43d681108feb",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -159,7 +159,7 @@
                 {
                     "children": [],
                     "display": "Krankheiten des Atmungssystems in der Eigenanamnese",
-                    "id": "014d3cd8-4a7c-43c2-9e11-7f37003e5188",
+                    "id": "630fcacc-428e-4c07-a3d9-e2925df65981",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -173,7 +173,7 @@
                 {
                     "children": [],
                     "display": "Zystische Fibrose",
-                    "id": "39d9f564-9028-4cc3-a4f6-cc84e207d5cd",
+                    "id": "2ebdd086-ec70-4ceb-9553-c02db0c6f091",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -187,7 +187,7 @@
                 {
                     "children": [],
                     "display": "Sonstige pulmonale Herzkrankheiten",
-                    "id": "f930d59a-41c5-485d-ae49-3ef5ba5ca323",
+                    "id": "88e73256-fe80-4361-9476-26ee4746ecd1",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -201,7 +201,7 @@
                 {
                     "children": [],
                     "display": "Sonstige chronische obstruktive Lungenkrankheit",
-                    "id": "6d82bcf9-16a1-4b06-9099-bcd8bd69c604",
+                    "id": "d3ddb008-dca4-4788-b013-a6fbcc37feda",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -215,7 +215,7 @@
                 {
                     "children": [],
                     "display": "Asthma bronchiale",
-                    "id": "b5d2e56e-54d6-4e76-9e71-fa318a2a1453",
+                    "id": "c8fa7ada-11b2-45b2-9c98-bb8804f0dc9c",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -229,7 +229,7 @@
                 {
                     "children": [],
                     "display": "Kohlenbergarbeiter-Pneumokoniose",
-                    "id": "ad0012d2-bd0d-4fc1-aaba-10c312f26094",
+                    "id": "ecf5f8d9-5d02-48ac-a231-1bfecc63b101",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -243,7 +243,7 @@
                 {
                     "children": [],
                     "display": "Pneumokoniose durch Asbest und sonstige anorganische Fasern",
-                    "id": "0f3d0bf6-d623-45f1-a156-cf25c81b1e1a",
+                    "id": "13585454-a890-4a84-a249-218bd9628c17",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -257,7 +257,7 @@
                 {
                     "children": [],
                     "display": "Pneumokoniose durch Quarzstaub",
-                    "id": "83dd8344-6d20-4975-b19e-cfa5c3ede8b1",
+                    "id": "0d1ee7ee-32c2-4606-a305-4530abb2e6bd",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -271,7 +271,7 @@
                 {
                     "children": [],
                     "display": "Pneumokoniose durch sonstige anorganische St\u00e4ube",
-                    "id": "b2c6e973-126e-4a13-911f-cba3c2a35129",
+                    "id": "6d8ce746-7b0b-4c97-bd76-b517e46795a3",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -285,7 +285,7 @@
                 {
                     "children": [],
                     "display": "Nicht n\u00e4her bezeichnete Pneumokoniose",
-                    "id": "05284440-c286-4260-85c6-c6f954a98868",
+                    "id": "0989850c-cb96-4e59-85a5-c4ea56962e3f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -298,7 +298,7 @@
                 }
             ],
             "display": "Chronische Lungenerkrankungen",
-            "id": "d7525d5a-dded-4d71-9580-b0d8710a60c9",
+            "id": "ff70820f-d103-45ef-be4b-2fc578175cb0",
             "leaf": false,
             "selectable": true,
             "termCode": {
@@ -314,7 +314,7 @@
                 {
                     "children": [],
                     "display": "Vorhandensein eines aortokoronaren Bypasses",
-                    "id": "9188d60c-dd06-4406-885f-99778adbcc70",
+                    "id": "425ebf46-2d34-484d-b388-573f26d0f28b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -328,7 +328,7 @@
                 {
                     "children": [],
                     "display": "Vorhandensein eines Implantates oder Transplantates nach koronarer Gef\u00e4\u00dfplastik",
-                    "id": "f26b296e-afbc-4f43-bb57-055bb1600d56",
+                    "id": "25d22dc2-5c68-473d-9ad7-4b44ee720b7d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -342,7 +342,7 @@
                 {
                     "children": [],
                     "display": "Akutes rheumatisches Fieber",
-                    "id": "c9484d6b-93a8-4729-bdc8-e7e817cc485a",
+                    "id": "9cc5e5e5-90ee-4101-80fd-7b938d02cace",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -356,7 +356,7 @@
                 {
                     "children": [],
                     "display": "Chronische rheumatische Herzkrankheiten",
-                    "id": "4f1c46ea-6853-4914-8271-4f55f0bd2c7e",
+                    "id": "8bcebb2e-fb28-45ff-8cbd-0f9aa2e6b2ff",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -370,7 +370,7 @@
                 {
                     "children": [],
                     "display": "Hypertonie [Hochdruckkrankheit]",
-                    "id": "f9837510-63ad-489f-9faf-6aa1964c6516",
+                    "id": "b9e34a51-f13a-4c5e-8d41-e581b938c55a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -384,7 +384,7 @@
                 {
                     "children": [],
                     "display": "Isch\u00e4mische Herzkrankheiten",
-                    "id": "41d7ff38-5255-4131-95d8-2ec664e58984",
+                    "id": "6b978ed9-03bc-4dab-a0f5-d6f21714b018",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -398,7 +398,7 @@
                 {
                     "children": [],
                     "display": "Pulmonale Herzkrankheit und Krankheiten des Lungenkreislaufes",
-                    "id": "76b190ca-f60f-4c36-b18b-eafa09326c3f",
+                    "id": "8470b7d5-9cea-4125-b65e-47f9663471c9",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -412,7 +412,7 @@
                 {
                     "children": [],
                     "display": "Sonstige Formen der Herzkrankheit",
-                    "id": "a636d8a8-f4ac-47a9-9e14-33a82027bf07",
+                    "id": "7908a8f2-256a-4652-8ef4-5e47fb1c7254",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -426,7 +426,7 @@
                 {
                     "children": [],
                     "display": "Zerebrovaskul\u00e4re Krankheiten",
-                    "id": "ed2b3f9a-e9f3-448e-a49a-4d3b75cb7457",
+                    "id": "61042bfd-bc6f-420f-86c9-94bb8da9cfd0",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -440,7 +440,7 @@
                 {
                     "children": [],
                     "display": "Krankheiten der Arterien, Arteriolen und Kapillaren",
-                    "id": "e5b2e137-f5a6-4596-9eeb-b0f91ea9e3c4",
+                    "id": "14614fdf-5973-42b2-87ff-a8c7e175660d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -454,7 +454,7 @@
                 {
                     "children": [],
                     "display": "Krankheiten der Venen, der Lymphgef\u00e4\u00dfe und der Lymphknoten, anderenorts nicht klassifiziert",
-                    "id": "be9e6fdd-7855-42f7-b922-30592153eae1",
+                    "id": "49f0a051-7cca-43f6-9bb9-1f4dc401d09e",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -468,7 +468,7 @@
                 {
                     "children": [],
                     "display": "Sonstige und nicht n\u00e4her bezeichnete Krankheiten des Kreislaufsystems",
-                    "id": "66db004e-cefa-4d49-9392-65bf1d46394c",
+                    "id": "bfbc7f05-62d7-475b-98b1-d52c9fe50cfc",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -481,7 +481,7 @@
                 }
             ],
             "display": "Herz-Kreislauf-Erkrankungen",
-            "id": "3fa50203-852e-4dae-a221-29445287f320",
+            "id": "80cd5f4c-0f59-4119-82b7-8c88c6e24d68",
             "leaf": false,
             "selectable": true,
             "termCode": {
@@ -497,7 +497,7 @@
                 {
                     "children": [],
                     "display": "Chronische Virushepatitis",
-                    "id": "a4c5d9f0-7aaf-4d35-9c5f-3331ef36735e",
+                    "id": "5cf71557-3d51-46b3-bb48-6eb029a0786f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -511,7 +511,7 @@
                 {
                     "children": [],
                     "display": "Krankheiten der Leber",
-                    "id": "405f2986-8b8a-455e-9115-c714147d183f",
+                    "id": "e0fc0364-0df0-492d-8232-bd47b0ffc213",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -524,7 +524,7 @@
                 }
             ],
             "display": "Chronische Lebererkrankungen",
-            "id": "ec4ae417-7da6-4db7-904c-2671b53733bb",
+            "id": "b7341f8e-936b-4d5b-90f5-9d027b36e640",
             "leaf": false,
             "selectable": true,
             "termCode": {
@@ -540,7 +540,7 @@
                 {
                     "children": [],
                     "display": "Chronische Polyarthritis, nicht n\u00e4her bezeichnet : Nicht n\u00e4her bezeichnete Lokalisation",
-                    "id": "453b84f0-b211-4f36-89c3-4e294393fc9a",
+                    "id": "0cbf57c0-1507-4bb2-8e18-de7d64286e71",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -554,7 +554,7 @@
                 {
                     "children": [],
                     "display": "Arteriitis, nicht n\u00e4her bezeichnet",
-                    "id": "8a96e5d5-4dc6-4830-bd59-af5e885c902a",
+                    "id": "ec0760d8-d63f-4797-8799-219b2db78172",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -568,7 +568,7 @@
                 {
                     "children": [],
                     "display": "Immundefekt mit vorherrschendem Antik\u00f6rpermangel",
-                    "id": "2d2c7b4d-7357-416a-bfcd-870379613355",
+                    "id": "98581209-4d86-4c35-9857-5017e92228c8",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -582,7 +582,7 @@
                 {
                     "children": [],
                     "display": "Kombinierte Immundefekte",
-                    "id": "7ab598bc-adf3-4b40-ab5a-009514c52db6",
+                    "id": "63d651ee-bf47-459a-bea1-71bb172a3da7",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -596,7 +596,7 @@
                 {
                     "children": [],
                     "display": "Immundefekt in Verbindung mit anderen schweren Defekten",
-                    "id": "03081813-e037-4263-8522-64b78cb4385f",
+                    "id": "a7dc3f75-58b7-4b05-a82d-f1e01d8488d2",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -610,7 +610,7 @@
                 {
                     "children": [],
                     "display": "Variabler Immundefekt [common variable immunodeficiency]",
-                    "id": "8164f7b4-9311-4077-b57c-0fe32fe73eec",
+                    "id": "805c25af-d450-4c27-88d7-fee5c3ce3d29",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -624,7 +624,7 @@
                 {
                     "children": [],
                     "display": "Sonstige Immundefekte",
-                    "id": "97184995-60b5-4847-858c-5b31167da416",
+                    "id": "515bb96f-26ba-4be4-9ada-eae0aaf62aab",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -638,7 +638,7 @@
                 {
                     "children": [],
                     "display": "Sarkoidose",
-                    "id": "0b32fb32-7add-480e-961c-134a312019f6",
+                    "id": "8aa5f68c-5ddd-4c1a-9ea7-e93ffd4ef7e9",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -652,7 +652,7 @@
                 {
                     "children": [],
                     "display": "Sonstige St\u00f6rungen mit Beteiligung des Immunsystems, anderenorts nicht klassifiziert",
-                    "id": "098a47d5-6f14-464b-9195-06a72230d552",
+                    "id": "8ea4169c-4648-4346-9c22-62ef71d725dc",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -666,7 +666,7 @@
                 {
                     "children": [],
                     "display": "Immunkompromittierung nach Bestrahlung, Chemotherapie und sonstigen immunsuppressiven Ma\u00dfnahmen",
-                    "id": "1e3aa5c8-0fa6-4634-8898-506b4f529c10",
+                    "id": "85bece85-38d1-4a31-9c3f-0cd807fe9362",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -680,7 +680,7 @@
                 {
                     "children": [],
                     "display": "Crohn-Krankheit [Enteritis regionalis] [Morbus Crohn]",
-                    "id": "e6aaecb5-7c13-48dc-953e-b5f2a0373fae",
+                    "id": "a0274d39-59d6-489e-a3ba-1e853365b7cf",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -694,7 +694,7 @@
                 {
                     "children": [],
                     "display": "Colitis ulcerosa",
-                    "id": "119e9979-8f39-4ee1-bb06-ae74517a8827",
+                    "id": "62f61936-dceb-4ac5-8095-a3b1102cd981",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -708,7 +708,7 @@
                 {
                     "children": [],
                     "display": "Sonstige nichtinfekti\u00f6se Gastroenteritis und Kolitis",
-                    "id": "2f1e4504-6490-4025-868f-932fd0003b3a",
+                    "id": "5484aabb-fe36-487c-8aa2-a34c9aedb38b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -722,7 +722,7 @@
                 {
                     "children": [],
                     "display": "Panarteriitis nodosa und verwandte Zust\u00e4nde",
-                    "id": "78eb168b-8038-4538-b12d-5c6a55200717",
+                    "id": "f36e0923-9e6c-4827-8ac1-633b12ec4b88",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -736,7 +736,7 @@
                 {
                     "children": [],
                     "display": "Sonstige nekrotisierende Vaskulopathien",
-                    "id": "94e3c9bc-d83a-4cf6-8d14-d8a928d33147",
+                    "id": "ba5cd650-2359-4a9a-8b2f-e18998c3ef2b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -750,7 +750,7 @@
                 {
                     "children": [],
                     "display": "Systemischer Lupus erythematodes",
-                    "id": "6d2d198a-3053-447d-a0dd-75a55f8e2ddd",
+                    "id": "2b0cbfc1-38de-4827-80ea-db31e5f1a6e4",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -764,7 +764,7 @@
                 {
                     "children": [],
                     "display": "Dermatomyositis-Polymyositis",
-                    "id": "6214e565-69b3-4949-80a9-cbe01ddc7aa4",
+                    "id": "407946e8-844b-462b-81cc-1cab027fdb14",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -778,7 +778,7 @@
                 {
                     "children": [],
                     "display": "Systemische Sklerose",
-                    "id": "7b49f8f6-9716-4896-b95b-bbc2c30d11c9",
+                    "id": "60e25d22-b9c9-433c-b58a-90b5d8bd3814",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -792,7 +792,7 @@
                 {
                     "children": [],
                     "display": "Sonstige Krankheiten mit Systembeteiligung des Bindegewebes",
-                    "id": "68489d53-d34f-4b31-adf0-3c634acc19fb",
+                    "id": "480cc0a9-efa5-4a5a-b4f7-f604082cac23",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -806,7 +806,7 @@
                 {
                     "children": [],
                     "display": "Systemkrankheiten des Bindegewebes bei anderenorts klassifizierten Krankheiten",
-                    "id": "7682c7b4-3c40-4dc6-9c1b-487dae6fd545",
+                    "id": "77927cad-23aa-4f72-9910-b17bc4c1c680",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -819,12 +819,12 @@
                 }
             ],
             "display": "Rheumatologische/immunologische Erkrankungen",
-            "id": "b923da84-ec71-4f7d-b3ac-0fb8d8a6a0c2",
+            "id": "91772d86-71e5-4551-a8a0-7974993a1a59",
             "leaf": false,
             "selectable": true,
             "termCode": {
-                "code": "396332003",
-                "display": "Rheumatism (disorder)",
+                "code": "414029004",
+                "display": "Disorder of immune function (disorder)",
                 "system": "http://snomed.info/sct"
             },
             "timeRestrictionAllowed": false,
@@ -835,7 +835,7 @@
                 {
                     "children": [],
                     "display": "Infekti\u00f6se und parasit\u00e4re Krankheiten infolge HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]",
-                    "id": "96261870-25d0-4db6-9836-4b057088e615",
+                    "id": "5502dc65-2b9b-44c6-a9a1-a6259638d8a6",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -849,7 +849,7 @@
                 {
                     "children": [],
                     "display": "B\u00f6sartige Neubildungen infolge HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]",
-                    "id": "d0e24d93-15e5-4d97-9cac-a77843320db7",
+                    "id": "0760d782-39d7-4a77-ac9d-8f727613a2ad",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -863,7 +863,7 @@
                 {
                     "children": [],
                     "display": "Sonstige n\u00e4her bezeichnete Krankheiten infolge HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]",
-                    "id": "69f3fe71-4a09-4681-9ed7-ecbe48b1594f",
+                    "id": "706b487a-a257-47b8-9585-3e65babae83f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -877,7 +877,7 @@
                 {
                     "children": [],
                     "display": "Sonstige Krankheitszust\u00e4nde infolge HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]",
-                    "id": "10e01e7b-0fb6-451e-8234-8cd39f1fe39d",
+                    "id": "3b83b915-e7e3-4fe5-aa0e-17419fa2db75",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -891,7 +891,7 @@
                 {
                     "children": [],
                     "display": "Nicht n\u00e4her bezeichnete HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]",
-                    "id": "17c7606d-7dfe-439e-91e3-c8bc3de7db88",
+                    "id": "65dcdb5e-f393-41a7-bd27-b32705bf8c51",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -904,7 +904,7 @@
                 }
             ],
             "display": "Bestehende HIV-Infektion",
-            "id": "f48c8033-b3fd-4b1c-8f4c-b5efe810285b",
+            "id": "5898b0b3-356b-49d2-b746-3e6df57076c5",
             "leaf": false,
             "selectable": true,
             "termCode": {
@@ -920,7 +920,7 @@
                 {
                     "children": [],
                     "display": "Zustand nach h\u00e4matopoetischer Stammzelltransplantation ohne gegenw\u00e4rtige Immunsuppression",
-                    "id": "daf74f69-806c-4e95-b229-9bcc7e412a9d",
+                    "id": "73da66f9-b519-4357-a6b4-9be96c112588",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -934,7 +934,7 @@
                 {
                     "children": [],
                     "display": "Zustand nach h\u00e4matopoetischer Stammzelltransplantation mit gegenw\u00e4rtiger Immunsuppression",
-                    "id": "157b24d2-8cde-4bb4-9dab-72fa57e302ef",
+                    "id": "3bf506f2-8909-4da1-88ed-aaca162cd307",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -948,7 +948,7 @@
                 {
                     "children": [],
                     "display": "Zustand nach sonstiger Organ- oder Gewebetransplantation Inkl.: Darm Pankreas",
-                    "id": "92a7a5ae-3191-4739-93fb-861c983478cd",
+                    "id": "a0c658e8-57bd-4fb6-b221-716655b9c5fd",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -962,7 +962,7 @@
                 {
                     "children": [],
                     "display": "Vorhandensein von sonstigen kardialen oder vaskul\u00e4ren Implantaten oder Transplantaten",
-                    "id": "d0cf37d2-53f2-41ba-a0b1-b5be08a8375e",
+                    "id": "a3fe7a5d-52ff-4a88-b36c-c581e4cba52a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -976,7 +976,7 @@
                 {
                     "children": [],
                     "display": "Zustand nach Nierentransplantation",
-                    "id": "17f9e270-8f5b-4df8-882e-75a3b605ef5c",
+                    "id": "972244e8-d434-4706-bb2b-711b98aed566",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -990,7 +990,7 @@
                 {
                     "children": [],
                     "display": "Zustand nach Herztransplantation",
-                    "id": "bf519243-7564-4245-aa36-40cecacdc02b",
+                    "id": "3e7c02c5-47de-48ff-aec0-2f682918c3f4",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1004,7 +1004,7 @@
                 {
                     "children": [],
                     "display": "Zustand nach Lungentransplantation",
-                    "id": "3f2cbdb8-95e8-47f6-b400-914e377d39bf",
+                    "id": "e11cfa4c-8ce4-459e-8729-ade8520d4f56",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1018,7 +1018,7 @@
                 {
                     "children": [],
                     "display": "Zustand nach Herz-Lungen-Transplantation",
-                    "id": "7ceb01cc-b074-42a0-92a4-f08b2b0334a8",
+                    "id": "36826739-f1e5-4732-b086-74f0cf34384a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1032,7 +1032,7 @@
                 {
                     "children": [],
                     "display": "Zustand nach Lebertransplantation",
-                    "id": "42d9bb32-2bc3-4cb3-a270-f4edb2caff95",
+                    "id": "e942908c-44c9-49f9-a081-7caace714fe3",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1046,7 +1046,7 @@
                 {
                     "children": [],
                     "display": "Zustand nach Hauttransplantation",
-                    "id": "e3b70575-d6cd-4b8e-a708-fbc96c8b9f27",
+                    "id": "03da3ef8-5878-4798-8b53-6623cbccb434",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1060,7 +1060,7 @@
                 {
                     "children": [],
                     "display": "Zustand nach Knochentransplantation",
-                    "id": "647f21ed-8d85-4a8b-a455-d9c83e3eb21f",
+                    "id": "a9cb4448-3598-43c3-939b-0d565f56f8b5",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1074,7 +1074,7 @@
                 {
                     "children": [],
                     "display": "Zustand nach Keratoplastik",
-                    "id": "45171722-0acb-4da4-a6c6-ea17117a7ff2",
+                    "id": "92442012-3d23-42b5-8d90-b74fd819bcaa",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1088,7 +1088,7 @@
                 {
                     "children": [],
                     "display": "Zustand nach Organ- oder Gewebetransplantation, nicht n\u00e4her bezeichnet",
-                    "id": "a09f38cf-57a6-498b-bf63-87fea3c317c5",
+                    "id": "a8fcfbba-6ca7-40f9-a7d3-10ce106f1c89",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1102,7 +1102,7 @@
                 {
                     "children": [],
                     "display": "Vorhandensein eines Implantates oder Transplantates nach koronarer Gef\u00e4\u00dfplastik",
-                    "id": "47d24012-2886-4403-972c-405222431b02",
+                    "id": "375e4e1c-f2eb-4267-8a96-441995b8eb46",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1115,7 +1115,7 @@
                 }
             ],
             "display": "Organtransplantiert",
-            "id": "5d50750b-d752-4ecf-af09-00864154a5b6",
+            "id": "64b150da-57cf-4f44-9cfe-a4fda55e80ac",
             "leaf": false,
             "selectable": true,
             "termCode": {
@@ -1131,7 +1131,7 @@
                 {
                     "children": [],
                     "display": "Diabetes mellitus, Typ 1",
-                    "id": "ccfc10f8-4d8c-427a-86ad-2f94e54b6fd4",
+                    "id": "84a68d0f-7086-4b88-b7a1-47cbe9accb8a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1145,7 +1145,7 @@
                 {
                     "children": [],
                     "display": "Diabetes mellitus, Typ 2",
-                    "id": "79034755-9dd4-4685-aff4-e95292d504e5",
+                    "id": "8401a123-2544-4f44-bb87-7448053a4a0a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1159,7 +1159,7 @@
                 {
                     "children": [],
                     "display": "Sonstiger n\u00e4her bezeichneter Diabetes mellitus",
-                    "id": "b75648cd-a255-4658-926e-c8acc6ef1f65",
+                    "id": "09435e1e-a2ba-47de-97e8-3e06ed98a952",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1173,7 +1173,7 @@
                 {
                     "children": [],
                     "display": "Nicht n\u00e4her bezeichneter Diabetes mellitus",
-                    "id": "c30da5c0-84b1-41d5-a527-84a06ddfdccd",
+                    "id": "52d4066a-83b6-4bb3-a69e-c4d596054c27",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1186,7 +1186,7 @@
                 }
             ],
             "display": "Diabetes",
-            "id": "2c65a76e-bac7-46a8-90ba-401793f65d39",
+            "id": "97f5632c-972f-4b3e-84b7-1efabb7331e0",
             "leaf": false,
             "selectable": true,
             "termCode": {
@@ -1202,7 +1202,7 @@
                 {
                     "children": [],
                     "display": "B\u00f6sartige Neubildungen der Lippe, der Mundh\u00f6hle und des Pharynx",
-                    "id": "5e815ebd-4c78-4f0c-9b77-847cc397241f",
+                    "id": "a2572ff1-5450-4d33-9b1e-26d4cecc72f0",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1216,7 +1216,7 @@
                 {
                     "children": [],
                     "display": "B\u00f6sartige Neubildungen an genau bezeichneten Lokalisationen, als prim\u00e4r festgestellt oder vermutet, ausgenommen lymphatisches, blutbildendes und verwandtes Gewebe",
-                    "id": "0bc19470-b843-434d-a7af-c3d23134390e",
+                    "id": "5151fe3b-0f94-4e4d-a920-6e5b02125a40",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1230,7 +1230,7 @@
                 {
                     "children": [],
                     "display": "B\u00f6sartige Neubildungen",
-                    "id": "f723117a-d24a-4dc0-8681-d240d0b154ec",
+                    "id": "d3a173d8-1503-43e3-92f7-138ad1c2ec47",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1244,7 +1244,7 @@
                 {
                     "children": [],
                     "display": "B\u00f6sartige Neubildungen der Verdauungsorgane",
-                    "id": "7f829fca-16ab-44d6-8d38-aa311b991e6c",
+                    "id": "2acaef80-29b0-481c-9882-e25c0e7b9dbe",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1258,7 +1258,7 @@
                 {
                     "children": [],
                     "display": "B\u00f6sartige Neubildungen der Atmungsorgane und sonstiger intrathorakaler Organe",
-                    "id": "f601e9d2-4501-46fd-8ab8-afccf6f734f2",
+                    "id": "340f1765-d231-4343-a509-22c778102795",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1272,7 +1272,7 @@
                 {
                     "children": [],
                     "display": "B\u00f6sartige Neubildungen des Knochens und des Gelenkknorpels",
-                    "id": "038e50a8-8252-49c1-8b05-7f71484c7cbc",
+                    "id": "47051b98-8629-43c2-af38-402ee26cb07b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1286,7 +1286,7 @@
                 {
                     "children": [],
                     "display": "Melanom und sonstige b\u00f6sartige Neubildungen der Haut",
-                    "id": "87b802e4-5e2b-4733-aff5-9d5621a6c760",
+                    "id": "b972c62d-639b-4c7d-8d0a-538e5475c2c3",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1300,7 +1300,7 @@
                 {
                     "children": [],
                     "display": "B\u00f6sartige Neubildungen des mesothelialen Gewebes und des Weichteilgewebes",
-                    "id": "5b483954-b8f1-4cc2-afa8-1e18a0cc8792",
+                    "id": "416f6b16-054b-4047-82d8-040cfd370edf",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1314,7 +1314,7 @@
                 {
                     "children": [],
                     "display": "B\u00f6sartige Neubildungen der Brustdr\u00fcse [Mamma]",
-                    "id": "2d3095d6-f34b-435e-b483-5be438bc3c20",
+                    "id": "3def2190-2690-41d9-be68-696819ac6e54",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1328,7 +1328,7 @@
                 {
                     "children": [],
                     "display": "B\u00f6sartige Neubildungen der weiblichen Genitalorgane",
-                    "id": "95d5dd3f-7b97-4f00-985f-cf4bf20f1843",
+                    "id": "0b2ee786-065b-4838-a54f-a534eceff775",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1342,7 +1342,7 @@
                 {
                     "children": [],
                     "display": "B\u00f6sartige Neubildungen der m\u00e4nnlichen Genitalorgane",
-                    "id": "91b2b673-6294-4055-8ee5-54652db8840c",
+                    "id": "6584fb75-62da-483f-8629-eb3d203b42d0",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1356,7 +1356,7 @@
                 {
                     "children": [],
                     "display": "B\u00f6sartige Neubildungen der Harnorgane",
-                    "id": "cc6d93e9-a349-4c1b-948f-ecc3be1a5320",
+                    "id": "984a26b5-8b0a-4112-9af2-93f600677d55",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1370,7 +1370,7 @@
                 {
                     "children": [],
                     "display": "B\u00f6sartige Neubildungen des Auges, des Gehirns und sonstiger Teile des Zentralnervensystems",
-                    "id": "8cc2e522-1d9f-4970-89a0-c160c803f3c5",
+                    "id": "791e3649-69d9-411b-a968-2298056e5f80",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1384,7 +1384,7 @@
                 {
                     "children": [],
                     "display": "B\u00f6sartige Neubildungen der Schilddr\u00fcse und sonstiger endokriner Dr\u00fcsen",
-                    "id": "7b2eca72-4955-4b0a-b271-d4b07fdf4963",
+                    "id": "1af6ce85-54c7-4de9-91d9-6981c0854f87",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1398,7 +1398,7 @@
                 {
                     "children": [],
                     "display": "B\u00f6sartige Neubildungen ungenau bezeichneter, sekund\u00e4rer und nicht n\u00e4her bezeichneter Lokalisationen",
-                    "id": "b9e4d167-280a-46be-82c4-67db2527d6fe",
+                    "id": "8e803c1e-0cb0-4aed-9f8a-290506368c51",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1412,7 +1412,7 @@
                 {
                     "children": [],
                     "display": "B\u00f6sartige Neubildungen des lymphatischen, blutbildenden und verwandten Gewebes, als prim\u00e4r festgestellt oder vermutet",
-                    "id": "89e8766a-ccc1-4bb8-af59-dac91fd3ec45",
+                    "id": "c3cc1a15-68e4-49e4-b186-0d9c71c61b29",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1426,7 +1426,7 @@
                 {
                     "children": [],
                     "display": "B\u00f6sartige Neubildungen als Prim\u00e4rtumoren an mehreren Lokalisationen",
-                    "id": "29a4c421-75cf-4093-9528-d255fded6f1a",
+                    "id": "4294377e-13eb-4294-882e-f0abc6dc1ab1",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1439,7 +1439,7 @@
                 }
             ],
             "display": "Aktive Tumor-/Krebserkrankungen",
-            "id": "3497b3e8-5fab-4689-a985-dcf439cd25bf",
+            "id": "4dc2b6b8-4417-4a2b-ae91-a398483a36c2",
             "leaf": false,
             "selectable": true,
             "termCode": {
@@ -1453,7 +1453,7 @@
         {
             "children": [],
             "display": "Raucherstatus",
-            "id": "0b9d931f-ced2-4c86-badf-95aa4be570c5",
+            "id": "8086e76b-728d-415d-a881-74e1d370ab6f",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -1497,7 +1497,7 @@
                 {
                     "children": [],
                     "display": "Akute polymorphe psychotische St\u00f6rung ohne Symptome einer Schizophrenie",
-                    "id": "87e8c361-4506-4fbd-a129-877197b3562f",
+                    "id": "9d9bb45c-798d-459e-a161-31d128e3eab8",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1511,7 +1511,7 @@
                 {
                     "children": [],
                     "display": "Akute polymorphe psychotische St\u00f6rung mit Symptomen einer Schizophrenie",
-                    "id": "e381e877-4294-4cab-9ab5-cffcd11575dd",
+                    "id": "a5c86696-51e9-45da-8f55-8de5f93004a5",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1525,7 +1525,7 @@
                 {
                     "children": [],
                     "display": "Akute schizophreniforme psychotische St\u00f6rung",
-                    "id": "8179f7ee-cc13-43af-84be-c3fdf3df5284",
+                    "id": "f8594400-9e82-491b-9fc3-136a092e34ba",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1539,7 +1539,7 @@
                 {
                     "children": [],
                     "display": "Sonstige akute vorwiegend wahnhafte psychotische St\u00f6rungen",
-                    "id": "8cfd8b06-b4aa-46ab-937f-968d63527de1",
+                    "id": "c07ef794-67b4-46e4-a908-bf4c3c868af9",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1553,7 +1553,7 @@
                 {
                     "children": [],
                     "display": "Sonstige akute vor\u00fcbergehende psychotische St\u00f6rungen",
-                    "id": "73f64e86-1957-42f8-a409-677583c7cdbf",
+                    "id": "237c1e36-ec73-4c76-8616-e4cd15af088e",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1567,7 +1567,7 @@
                 {
                     "children": [],
                     "display": "Akute vor\u00fcbergehende psychotische St\u00f6rung, nicht n\u00e4her bezeichnet",
-                    "id": "e221ffda-1f2c-4f59-a199-51b224e0eadf",
+                    "id": "e9475441-11e4-435e-882e-c5cc5a77b6ea",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1581,7 +1581,7 @@
                 {
                     "children": [],
                     "display": "Leichte depressive Episode",
-                    "id": "11a5b94c-e6a8-47fc-b9b6-ccbcdab80b8b",
+                    "id": "2791068b-afc0-411c-8399-4c9f65353ce2",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1595,7 +1595,7 @@
                 {
                     "children": [],
                     "display": "Mittelgradige depressive Episode",
-                    "id": "1563aa19-c255-4378-a499-f99125b75dd4",
+                    "id": "3b2bc3be-fac8-4927-949e-12fee720eccf",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1609,7 +1609,7 @@
                 {
                     "children": [],
                     "display": "Schwere depressive Episode ohne psychotische Symptome",
-                    "id": "f1161202-9cb8-4a7e-9322-370e44861da5",
+                    "id": "9c7d9176-bd08-46a2-ba2a-bfe3cb4bfd85",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1623,7 +1623,7 @@
                 {
                     "children": [],
                     "display": "Schwere depressive Episode mit psychotischen Symptomen",
-                    "id": "7aa53355-dccf-487d-83e4-290cbf99d6c2",
+                    "id": "646470bf-e911-4d6a-8623-99162cdbadd6",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1637,7 +1637,7 @@
                 {
                     "children": [],
                     "display": "Sonstige depressive Episoden",
-                    "id": "23235473-f19e-4668-ac4a-1a5bf2178036",
+                    "id": "7997807e-64f4-4ff3-846b-8bbf16fc27b5",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1651,7 +1651,7 @@
                 {
                     "children": [],
                     "display": "Depressive Episode, nicht n\u00e4her bezeichnet",
-                    "id": "835e793b-cb11-47de-8249-b854d88784e2",
+                    "id": "b63d7d6f-8420-4b8d-a476-21f85adf8dc2",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1665,7 +1665,7 @@
                 {
                     "children": [],
                     "display": "Rezidivierende depressive St\u00f6rung, gegenw\u00e4rtig leichte Episode",
-                    "id": "75f3857d-8a0e-439f-819f-0ae60923a321",
+                    "id": "1b35efed-dfcb-4d8a-a69f-fbd3a8cf6228",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1679,7 +1679,7 @@
                 {
                     "children": [],
                     "display": "Rezidivierende depressive St\u00f6rung, gegenw\u00e4rtig mittelgradige Episode",
-                    "id": "5892cadb-44d1-4711-9564-fd58286bd18d",
+                    "id": "4c72bb1d-8df1-4699-ac78-76e135b65cbf",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1693,7 +1693,7 @@
                 {
                     "children": [],
                     "display": "Rezidivierende depressive St\u00f6rung, gegenw\u00e4rtig schwere Episode ohne psychotische Symptome",
-                    "id": "e728cf80-9ec4-404e-a16f-5ce774420717",
+                    "id": "e815449c-0408-46bb-aae7-70f37f3d8a48",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1707,7 +1707,7 @@
                 {
                     "children": [],
                     "display": "Rezidivierende depressive St\u00f6rung, gegenw\u00e4rtig schwere Episode mit psychotischen Symptomen",
-                    "id": "41ceb861-0ed9-42a7-bb93-d716f21adac6",
+                    "id": "1ed4d2c1-5e70-4c89-8b27-ef22fec1c1cd",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1721,7 +1721,7 @@
                 {
                     "children": [],
                     "display": "Rezidivierende depressive St\u00f6rung, gegenw\u00e4rtig remittiert",
-                    "id": "f67f9707-2046-411d-9707-0992471bb163",
+                    "id": "abe1468b-dbf2-4d79-b61e-1822076df327",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1735,7 +1735,7 @@
                 {
                     "children": [],
                     "display": "Sonstige rezidivierende depressive St\u00f6rungen",
-                    "id": "d0a35b06-be21-4488-bdec-868bbd2d4e29",
+                    "id": "899be020-0d5e-4b08-b604-295046c6d2f0",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1749,7 +1749,7 @@
                 {
                     "children": [],
                     "display": "Rezidivierende depressive St\u00f6rung, nicht n\u00e4her bezeichnet",
-                    "id": "1576960a-6bac-49d5-8c50-6ea71e1d4c58",
+                    "id": "24d8efa2-53d5-4bfa-a06c-431a153abb55",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1763,7 +1763,7 @@
                 {
                     "children": [],
                     "display": "Agoraphobie",
-                    "id": "2786c8ae-e95e-400e-bb74-b477ce1dfbea",
+                    "id": "af722f1f-ef7b-44e3-86ef-3bcfefd50a36",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1777,7 +1777,7 @@
                 {
                     "children": [],
                     "display": "Soziale Phobien",
-                    "id": "24ad07b9-bf7b-4d60-bee4-477af7484858",
+                    "id": "e29377e3-0923-4884-957f-054edaeb46ff",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1791,7 +1791,7 @@
                 {
                     "children": [],
                     "display": "Spezifische (isolierte) Phobien",
-                    "id": "9b59376f-cc96-48d7-a23f-1f0d6b0d2744",
+                    "id": "e7986dc1-944d-4936-a131-f345c39eb8eb",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1805,7 +1805,7 @@
                 {
                     "children": [],
                     "display": "Sonstige phobische St\u00f6rungen",
-                    "id": "27b01b35-d762-44bb-b3c0-b44aca7a6cdd",
+                    "id": "6a27c1e2-6b8c-487d-af53-ba8cd21cc304",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1819,7 +1819,7 @@
                 {
                     "children": [],
                     "display": "Phobische St\u00f6rung, nicht n\u00e4her bezeichnet",
-                    "id": "63673e33-fdad-4a88-b374-c4b70b7d87c6",
+                    "id": "93c8467d-f314-490b-89ef-13f2d2840375",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1833,7 +1833,7 @@
                 {
                     "children": [],
                     "display": "Panikst\u00f6rung [episodisch paroxysmale Angst]",
-                    "id": "d9e106bc-e9ef-48f7-ae40-1c0ca03dbdea",
+                    "id": "426ee68e-bd66-41f4-aec7-86e890efc7a4",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1847,7 +1847,7 @@
                 {
                     "children": [],
                     "display": "Generalisierte Angstst\u00f6rung",
-                    "id": "1715acb9-cb90-435b-9d36-35da73dc17d3",
+                    "id": "8e871a6e-70e8-4e8f-ba9a-d72fc43abb9b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1861,7 +1861,7 @@
                 {
                     "children": [],
                     "display": "Angst und depressive St\u00f6rung, gemischt",
-                    "id": "7817cb6c-4c19-48b8-bf1a-e703c6c52d96",
+                    "id": "fc838d77-067a-457d-8a42-db2895d388b1",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1875,7 +1875,7 @@
                 {
                     "children": [],
                     "display": "Andere gemischte Angstst\u00f6rungen",
-                    "id": "5e554aa3-db0a-457a-8e94-f272aeeb536f",
+                    "id": "92470540-bc5f-4f5b-8c25-dbee778fbdd8",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1889,7 +1889,7 @@
                 {
                     "children": [],
                     "display": "Sonstige spezifische Angstst\u00f6rungen",
-                    "id": "2a70eb0d-9366-47d6-9e86-3f3ee1fa5fa3",
+                    "id": "8050d24d-b001-4052-883b-83c57c2d40df",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1903,7 +1903,7 @@
                 {
                     "children": [],
                     "display": "Angstst\u00f6rung, nicht n\u00e4her bezeichnet",
-                    "id": "ba510c83-c1ca-4747-8127-94426cee6312",
+                    "id": "eccc0fa7-03a0-4c47-8a8b-3034cb3cc473",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1917,7 +1917,7 @@
                 {
                     "children": [],
                     "display": "Krankheit des Zentralnervensystems, nicht n\u00e4her bezeichnet",
-                    "id": "785b72e3-d5ac-4322-bc4e-2e42d4604e5a",
+                    "id": "45c1e307-0e03-4851-93d5-e1242d2b0f00",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1931,7 +1931,7 @@
                 {
                     "children": [],
                     "display": "Folgen einer Subarachnoidalblutung",
-                    "id": "7924d3d3-5bc2-4726-83c2-a450f2cc3cef",
+                    "id": "5f4c9475-8f4b-461b-b2c6-c9c2578b2968",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1945,7 +1945,7 @@
                 {
                     "children": [],
                     "display": "Folgen einer intrazerebralen Blutung",
-                    "id": "6ff5825c-89da-43a8-9bc3-839cea477f22",
+                    "id": "603f2fbc-90d1-455a-847b-a76dd67a8c88",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1959,7 +1959,7 @@
                 {
                     "children": [],
                     "display": "Folgen einer sonstigen nichttraumatischen intrakraniellen Blutung",
-                    "id": "33f58c91-89e7-467e-9ea5-53f716839719",
+                    "id": "af2fb150-bd5d-43a4-9a4b-ada0391caf31",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1973,7 +1973,7 @@
                 {
                     "children": [],
                     "display": "Folgen eines Hirninfarktes",
-                    "id": "918b0de2-2da1-439d-aa4b-215fd39a78d6",
+                    "id": "08289baa-8353-4537-a101-690c64da1576",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1987,7 +1987,7 @@
                 {
                     "children": [],
                     "display": "Folgen eines Schlaganfalls, nicht als Blutung oder Infarkt bezeichnet",
-                    "id": "b3b89e1f-d950-43b0-8e92-e2250a759b82",
+                    "id": "80cc0d89-6b0e-416e-a9e0-d88ae2fd8f70",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2001,7 +2001,7 @@
                 {
                     "children": [],
                     "display": "Folgen sonstiger und nicht n\u00e4her bezeichneter zerebrovaskul\u00e4rer Krankheiten",
-                    "id": "0603a8a2-38b3-4bc7-9b79-972348393833",
+                    "id": "908d82d8-153a-434c-82e2-57ef6dc6bd03",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2015,7 +2015,7 @@
                 {
                     "children": [],
                     "display": "Krankheiten des Kreislaufsystems in der Eigenanamnese",
-                    "id": "137e6711-4a44-442c-89f3-a339898506a5",
+                    "id": "831c8ab1-315b-4966-93b2-cce0ecc83dc3",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2029,7 +2029,7 @@
                 {
                     "children": [],
                     "display": "Demenz bei Alzheimer-Krankheit [G30.- ]",
-                    "id": "dddb5a8e-4a53-489b-a5aa-9a9d2323965f",
+                    "id": "7da8c750-cc78-4b7d-83e7-304ead4d26f6",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2043,7 +2043,7 @@
                 {
                     "children": [],
                     "display": "Vaskul\u00e4re Demenz",
-                    "id": "74dde69b-66c3-4a0a-a3e8-7545b0793dd3",
+                    "id": "a4a63bf0-bf7c-4407-a165-1fb7a4f77b7a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2057,7 +2057,7 @@
                 {
                     "children": [],
                     "display": "Demenz bei anderenorts klassifizierten Krankheiten",
-                    "id": "6d99a742-2bdb-4860-8b87-de8e4db56099",
+                    "id": "6d4e6bcf-59ac-49ef-af52-8ecdb8dad783",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2071,7 +2071,7 @@
                 {
                     "children": [],
                     "display": "Nicht n\u00e4her bezeichnete Demenz",
-                    "id": "1e165438-a479-4ba7-84f3-4231da93bfa7",
+                    "id": "2599fe60-8d39-48f8-aa7e-8fcb9f90b780",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2085,7 +2085,7 @@
                 {
                     "children": [],
                     "display": "Sonstige nichtorganische psychotische St\u00f6rungen",
-                    "id": "3a073f7b-2116-4645-870d-2e9cb7a5f5bf",
+                    "id": "14dcc3fb-6ef6-4587-995d-2770053e3653",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2099,7 +2099,7 @@
                 {
                     "children": [],
                     "display": "Nicht n\u00e4her bezeichnete nichtorganische Psychose",
-                    "id": "ec4a4830-9769-4396-9cc3-72bf1bd0b705",
+                    "id": "8efdb643-1b5c-4b2f-b6b1-8c6f80af37c8",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2113,7 +2113,7 @@
                 {
                     "children": [],
                     "display": "Psychische St\u00f6rung ohne n\u00e4here Angabe",
-                    "id": "89484a77-1296-45a2-859d-915aa638b00e",
+                    "id": "60f8c74d-628f-45d6-95b5-647fff7df13d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2127,7 +2127,7 @@
                 {
                     "children": [],
                     "display": "Prim\u00e4res Parkinson-Syndrom",
-                    "id": "de4bae36-f8cf-41a5-961a-8fe5cd03b8ab",
+                    "id": "c6285b35-19aa-4888-869e-51505f4eebe7",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2141,7 +2141,7 @@
                 {
                     "children": [],
                     "display": "Multiple Sklerose [Encephalomyelitis disseminata]",
-                    "id": "20a8393d-4e11-4ac6-ac40-847137a71995",
+                    "id": "eb3bd251-685f-45d3-a2d0-f0408a3bd33a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2155,7 +2155,7 @@
                 {
                     "children": [],
                     "display": "Epilepsie",
-                    "id": "fa51d6e6-11a4-403e-b55f-5cc83c644fe2",
+                    "id": "e46f3e13-1a00-4327-93a9-bf94f5d4f255",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2169,7 +2169,7 @@
                 {
                     "children": [],
                     "display": "Status epilepticus",
-                    "id": "ccbc4a3b-5643-43ba-aea8-3577a682345e",
+                    "id": "29729249-ac6f-415c-8254-4b62999e369a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2183,7 +2183,7 @@
                 {
                     "children": [],
                     "display": "Migr\u00e4ne",
-                    "id": "422e71df-e8e4-41b8-b695-c0be2864e991",
+                    "id": "e5e18b31-0e15-4edb-9e8b-c2bb1454099b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2197,7 +2197,7 @@
                 {
                     "children": [],
                     "display": "Myasthenia gravis und sonstige neuromuskul\u00e4re Krankheiten",
-                    "id": "c6934b54-8d1f-4fed-86bc-966b584eede3",
+                    "id": "53994c33-2586-449e-9a18-0247d19b4cb1",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2211,7 +2211,7 @@
                 {
                     "children": [],
                     "display": "Prim\u00e4re Myopathien",
-                    "id": "b34b728a-3fd6-4b0b-817d-e933cf1f910e",
+                    "id": "bf94bd28-d14d-4cba-a383-587050905cca",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2225,7 +2225,7 @@
                 {
                     "children": [],
                     "display": "Sonstige Myopathien",
-                    "id": "61035767-f492-4c1b-baa8-feea8634b107",
+                    "id": "9adf1b1e-952d-4601-9e5b-8640d9dbeba1",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2239,7 +2239,7 @@
                 {
                     "children": [],
                     "display": "Krankheiten im Bereich der neuromuskul\u00e4ren Synapse und des Muskels bei anderenorts klassifizierten Krankheiten",
-                    "id": "b91b5e51-5e97-4847-9bed-b0ca36484736",
+                    "id": "cb18897b-ed58-449d-b869-03398e06f53d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2252,12 +2252,12 @@
                 }
             ],
             "display": "Chronische neurologische oder psychiatrische Erkrankungen",
-            "id": "961a1246-ecae-4833-93b9-303145c9bff3",
+            "id": "56241015-9678-4e2e-afd6-5e476a5f5e62",
             "leaf": false,
             "selectable": true,
             "termCode": {
-                "code": "74732009",
-                "display": "Mental disorder (disorder)",
+                "code": "128283000",
+                "display": "Chronic nervous system disorder (disorder)",
                 "system": "http://snomed.info/sct"
             },
             "timeRestrictionAllowed": false,
@@ -2266,7 +2266,7 @@
         {
             "children": [],
             "display": "Bestehende Sauerstoff- oder Beatmungstherapie",
-            "id": "0cb9eb08-8329-48c0-87a4-4488e5b201d3",
+            "id": "0dcfaee3-1550-4109-90be-98b92d8a563e",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -2282,7 +2282,7 @@
                 {
                     "children": [],
                     "display": "Chronische Nierenkrankheit, Stadium 1",
-                    "id": "c5bc5bbc-7e01-4d2c-afeb-b8537460f380",
+                    "id": "136cbbb2-53c9-459f-8f83-b0980cdebbd2",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2296,7 +2296,7 @@
                 {
                     "children": [],
                     "display": "Chronische Nierenkrankheit, Stadium 2",
-                    "id": "b6851761-888a-4c73-8748-3056399a74ef",
+                    "id": "c9a81418-ea6d-4092-b281-dfc31dc11b89",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2310,7 +2310,7 @@
                 {
                     "children": [],
                     "display": "Chronische Nierenkrankheit, Stadium 3",
-                    "id": "619b153c-7632-4181-9ec4-6a711b36ec48",
+                    "id": "6172ba52-2ec8-414b-bf2e-6b92370352c1",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2324,7 +2324,7 @@
                 {
                     "children": [],
                     "display": "Chronische Nierenkrankheit, Stadium 4",
-                    "id": "c846f53a-3383-4b07-9b0a-4ed95229ebf2",
+                    "id": "fccdca7f-a72e-4130-8d0a-ac63e737aa6b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2338,7 +2338,7 @@
                 {
                     "children": [],
                     "display": "Chronische Nierenkrankheit, Stadium 5",
-                    "id": "4c2610b7-6d79-4d79-a786-b43a439f21a9",
+                    "id": "586b1e1f-c11a-4a6e-a5f9-7131f24359c2",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2352,7 +2352,7 @@
                 {
                     "children": [],
                     "display": "Sonstige chronische Nierenkrankheit",
-                    "id": "f6075a27-fc1d-4abb-99e2-60db858ddd35",
+                    "id": "f1d02731-3fa4-467d-b121-c999cbc8e96c",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2366,7 +2366,7 @@
                 {
                     "children": [],
                     "display": "Chronische Nierenkrankheit, nicht n\u00e4her bezeichnet",
-                    "id": "9454d2a5-1a04-4fb1-8333-9c820f808fd1",
+                    "id": "467f0bf7-1463-49e4-b5a8-1b0c53e22226",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2380,7 +2380,7 @@
                 {
                     "children": [],
                     "display": "Langzeitige Abh\u00e4ngigkeit von Dialyse bei Niereninsuffizienz",
-                    "id": "13c6eaca-0578-45ef-a42b-ca6fcb042c20",
+                    "id": "ddd1a6c2-eb0f-4f82-a4d5-b55c00ba1009",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2393,7 +2393,7 @@
                 }
             ],
             "display": "Chronische Nierenerkrankungen",
-            "id": "7860302e-489f-4951-bf33-251cd26d1122",
+            "id": "9c578028-20ad-4550-bee4-ca3d37884ffb",
             "leaf": false,
             "selectable": true,
             "termCode": {
@@ -2407,7 +2407,7 @@
         {
             "children": [],
             "display": "Reiseaktivit\u00e4t",
-            "id": "3151f16e-8773-4846-b28c-00951380cfce",
+            "id": "b7cbb1d1-f3f0-47dc-8340-fa382cce8e60",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -2456,7 +2456,7 @@
                 {
                     "children": [],
                     "display": "Ulcus pepticum jejuni",
-                    "id": "0e67c948-323c-4482-b008-dd94af45528b",
+                    "id": "46e25726-c431-4a54-ba36-971d727b6edd",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2469,7 +2469,7 @@
                 }
             ],
             "display": "Magengeschw\u00fcre",
-            "id": "c0b79a46-458d-4b43-9a3a-656efc3e3d08",
+            "id": "7de1f89f-945d-44cc-810b-2f589d8bca11",
             "leaf": false,
             "selectable": true,
             "termCode": {
@@ -2485,7 +2485,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Human poliovirus antigen (medicinal product)",
-                    "id": "53e08df0-d9a4-4321-97c2-29bcf255ac7a",
+                    "id": "4197e8cf-6cca-4287-b273-e51be9b3dddb",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2499,7 +2499,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing only Severe acute respiratory syndrome coronavirus 2 antigen (medicinal product)",
-                    "id": "c0ed4903-92ea-431b-9ea7-ea6e8495548d",
+                    "id": "4543a498-408d-47d2-abf9-24bc99451855",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2513,7 +2513,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing only Severe acute respiratory syndrome coronavirus 2 messenger ribonucleic acid (medicinal product)",
-                    "id": "a6ce39ca-b35b-42b0-bc60-e3cbdf28abc5",
+                    "id": "1db1013a-310b-4880-886b-7d2861da184d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2527,7 +2527,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing only live attenuated Human alphaherpesvirus 3 antigen (medicinal product)",
-                    "id": "2b300795-2083-4231-af31-b739eb799434",
+                    "id": "03c8482b-84a4-4597-bfa7-3d1ce82906ec",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2541,7 +2541,7 @@
                 {
                     "children": [],
                     "display": "Typhus vaccine (product)",
-                    "id": "60cd47fb-03c1-4b05-a8cb-7258e8191e1a",
+                    "id": "16412105-f320-4ffb-8163-bc09debb64b6",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2555,7 +2555,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Bordetella pertussis antigen (medicinal product)",
-                    "id": "88b44718-7822-4a98-8665-973bf191dad9",
+                    "id": "1a8d4369-9fcd-4d56-8395-e88b53630a6f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2569,7 +2569,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product (medicinal product)",
-                    "id": "92500b67-e938-4012-bb9e-844fb7f2f81c",
+                    "id": "a88b32cc-b8a0-4e0d-9a99-e3aa6751326c",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2583,7 +2583,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Hepatitis B virus antigen (medicinal product)",
-                    "id": "9a00f456-43f0-44f7-ac56-20d32f0dc4ef",
+                    "id": "59286bcc-5351-4dec-b16a-ffe0582c415c",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2597,7 +2597,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Hepatitis A virus antigen (medicinal product)",
-                    "id": "6184441f-a68c-4bd4-8b2f-c65a71ff6715",
+                    "id": "1673a3d7-463c-40c2-9e06-0719860193d0",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2611,7 +2611,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Influenza virus antigen (medicinal product)",
-                    "id": "1a34fa45-ee85-4f3e-acbc-e22d47fe5513",
+                    "id": "3b37db5d-3a6a-4889-a466-dcea6afdfdb4",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2625,7 +2625,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Japanese encephalitis virus antigen (medicinal product)",
-                    "id": "cce2cef0-43f4-416c-92a1-daa33cf175f3",
+                    "id": "cf220fac-e675-4118-b904-53363dad3e24",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2639,7 +2639,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Human papillomavirus antigen (medicinal product)",
-                    "id": "0eb79a45-0bb3-49d8-8b69-3c8eecd86329",
+                    "id": "8aaef1e5-8ecc-4e72-b91c-ac61624a83c0",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2653,7 +2653,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Haemophilus influenzae type B antigen (medicinal product)",
-                    "id": "bd60df79-1f76-4133-bac7-0b48466987d4",
+                    "id": "c2cea5e8-a1d0-4706-bb05-957d5a8ca3c7",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2667,7 +2667,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Corynebacterium diphtheriae antigen (medicinal product)",
-                    "id": "7da7a6cf-cf6c-415c-b84b-d90469f91ddf",
+                    "id": "20a04fa7-f49e-44ca-9e24-6713725f7f7c",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2681,7 +2681,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Measles morbillivirus antigen (medicinal product)",
-                    "id": "37c99cbc-81d9-49fc-92d3-7240bbb710f4",
+                    "id": "ab30320a-535d-486d-9c58-38c23cd541f6",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2695,7 +2695,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Vibrio cholerae antigen (medicinal product)",
-                    "id": "ff5465b2-8ae1-46e3-bda1-81e6a32dd9fd",
+                    "id": "f00c5e77-182e-43c7-89df-446e25042e58",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2709,7 +2709,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Bacillus anthracis antigen (medicinal product)",
-                    "id": "f539679a-0c8a-4fa3-9b66-6365fffc83b8",
+                    "id": "9142fedc-fadf-404f-97f5-f4e0a9bdd9ef",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2723,7 +2723,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Yellow fever virus antigen (medicinal product)",
-                    "id": "37f4cdd5-055d-4fef-886d-e1df4c20d282",
+                    "id": "77a6669d-ae42-436f-96cd-3ed416bdea7c",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2737,7 +2737,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Rotavirus antigen (medicinal product)",
-                    "id": "1ba804e1-4c53-46d0-afde-dbb9f40ceebc",
+                    "id": "aeddbb8e-d6e5-4ef0-a309-87b72b6d6916",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2751,7 +2751,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Rubella virus antigen (medicinal product)",
-                    "id": "3024523d-06a0-4251-b5ce-0e18e2b25d96",
+                    "id": "c8cd4377-7097-4e0f-b589-8e29f790c782",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2765,7 +2765,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Vaccinia virus antigen (medicinal product)",
-                    "id": "88d951dd-25b9-452a-83c6-527aae6baf22",
+                    "id": "b5a4796c-b391-4bae-9cdb-f1395e87da28",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2779,7 +2779,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Salmonella enterica subspecies enterica serovar Typhi antigen (medicinal product)",
-                    "id": "fc0ccb80-a651-4746-9ed7-1d9b292669c9",
+                    "id": "05aec9c8-429e-4f42-b479-3f20b6720d1f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2793,7 +2793,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Rabies lyssavirus antigen (medicinal product)",
-                    "id": "f242e28b-1561-455b-bc53-63fb1283e56d",
+                    "id": "163b0ef4-4a10-40b5-8c08-360ed47a8ad9",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2807,7 +2807,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Streptococcus pneumoniae antigen (medicinal product)",
-                    "id": "461e3af8-8eaa-490c-83fb-c281823afda2",
+                    "id": "a1302bf0-2e55-4c66-a6b4-550be0c65e57",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2821,7 +2821,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Neisseria meningitidis antigen (medicinal product)",
-                    "id": "ef78a038-9e8e-451b-abbd-3cfe1bf4e87d",
+                    "id": "16e23ca3-5a30-4c3c-9a59-6c2712b5e23c",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2835,7 +2835,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing live attenuated Mycobacterium bovis antigen (medicinal product)",
-                    "id": "73903370-22b9-4b37-8027-eb2d4e218394",
+                    "id": "008aa8e8-2813-4ad1-8bba-26efaf0c234b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2849,7 +2849,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Tick-borne encephalitis virus antigen (medicinal product)",
-                    "id": "927809d2-74c4-45ba-875e-b0539af20772",
+                    "id": "2a9d6161-d055-4a63-8d41-7984aa374f73",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2863,7 +2863,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Human alphaherpesvirus 3 antigen (medicinal product)",
-                    "id": "dee8d71a-7852-4512-b963-50603280ae82",
+                    "id": "b8bae834-ab98-4b91-b3ea-f47e1a4b4e06",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2877,7 +2877,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing only Haemophilus influenzae type B and Neisseria meningitidis serogroup C antigens (medicinal product)",
-                    "id": "46329cb6-3bc1-420c-b6e2-bcb9e9f2232b",
+                    "id": "3145a1d3-bad2-4c26-88ab-7228917f9c19",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2891,7 +2891,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Yersinia pestis antigen (medicinal product)",
-                    "id": "97994265-45bc-4ae1-9c90-a1fd5d9ee47e",
+                    "id": "ea5a515f-6992-461c-bda0-bade4131595d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2905,7 +2905,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing Clostridium tetani antigen (medicinal product)",
-                    "id": "19751515-920a-4fdc-a947-c9dcc0811b3f",
+                    "id": "70e1bf8f-1921-44a9-8fc4-fa6e40f683cf",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2919,7 +2919,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing only live attenuated Mumps orthorubulavirus antigen (medicinal product)",
-                    "id": "46a6cbf9-4b62-48d8-a923-224e633ea085",
+                    "id": "f70d1baf-60c4-4bc9-bfe2-ed7bf501be34",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2933,7 +2933,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing only Hepatitis A and Hepatitis B virus antigens (medicinal product)",
-                    "id": "c08a9c9c-b6a9-406b-868d-4227a0e9fc5d",
+                    "id": "ecee2a4c-2860-4ea2-8322-dafa053d264b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2947,7 +2947,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing only Hepatitis A virus and Salmonella enterica subspecies enterica serovar Typhi antigens (medicinal product)",
-                    "id": "65282a68-f60b-4c20-9549-31701bbdb7bc",
+                    "id": "55676a7d-88ea-41a4-9a07-bba5358bb0ba",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2961,7 +2961,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing only Haemophilus influenzae type B and Hepatitis B virus antigens (medicinal product)",
-                    "id": "7daab4d7-1585-4bcf-994f-2946a64f7c07",
+                    "id": "cf9c3321-be61-4f0c-8052-38893b41a330",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2975,7 +2975,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing only Clostridium tetani and Corynebacterium diphtheriae antigens (medicinal product)",
-                    "id": "e777d12d-adc5-46a3-b44c-9861d1978185",
+                    "id": "cc398e39-4534-4af1-abf9-6b9dcb7d746d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2989,7 +2989,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing only Measles morbillivirus and Mumps orthorubulavirus and Rubella virus antigens (medicinal product)",
-                    "id": "fd381a6f-8323-4fee-b0ca-4adf22e32129",
+                    "id": "82745a37-14b1-4c60-8307-0f0b462e3384",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3003,7 +3003,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing only Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens (medicinal product)",
-                    "id": "62082e1a-6adf-400d-bcb8-3f4308b34c28",
+                    "id": "b96e6c40-bc75-4871-a819-1862c965aa75",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3017,7 +3017,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens (medicinal product)",
-                    "id": "6ccd58c8-3ee2-4855-9853-defbe48d4c96",
+                    "id": "a44a4263-4b64-476b-bb9e-64baa8b083b7",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3031,7 +3031,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens (medicinal product)",
-                    "id": "183419aa-39fc-4a79-9803-1374e0b41ed7",
+                    "id": "304df575-e295-41e0-adc0-8279e8349d20",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3045,7 +3045,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Human poliovirus antigens (medicinal product)",
-                    "id": "e5df72e6-d3a5-4db6-b743-79b05f793499",
+                    "id": "a2e3123e-5d9c-426d-87e9-d2cc9731a895",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3059,7 +3059,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Hepatitis B virus and inactivated whole Human poliovirus antigens (medicinal product)",
-                    "id": "7ba35dd9-d3bf-4e41-9895-cfe3b9688169",
+                    "id": "272f33da-61bf-4049-9ad8-20864e742ca9",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3073,7 +3073,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Hepatitis B virus and Human poliovirus antigens (medicinal product)",
-                    "id": "8f5fa082-650b-40b2-8ef8-c59ba231db95",
+                    "id": "0de20e81-1614-43a5-bf91-f1ac49166423",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3087,7 +3087,7 @@
                 {
                     "children": [],
                     "display": "Vaccine product containing only Human alphaherpesvirus 3 and Measles morbillivirus and Mumps orthorubulavirus and Rubella virus antigens (medicinal product)",
-                    "id": "22ed024e-e906-4cae-87d9-6281133a1ab3",
+                    "id": "185647c3-7d60-4874-b924-c6094dd73c81",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3100,7 +3100,7 @@
                 }
             ],
             "display": "Impfungen",
-            "id": "816a103c-cdfe-45e8-9a16-4fb29d94009f",
+            "id": "b1e70913-0c71-4ae8-8a59-9e7c74710fa9",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -3113,7 +3113,7 @@
         }
     ],
     "display": "Anamnese / Risikofaktoren",
-    "id": "44c3154e-f1e0-4cd2-a37e-acc1a5515b8b",
+    "id": "fa699c53-c0fc-4a92-b488-c7e7aad6ba13",
     "leaf": false,
     "selectable": false,
     "termCode": {

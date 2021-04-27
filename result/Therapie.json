@@ -3,7 +3,7 @@
         {
             "children": [],
             "display": "Dialyse / H\u00e4mofiltration",
-            "id": "6f41010d-f9ba-4e73-b6cb-00fe570ebd99",
+            "id": "8ed6e5cf-022c-4326-8f1a-633987b46f91",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -17,7 +17,7 @@
         {
             "children": [],
             "display": "Apherese",
-            "id": "3c7c4b06-404f-4f0b-ac57-16fabe3fb11d",
+            "id": "5eac113d-d576-4950-b9cd-4ef039007e68",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -31,7 +31,7 @@
         {
             "children": [],
             "display": "Bauchlage",
-            "id": "c053edf3-378c-400e-bd15-69e0020a9fb5",
+            "id": "16f4c942-303b-4386-b8da-5fefacdf94df",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -45,7 +45,7 @@
         {
             "children": [],
             "display": "ECMO-Therapie",
-            "id": "724619d4-2ec1-4702-9892-876b241916d0",
+            "id": "8dad36a2-4b46-4cf0-8059-a9eed62ec0f7",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -59,7 +59,7 @@
         {
             "children": [],
             "display": "Liegt der Patient auf der Intensivstation?",
-            "id": "4d24a663-4d5f-4109-8b97-193f38a9e7fe",
+            "id": "446cd455-64f5-44c6-9d76-f9d94fd39cb7",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -106,7 +106,7 @@
         {
             "children": [],
             "display": "Beatmungstherapie",
-            "id": "3db9c820-250c-41f4-9869-50e35653ede1",
+            "id": "5f2ccf4c-4a49-417c-9f3d-069dd1bae7b7",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -119,7 +119,7 @@
         }
     ],
     "display": "Therapie",
-    "id": "78d169ff-8cfe-41f4-bcf9-97595f8e33f8",
+    "id": "793a7f6c-3b6d-487b-ad75-d9c43b51cd0c",
     "leaf": false,
     "selectable": false,
     "termCode": {
