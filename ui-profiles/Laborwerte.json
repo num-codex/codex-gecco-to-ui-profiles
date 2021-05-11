@@ -5,7 +5,7 @@
                 {
                     "children": [],
                     "display": "C reactive protein [Mass/volume] in Capillary blood",
-                    "id": "94b22913-ce30-48cc-9284-2c994f1be29b",
+                    "id": "ab6453f7-0ebb-46f6-9d2e-703ce44a3f7f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -39,7 +39,7 @@
                 {
                     "children": [],
                     "display": "C reactive protein [Mass/volume] in Blood by High sensitivity method",
-                    "id": "feeeaabd-0f2d-4938-8343-d912f4c88349",
+                    "id": "29bf1a6a-a811-4dd5-9c7c-0bfa7608a7ae",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -73,7 +73,7 @@
                 {
                     "children": [],
                     "display": "C reactive protein [Moles/volume] in Serum or Plasma by High sensitivity method",
-                    "id": "46856146-b4e1-4568-8420-677edf465ef0",
+                    "id": "44d1d963-6d9d-492e-8eab-27999c7235cd",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -107,7 +107,7 @@
                 {
                     "children": [],
                     "display": "C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method",
-                    "id": "a93bd395-4fdd-4ad3-b55b-c72273c055bb",
+                    "id": "aab1c260-0248-4a6c-a4a2-1a93da26b645",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -141,7 +141,7 @@
                 {
                     "children": [],
                     "display": "C reactive protein [Mass/volume] in Serum or Plasma",
-                    "id": "7b3a2113-1d08-45c0-b74d-ff58b8ee8291",
+                    "id": "a8a778b8-1da7-4aa9-a578-466484d09bb7",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -175,7 +175,7 @@
                 {
                     "children": [],
                     "display": "C reactive protein [Moles/volume] in Serum or Plasma",
-                    "id": "de415017-e3d5-479b-af47-210e7d58bcc7",
+                    "id": "7f48cdb6-1953-46f5-93d5-81dc7a2dd03d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -208,7 +208,7 @@
                 }
             ],
             "display": "CRP",
-            "id": "6dd71193-df20-453b-970c-34dc78a709d1",
+            "id": "475490c6-3051-45f2-b63e-f1d4b4ee97d7",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -244,7 +244,7 @@
                 {
                     "children": [],
                     "display": "Ferritin [Mass/volume] in Serum or Plasma by Immunoassay",
-                    "id": "1c1aa20a-72db-4283-969a-7925bc89693f",
+                    "id": "29686d54-c913-47dd-a870-0b47561a7c70",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -270,7 +270,7 @@
                 {
                     "children": [],
                     "display": "Ferritin goal [Mass/volume] Serum or Plasma",
-                    "id": "98c7057e-4020-4d68-b330-efb12b980c52",
+                    "id": "5ab0b3ba-e158-419e-9d41-9d39961bea06",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -296,7 +296,7 @@
                 {
                     "children": [],
                     "display": "Ferritin [Moles/volume] in Serum or Plasma",
-                    "id": "6aee20cd-f777-41df-8d08-3105898e8a74",
+                    "id": "ee5d3981-c3f3-4ca7-b2a8-611e0487b900",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -322,7 +322,7 @@
                 {
                     "children": [],
                     "display": "Ferritin [Mass/volume] in Serum or Plasma",
-                    "id": "7a9a81bb-4b88-4508-beaa-d73673eb4052",
+                    "id": "3a160338-ed95-4173-b57f-7479142fbfa5",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -348,7 +348,7 @@
                 {
                     "children": [],
                     "display": "Ferritin [Mass/volume] in Blood",
-                    "id": "b24eed76-e3cf-4dc7-a22d-ed55945ec3dc",
+                    "id": "77d1f9fe-b7af-4b23-a4ce-3cb8dd69789e",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -373,7 +373,7 @@
                 }
             ],
             "display": "Ferritin",
-            "id": "cf95f799-08b0-4a26-9c08-64cebf75084c",
+            "id": "d42b0725-7b8a-48fd-8a1c-2d18eb058998",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -401,7 +401,7 @@
                 {
                     "children": [],
                     "display": "Bilirubin.total [Mass/volume] in Venous blood",
-                    "id": "6c72e779-a9ab-4440-a7e4-06d44619d7e4",
+                    "id": "6d7ac3c2-68af-469e-923f-62afeec59392",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -431,7 +431,7 @@
                 {
                     "children": [],
                     "display": "Bilirubin.total [Mass/volume] in Arterial blood",
-                    "id": "ffb00f1d-6260-467c-9d02-077a0b38883a",
+                    "id": "5fb3564d-a243-4317-812d-8501f6ad459d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -461,7 +461,7 @@
                 {
                     "children": [],
                     "display": "Bilirubin.total [Mass/volume] in Blood",
-                    "id": "6f03c8da-e7a5-4334-8cbb-5199d2c1ecb1",
+                    "id": "791adf89-6f5f-4c02-9fb2-b972424a132d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -491,7 +491,7 @@
                 {
                     "children": [],
                     "display": "Bilirubin.total [Moles/volume] in Serum or Plasma",
-                    "id": "c58dac1a-42d0-4b91-aaca-789746a9bed8",
+                    "id": "3a72008c-54df-4159-9913-d3b1197a9166",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -521,7 +521,7 @@
                 {
                     "children": [],
                     "display": "Bilirubin.indirect [Mass/volume] in Serum or Plasma",
-                    "id": "7287fcfe-4285-4cf5-a3ad-337f238f2c4e",
+                    "id": "d3b57cdc-8888-4c26-8b1e-92f1f1a1cc57",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -551,7 +551,7 @@
                 {
                     "children": [],
                     "display": "Bilirubin.total [Mass/volume] in Serum or Plasma",
-                    "id": "1f0cd5e4-bd2f-4cb6-a38a-2cdd734c90a5",
+                    "id": "54f55d70-7223-4bc3-93b2-44a48ac2785e",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -580,7 +580,7 @@
                 }
             ],
             "display": "Bilirubin",
-            "id": "3c7f281f-0473-4748-aabb-3d204663a289",
+            "id": "0f00217a-692a-4edf-b81b-d5888d7ef376",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -612,7 +612,7 @@
                 {
                     "children": [],
                     "display": "Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma",
-                    "id": "0d7fd98f-01db-4720-9e89-dae36abce807",
+                    "id": "c920a010-d698-41b6-a4fa-ec7a2f6e4e16",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -646,7 +646,7 @@
                 {
                     "children": [],
                     "display": "Fibrin D-dimer DDU [Mass/volume] in Platelet poor plasma",
-                    "id": "9f8925bc-c71e-481f-bc90-43e4dd03255d",
+                    "id": "c29360e9-901b-477b-afe3-a225e913bb0f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -680,7 +680,7 @@
                 {
                     "children": [],
                     "display": "Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma by Immunoassay",
-                    "id": "68ca8896-dd02-4785-9677-67ff5f780a6b",
+                    "id": "dff56bae-b94f-4f42-976a-db91f98aac91",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -714,7 +714,7 @@
                 {
                     "children": [],
                     "display": "Short Fibrin D-dimer FEU and DDU panel - Platelet poor plasma",
-                    "id": "50892047-b077-4370-bd97-6a91b6a02f03",
+                    "id": "45374402-5b03-4df5-a061-1e81f134aa6b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -748,7 +748,7 @@
                 {
                     "children": [],
                     "display": "Fibrin D-dimer FEU [Mass/volume] in Blood by Immunoassay",
-                    "id": "011356d9-e4ca-4284-a42d-880cef4ecf57",
+                    "id": "fc505872-a450-4a5c-9a65-ef10b21b4758",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -782,7 +782,7 @@
                 {
                     "children": [],
                     "display": "Fibrin D-dimer [Units/volume] in Platelet poor plasma",
-                    "id": "ad502aed-7a03-44ae-a322-69b54ce05c67",
+                    "id": "413e47b1-34e7-4296-a493-d54b6d4bc1ab",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -816,7 +816,7 @@
                 {
                     "children": [],
                     "display": "Fibrin D-dimer DDU [Mass/volume] in Blood by Immunoassay",
-                    "id": "0f31fed4-0f57-4d84-b8f5-41c10c55c61a",
+                    "id": "1092fc54-bdde-422b-842b-b7b3f14914ce",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -850,7 +850,7 @@
                 {
                     "children": [],
                     "display": "Fibrin D-dimer [Titer] in Platelet poor plasma",
-                    "id": "cc92469a-fdb1-42f1-b9e4-e68f23e176ae",
+                    "id": "e256c482-4fd7-4894-b74d-eefab6c461e3",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -884,7 +884,7 @@
                 {
                     "children": [],
                     "display": "Fibrin D-dimer [Units/volume] in Platelet poor plasma by Immunoassay",
-                    "id": "b6e3bc6e-a360-4899-aa19-12bfccbf3839",
+                    "id": "e5986415-d37a-4efa-8761-fed6a26b9502",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -918,7 +918,7 @@
                 {
                     "children": [],
                     "display": "Fibrin D-dimer DDU [Mass/volume] in Platelet poor plasma by Immunoassay",
-                    "id": "ebca0f53-6df8-4a9a-92e0-0b242a4becf3",
+                    "id": "e849c354-8131-43b8-a959-0599a67f1906",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -951,7 +951,7 @@
                 }
             ],
             "display": "D-dimer",
-            "id": "7b44d5ea-f435-419a-b787-7d9edc44950f",
+            "id": "87f3da46-7c6d-4c6a-a369-6222d96332e4",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -987,7 +987,7 @@
                 {
                     "children": [],
                     "display": "Gamma glutamyl transferase/Aspartate aminotransferase [Enzymatic activity ratio] in Serum or Plasma",
-                    "id": "3999fa3b-c2ec-4ce8-8d84-41cfcd338e31",
+                    "id": "504d3273-954f-4782-8cff-70a92da5ee64",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1013,7 +1013,7 @@
                 {
                     "children": [],
                     "display": "Gamma glutamyl transferase [Enzymatic activity/volume] in Serum or Plasma",
-                    "id": "caa8c45f-73d6-442f-a011-22af8610d7ec",
+                    "id": "0400cea0-4cd1-4ed1-a506-d3fde8909f60",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1038,7 +1038,7 @@
                 }
             ],
             "display": "Gamma-GT",
-            "id": "e2e8861f-56df-4641-8dc2-b4268722fa9c",
+            "id": "45bb49b1-732a-4f2a-974b-cc7cef9d562f",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -1066,7 +1066,7 @@
                 {
                     "children": [],
                     "display": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma by No addition of P-5'-P",
-                    "id": "1f4061b5-4805-447a-9d2d-205a0ac00749",
+                    "id": "add00d11-4a34-4111-bfe3-328f45253efd",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1092,7 +1092,7 @@
                 {
                     "children": [],
                     "display": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma by With P-5'-P",
-                    "id": "358a51b3-a886-4ecb-bcd8-4c71f76100f7",
+                    "id": "c93bb43c-466e-4e1a-846f-efdaf21d5d74",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1118,7 +1118,7 @@
                 {
                     "children": [],
                     "display": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
-                    "id": "2559aa9b-4127-4479-a2b1-df2821073f26",
+                    "id": "cdec6d6a-c2bd-421f-9ecf-004551398fe0",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1143,7 +1143,7 @@
                 }
             ],
             "display": "GOT/AST",
-            "id": "482ef526-a141-401e-b793-21ccac3b22bf",
+            "id": "da478861-9e5d-4fb0-a705-5c0e24a6c62c",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -1171,7 +1171,7 @@
                 {
                     "children": [],
                     "display": "Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma",
-                    "id": "89094350-f49c-458c-b5ae-03306103e8d3",
+                    "id": "45b6609e-1a7c-4ece-b8b0-7a5e0351ec98",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1197,7 +1197,7 @@
                 {
                     "children": [],
                     "display": "Lactate dehydrogenase [Enzymatic activity/volume] in Body fluid by Pyruvate to lactate reaction",
-                    "id": "1a769698-a8b6-4653-b749-e601c8b7fab0",
+                    "id": "b7d606dc-a975-4bc3-9dea-365629395dfa",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1223,7 +1223,7 @@
                 {
                     "children": [],
                     "display": "Lactate dehydrogenase [Enzymatic activity/volume] in Body fluid by Lactate to pyruvate reaction",
-                    "id": "f6e63b8c-025e-4e5d-905c-fdeb4f1d7b1c",
+                    "id": "7b55fcb4-0255-488b-8038-23e532d392c5",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1249,7 +1249,7 @@
                 {
                     "children": [],
                     "display": "Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction",
-                    "id": "ec85fd3e-5077-4a6d-ace3-e22b42724109",
+                    "id": "b7dd70c9-e7cc-4f50-b23b-b0353c01b062",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1275,7 +1275,7 @@
                 {
                     "children": [],
                     "display": "Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Pyruvate to lactate reaction",
-                    "id": "0357e17d-6596-41f0-8856-17cbb712c2af",
+                    "id": "cab2d166-b265-4215-bb9d-c99164fd6b04",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1300,7 +1300,7 @@
                 }
             ],
             "display": "LDH",
-            "id": "b4f20167-846b-44c2-944b-9ce1dca4633b",
+            "id": "242d1e5d-67c8-4b09-a489-c7eae4dc6442",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -1328,7 +1328,7 @@
                 {
                     "children": [],
                     "display": "Troponin I.cardiac [Mass/volume] in Serum or Plasma by Detection limit <= 0.01 ng/mL",
-                    "id": "4fe24859-9d99-4c8e-8012-aa6eeb2a5a14",
+                    "id": "5032dd0b-77fe-406b-9dad-baf36307ac1d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1362,7 +1362,7 @@
                 {
                     "children": [],
                     "display": "Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method",
-                    "id": "bc28d40c-4292-447a-9360-124f43f076f8",
+                    "id": "5d1a9815-1fca-4087-bf28-a7bc4dc23fe4",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1396,7 +1396,7 @@
                 {
                     "children": [],
                     "display": "Troponin T.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method",
-                    "id": "7f8ecd31-1815-45e2-865e-b2fe8307af4b",
+                    "id": "4313422d-2153-4388-9a7c-9479f5f9ab4c",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1430,7 +1430,7 @@
                 {
                     "children": [],
                     "display": "Troponin T.cardiac [Mass/volume] in Serum or Plasma",
-                    "id": "892a3a9c-73ee-44e0-933a-d5f0a05c64fd",
+                    "id": "a93d96f4-b3df-457c-9460-892916a462a4",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1464,7 +1464,7 @@
                 {
                     "children": [],
                     "display": "Troponin T.cardiac [Mass/volume] in Venous blood",
-                    "id": "6a992589-9ff7-4b4d-8549-73929d026d1e",
+                    "id": "65342dc1-ef63-41bd-8c8b-cd94c6e42a5f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1498,7 +1498,7 @@
                 {
                     "children": [],
                     "display": "Troponin T.cardiac [Mass/volume] in Blood",
-                    "id": "06b6ccb1-68a6-44e2-8c63-b57b186bca8a",
+                    "id": "353fba23-fc1a-4dd3-a710-db9be67f5457",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1532,7 +1532,7 @@
                 {
                     "children": [],
                     "display": "Troponin I.cardiac [Mass/volume] in Blood",
-                    "id": "19c92163-29ea-497a-919a-b1ace1348aea",
+                    "id": "0d163e26-307b-4279-a5a8-b15402eb3976",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1566,7 +1566,7 @@
                 {
                     "children": [],
                     "display": "Troponin I.cardiac [Mass/volume] in Serum or Plasma",
-                    "id": "dd2d1ce6-57c0-488c-9b5f-0eb4bc51a2e2",
+                    "id": "6ff59ac7-ade3-48b2-b180-fbd3570e4703",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1599,7 +1599,7 @@
                 }
             ],
             "display": "Kardiale Troponine",
-            "id": "0f17c781-c4d8-4a39-8489-8387fe304fd5",
+            "id": "5dc8ffc4-af08-478c-99eb-730bdbf07a64",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -1635,7 +1635,7 @@
                 {
                     "children": [],
                     "display": "Hemoglobin [Mass/volume] in Venous blood by Oximetry",
-                    "id": "bc7a03db-3e1b-4e25-abaa-a57db8ecd1d6",
+                    "id": "522b7de7-10de-43da-a076-916639a38c45",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1669,7 +1669,7 @@
                 {
                     "children": [],
                     "display": "Hemoglobin [Mass/volume] in Blood",
-                    "id": "d76119f5-e4c4-4a35-9b35-d3d85355b263",
+                    "id": "3ff8cdae-7990-41bb-8676-eba75ea402fd",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1703,7 +1703,7 @@
                 {
                     "children": [],
                     "display": "Hemoglobin [Mass/volume] in Blood by calculation",
-                    "id": "a1a5419e-114f-4341-9878-32af8f2fed2d",
+                    "id": "55f9fe68-e307-4d33-b392-2d0a11f47e32",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1737,7 +1737,7 @@
                 {
                     "children": [],
                     "display": "Hemoglobin [Mass/volume] in Blood by Oximetry",
-                    "id": "d62b92b4-915c-4a38-8eaa-47a2b7a22bc2",
+                    "id": "b454e24b-019b-4a10-a3b0-e2bb7c63c1c2",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1771,7 +1771,7 @@
                 {
                     "children": [],
                     "display": "Hemoglobin [Moles/volume] in Arterial blood",
-                    "id": "ceab19b5-dd80-4224-b163-0f569cf5de0d",
+                    "id": "b1349581-f762-4dc5-a7fb-0d555e061b1e",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1805,7 +1805,7 @@
                 {
                     "children": [],
                     "display": "Hemoglobin [Mass/volume] in Arterial blood by Oximetry",
-                    "id": "c7098a3d-87cc-4e9b-80ea-24a84a26197d",
+                    "id": "df29e059-9245-4f09-9857-e116b1c284d6",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1839,7 +1839,7 @@
                 {
                     "children": [],
                     "display": "Hemoglobin [Mass/volume] in Arterial blood",
-                    "id": "5b91a770-160f-4c82-8aac-2f8c260f8723",
+                    "id": "74d18d0c-fe19-41ca-9381-eb68b6dca67f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1873,7 +1873,7 @@
                 {
                     "children": [],
                     "display": "Hemoglobin [Mass/volume] in Venous blood",
-                    "id": "a5b49fa3-d40f-4929-abc6-b65e7c39921f",
+                    "id": "de14c020-8bcb-4921-a5fb-0d7b7fa057b7",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1907,7 +1907,7 @@
                 {
                     "children": [],
                     "display": "Hemoglobin [Mass/volume] in Mixed venous blood",
-                    "id": "922e70eb-235d-4d68-b349-d42c3916b136",
+                    "id": "06ef40e9-9f63-4639-a78a-083d6d3d05fe",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1941,7 +1941,7 @@
                 {
                     "children": [],
                     "display": "Hemoglobin [Mass/volume] in Capillary blood",
-                    "id": "8d83d70f-db16-40ef-bf2c-e200b2ed69ff",
+                    "id": "824a9fac-d1ee-47af-882e-8f47b3bf4826",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1975,7 +1975,7 @@
                 {
                     "children": [],
                     "display": "Hemoglobin [Mass/volume] in Mixed venous blood by Oximetry",
-                    "id": "a95fef89-dead-47d1-a844-9ef726589eef",
+                    "id": "637adf74-e7e4-4b30-8ba3-f13273f4fdde",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2009,7 +2009,7 @@
                 {
                     "children": [],
                     "display": "Hemoglobin [Moles/volume] in Blood",
-                    "id": "24315850-d2ac-4a4a-acdb-5a72c6f74ab5",
+                    "id": "8d9a416f-3af2-4e25-86bc-05380d91813d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2042,7 +2042,7 @@
                 }
             ],
             "display": "H\u00e4moglobin",
-            "id": "c94a8625-4ee7-4f48-96e6-21e724433c23",
+            "id": "4790467e-bda1-471e-a50e-75321c745a44",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -2078,7 +2078,7 @@
                 {
                     "children": [],
                     "display": "Creatinine [Moles/volume] in Serum or Plasma",
-                    "id": "f95e2461-4a41-498c-b041-02a472a5d279",
+                    "id": "f995007e-d35e-4bcf-a0bc-e043fb925145",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2104,7 +2104,7 @@
                 {
                     "children": [],
                     "display": "Creatinine [Mass/volume] in Serum or Plasma",
-                    "id": "87f43078-b451-4a5f-a20a-cb7a2ac96aa2",
+                    "id": "4d9bf885-426b-47e9-ab07-687b455a936f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2130,7 +2130,7 @@
                 {
                     "children": [],
                     "display": "Creatinine [Mass/volume] in Arterial blood",
-                    "id": "8e34bf1b-37b3-451e-8efb-12655739d3a5",
+                    "id": "5caf9640-d586-4c5b-b617-09ba78ced9f3",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2156,7 +2156,7 @@
                 {
                     "children": [],
                     "display": "Creatinine [Moles/volume] in Body fluid",
-                    "id": "7453a0e2-443f-4b68-bcd5-7b23c5fe5aa2",
+                    "id": "e69a8933-f876-44ba-ad7a-a292863ccdbc",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2182,7 +2182,7 @@
                 {
                     "children": [],
                     "display": "Creatinine [Mass/volume] in Body fluid",
-                    "id": "a2fe9901-c827-48aa-aeb5-8fbbea0d2b0d",
+                    "id": "5ab6f69d-0939-4479-92a2-5d745ca89357",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2208,7 +2208,7 @@
                 {
                     "children": [],
                     "display": "Creatinine [Moles/volume] in Blood",
-                    "id": "23ca34aa-f668-4ecd-8ba8-e5ab9a1ba114",
+                    "id": "cd505f30-bbb3-4008-b1d1-95a042e3b1ae",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2234,7 +2234,7 @@
                 {
                     "children": [],
                     "display": "Creatinine [Mass/volume] in Blood",
-                    "id": "3f3b15c0-aac5-46f6-8112-f3740d0cc334",
+                    "id": "e4baf3c3-0813-4526-9067-41ceaa9d4c10",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2259,7 +2259,7 @@
                 }
             ],
             "display": "Kreatinin",
-            "id": "aab2b6f2-5625-48a1-be77-6e218ac10aa9",
+            "id": "92d4f92d-4b9e-49eb-be13-bf3cea91b0c5",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -2287,7 +2287,7 @@
                 {
                     "children": [],
                     "display": "Lactate [Mass/volume] in Serum or Plasma",
-                    "id": "15739e93-5d61-4f51-86ac-3eb48d34e6bc",
+                    "id": "8796204a-225b-4f25-b9af-c2628b74be7c",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2317,7 +2317,7 @@
                 {
                     "children": [],
                     "display": "Lactate [Mass/volume] in Arterial blood",
-                    "id": "ac18c512-6f2d-4553-af4f-dc3c0c55ba06",
+                    "id": "2de0fad7-812e-4d0f-ba08-7f0bab0d25f2",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2347,7 +2347,7 @@
                 {
                     "children": [],
                     "display": "Lactate [Moles/volume] in Serum or Plasma",
-                    "id": "629d120c-81ac-4bc9-82d6-2f0677febf43",
+                    "id": "ed6bf688-59d0-486b-9679-0b90fb2791df",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2377,7 +2377,7 @@
                 {
                     "children": [],
                     "display": "Lactate [Moles/volume] in Venous blood",
-                    "id": "b26686f0-9432-4b11-baeb-31556c70b404",
+                    "id": "41051c8e-f32f-49b0-809d-5b4cdabd7819",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2407,7 +2407,7 @@
                 {
                     "children": [],
                     "display": "Lactate [Moles/volume] in Arterial blood",
-                    "id": "e937b098-05ac-4a82-b52b-09aa1633d379",
+                    "id": "98918a17-1fff-4b16-96bd-66105eb58e73",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2437,7 +2437,7 @@
                 {
                     "children": [],
                     "display": "Lactate [Moles/volume] in Mixed venous blood",
-                    "id": "2a4d9eef-6900-4b18-8cda-392e6b85b2cc",
+                    "id": "5dab023c-69b4-4cf4-a14a-02fd915c0edf",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2467,7 +2467,7 @@
                 {
                     "children": [],
                     "display": "Lactate [Moles/volume] in Capillary blood",
-                    "id": "5e2f12c9-c5a2-40cb-8386-18e1b291b5da",
+                    "id": "ab92a923-e20f-4aba-9644-a442e73d3a12",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2497,7 +2497,7 @@
                 {
                     "children": [],
                     "display": "Lactate [Moles/volume] in Cerebral spinal fluid",
-                    "id": "01540505-c4ae-4d1e-8846-1b97cdcae5db",
+                    "id": "4df4d977-3edf-4320-970f-0c36ee68d269",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2527,7 +2527,7 @@
                 {
                     "children": [],
                     "display": "Lactate [Moles/volume] in Blood",
-                    "id": "da97b44f-3247-4241-80c3-1e6dc09d273e",
+                    "id": "5b5b5a52-6e35-4559-965a-17a1d1a9e403",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2557,7 +2557,7 @@
                 {
                     "children": [],
                     "display": "Lactate [Mass/volume] in Blood",
-                    "id": "219d0941-42de-404a-8997-b3bc093f6f5b",
+                    "id": "5bf0ebdb-e817-4761-b86c-b9b4a076f5c4",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2587,7 +2587,7 @@
                 {
                     "children": [],
                     "display": "Lactate [Mass/volume] in Cerebral spinal fluid",
-                    "id": "f8238bfb-4cf2-4fd4-972b-52afe49b2591",
+                    "id": "4619cc4e-1c45-47ce-9b52-e0911cdbfbfc",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2616,7 +2616,7 @@
                 }
             ],
             "display": "Laktat",
-            "id": "7a960eff-82d5-4b64-a4b9-c08101d51cf2",
+            "id": "960c8082-6779-4fad-9885-baa72869552c",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -2648,7 +2648,7 @@
                 {
                     "children": [],
                     "display": "Leukocytes [#/volume] in Blood by Manual count",
-                    "id": "5534f804-88b8-4093-9f1b-66ad3499b5f2",
+                    "id": "3512f736-caf0-42cb-a18e-3815bffb9c19",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2674,7 +2674,7 @@
                 {
                     "children": [],
                     "display": "Leukocytes [#/volume] in Blood by Automated count",
-                    "id": "23cf6519-299b-4faf-89d9-5fe2779c910e",
+                    "id": "a2052abd-0a37-4eaa-9f4c-aa6fd7103fa0",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2700,7 +2700,7 @@
                 {
                     "children": [],
                     "display": "Leukocytes [#/volume] in Blood by Estimate",
-                    "id": "9904ac8b-e50f-4657-9360-cfa45f67702d",
+                    "id": "9cd21c6e-fc2e-483d-aacb-45a300dcf3d9",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2726,7 +2726,7 @@
                 {
                     "children": [],
                     "display": "Leukocytes [#/volume] in Blood",
-                    "id": "4ebd979b-264d-4f6b-a41a-6e9970ea097d",
+                    "id": "99845666-ab69-4614-bdc4-f4de4c6176af",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2751,7 +2751,7 @@
                 }
             ],
             "display": "Leukozyten absolut",
-            "id": "da2c91e1-4030-4dd8-b420-aae404a72725",
+            "id": "0ba7e75c-f195-4b63-9539-6c20202942d8",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -2779,7 +2779,7 @@
                 {
                     "children": [],
                     "display": "Lymphocytes [#/volume] in Blood by Manual count",
-                    "id": "444307f0-d5fd-43bb-91e6-07dc0d2b3d86",
+                    "id": "a743eb34-b2ff-49c8-a86c-96c721f5bf1b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2805,7 +2805,7 @@
                 {
                     "children": [],
                     "display": "Lymphocytes [#/volume] in Blood by Automated count",
-                    "id": "e29031f3-d6f8-43fb-ae08-f8457b918318",
+                    "id": "4db7ffa9-e16b-4746-9ea0-65fdc8143b4c",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2831,7 +2831,7 @@
                 {
                     "children": [],
                     "display": "Lymphocytes [#/volume] in Blood by Flow cytometry (FC)",
-                    "id": "e2ba63a0-b263-476b-b4ec-63d553835bfe",
+                    "id": "3c3a01c7-f2c9-4efa-9a0d-a9615db379e9",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2857,7 +2857,7 @@
                 {
                     "children": [],
                     "display": "Lymphocytes [#/volume] in Blood",
-                    "id": "aed9999e-3022-47ec-a035-ebbc0b46b762",
+                    "id": "42ec9302-9a05-4552-87ec-11f0cad9bcc4",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2882,7 +2882,7 @@
                 }
             ],
             "display": "Lymphozyten absolut",
-            "id": "95f5e1d2-ae4f-4912-b86b-5c5be6668eb5",
+            "id": "72152198-32ab-4495-9254-1788a75430df",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -2910,7 +2910,7 @@
                 {
                     "children": [],
                     "display": "Neutrophils [#/volume] in Blood by Manual count",
-                    "id": "61241883-ae55-4034-b464-08d2d89e3383",
+                    "id": "cf9eb116-a3fa-4e5b-a902-23462c2105af",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2936,7 +2936,7 @@
                 {
                     "children": [],
                     "display": "Neutrophils [#/volume] in Blood by Automated count",
-                    "id": "ad5ce560-5aab-4385-b0cd-64279dfeddf8",
+                    "id": "b7e82ee2-3185-43e9-8c6c-1e8e727bc441",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2962,7 +2962,7 @@
                 {
                     "children": [],
                     "display": "Neutrophils [#/volume] in Blood",
-                    "id": "3638a3ee-5fdc-4d0c-8f8d-cac58289ed05",
+                    "id": "bb931a28-b713-43cb-8b41-0cbc38f47e7f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2987,7 +2987,7 @@
                 }
             ],
             "display": "Neutrophile absolut",
-            "id": "2a80181f-4f14-446c-b16b-1831f77fcedd",
+            "id": "24252532-4606-4015-9b98-35ef41dc4357",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -3015,7 +3015,7 @@
                 {
                     "children": [],
                     "display": "aPTT in Blood by Coagulation 1:1 saline",
-                    "id": "ee0c3299-5898-40be-85e5-f8d670526889",
+                    "id": "cc835025-576e-4e71-b67c-718b710a2aa4",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3041,7 +3041,7 @@
                 {
                     "children": [],
                     "display": "aPTT in Platelet poor plasma by Coagulation 1:1 saline",
-                    "id": "d317ed12-0f20-4571-8cc8-13933bbbd320",
+                    "id": "5361d2db-374a-4911-80aa-ff97573d858f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3067,7 +3067,7 @@
                 {
                     "children": [],
                     "display": "aPTT in Platelet poor plasma by Coagulation assay",
-                    "id": "297d5298-030b-4cd5-9776-636668657b7a",
+                    "id": "f7529b70-340d-4eca-b77e-ded7dfbe9288",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3093,7 +3093,7 @@
                 {
                     "children": [],
                     "display": "aPTT in Blood by Coagulation assay",
-                    "id": "f03cd2b3-b542-4cf4-9bb1-47525a18f1ab",
+                    "id": "034a15ad-6b51-4d55-be6e-2f061e03a87b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3118,7 +3118,7 @@
                 }
             ],
             "display": "PTT",
-            "id": "22ace638-61d0-47f2-842b-b2215ca8bc7f",
+            "id": "398f7117-25d5-460f-9844-45dc16901dc9",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -3146,7 +3146,7 @@
                 {
                     "children": [],
                     "display": "Platelets [#/volume] in Platelet rich plasma by Automated count",
-                    "id": "c8b3efcc-d415-483a-9914-ffc6262ade5d",
+                    "id": "a7fea7fb-da23-485b-9b82-07012fa42fef",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3172,7 +3172,7 @@
                 {
                     "children": [],
                     "display": "Platelets [#/volume] in Plasma by Automated count",
-                    "id": "cd503fd5-464b-4fd8-a185-17556d9ad439",
+                    "id": "1cb02626-0d3c-4b45-96f1-ef22f3b4469e",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3198,7 +3198,7 @@
                 {
                     "children": [],
                     "display": "Platelets [#/volume] in Plasma",
-                    "id": "8921bf7a-cf72-43bf-852d-22e2e0922dee",
+                    "id": "736c90d0-dd62-4cd3-975a-f6f245a1cbe8",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3224,7 +3224,7 @@
                 {
                     "children": [],
                     "display": "Platelets [#/volume] in Capillary blood by Manual count",
-                    "id": "f1058717-1d3c-4528-a8d6-709449000d0e",
+                    "id": "35038fe7-9bfc-4ab0-9488-68cdb04236d3",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3250,7 +3250,7 @@
                 {
                     "children": [],
                     "display": "Platelets [#/volume] in Blood by Manual count",
-                    "id": "d3d4481e-3657-42f1-9016-ef0b7034e0c0",
+                    "id": "350eec83-0571-4742-a91d-e3c1b52c5e40",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3276,7 +3276,7 @@
                 {
                     "children": [],
                     "display": "Platelets [#/volume] in Blood by Estimate",
-                    "id": "bc0a2594-0ed6-4d60-846b-e9734bda28cd",
+                    "id": "3db65f51-aeea-47d9-9997-e03bcc8c4080",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3302,7 +3302,7 @@
                 {
                     "children": [],
                     "display": "Platelets [#/volume] in Blood by Automated count",
-                    "id": "2686b0d2-46a9-4514-9c56-34fd12d419a0",
+                    "id": "d52dad28-5d41-46c9-8752-417fcbd7ce65",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3328,7 +3328,7 @@
                 {
                     "children": [],
                     "display": "Platelets [#/volume] in Blood",
-                    "id": "79896334-aafa-4969-b1b4-28359c10b6e4",
+                    "id": "6bd64c78-da85-4c4d-a2d2-1ba6857058dd",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3353,7 +3353,7 @@
                 }
             ],
             "display": "Thrombozyten absolut",
-            "id": "b15843af-5f3a-4444-914e-9bf58aa56459",
+            "id": "e87e6a59-7086-44b5-91a9-5f0a993c72ae",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -3381,7 +3381,7 @@
                 {
                     "children": [],
                     "display": "INR in Platelet poor plasma by Coagulation assay",
-                    "id": "aef345ec-d50b-43ad-9993-081c046a43b1",
+                    "id": "8ca685cf-6635-49ea-bd37-31df3f792845",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3407,7 +3407,7 @@
                 {
                     "children": [],
                     "display": "INR in Capillary blood by Coagulation assay",
-                    "id": "6215d4e1-bc17-4e18-bced-ac70c13cc7f1",
+                    "id": "746003fe-d13f-4bcf-b8c2-d628f14ef6c9",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3433,7 +3433,7 @@
                 {
                     "children": [],
                     "display": "INR in Blood by Coagulation assay",
-                    "id": "32530fdb-f427-4e27-ae0f-29d657be61b6",
+                    "id": "fba7ba09-80e7-4d45-b11d-3cf0fdb8d806",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3458,7 +3458,7 @@
                 }
             ],
             "display": "INR",
-            "id": "344f7877-3c21-4874-bf01-3d6ef3d92f6d",
+            "id": "5b0a1dd6-873e-4bcc-acc7-288b5b8a0889",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -3486,7 +3486,7 @@
                 {
                     "children": [],
                     "display": "Albumin [Mass/volume] in Blood by Bromocresol purple (BCP) dye binding method",
-                    "id": "ad86df60-85ee-4bea-9d32-692ebfed1899",
+                    "id": "24361790-3cd9-4dcf-8631-3fd76bcfb233",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3520,7 +3520,7 @@
                 {
                     "children": [],
                     "display": "Albumin [Moles/volume] in Serum or Plasma by Bromocresol green (BCG) dye binding method",
-                    "id": "a6dc7008-494c-44c7-91af-5a485fac890e",
+                    "id": "8540681c-a506-4291-8b2b-c5fcb303c0c0",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3554,7 +3554,7 @@
                 {
                     "children": [],
                     "display": "Albumin [Moles/volume] in Serum or Plasma by Bromocresol purple (BCP) dye binding method",
-                    "id": "ebcf15bc-c9ff-4b03-9e73-996ca09e16fe",
+                    "id": "f4353376-8f37-4603-8f2a-21bb740e214c",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3588,7 +3588,7 @@
                 {
                     "children": [],
                     "display": "Albumin [Mass/volume] in Serum or Plasma by Bromocresol purple (BCP) dye binding method",
-                    "id": "0102196a-ccc6-4687-86e5-06253eaf8e54",
+                    "id": "eeebc4a5-2a43-465c-9f97-c727642ad238",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3622,7 +3622,7 @@
                 {
                     "children": [],
                     "display": "Albumin [Mass/volume] in Serum or Plasma by Bromocresol green (BCG) dye binding method",
-                    "id": "5c4fd1d3-6325-445a-8d39-69fabb604485",
+                    "id": "d3559260-fd9e-4d43-83f4-ed1dd7cece15",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3656,7 +3656,7 @@
                 {
                     "children": [],
                     "display": "Albumin [Mass/volume] in Serum or Plasma by Electrophoresis",
-                    "id": "148d6e1f-baad-46bc-8205-7a133f9eb983",
+                    "id": "292ae79b-09fc-4920-8baa-f7ff390f84f8",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3690,7 +3690,7 @@
                 {
                     "children": [],
                     "display": "Albumin [Mass/volume] in Serum or Plasma",
-                    "id": "a7c915ac-78db-43eb-9c53-064f391a2640",
+                    "id": "b2777ef8-c41c-4f75-8764-0b88bfce2225",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3724,7 +3724,7 @@
                 {
                     "children": [],
                     "display": "Albumin [Moles/volume] in Serum or Plasma",
-                    "id": "02631702-fbab-43f5-8ba1-7a9a443d3e77",
+                    "id": "7e7d5d33-e9b7-49c5-b81b-dc5a0f4a19a6",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3757,7 +3757,7 @@
                 }
             ],
             "display": "Serum-Albumin",
-            "id": "79731143-a62f-413a-a620-71a330a80383",
+            "id": "a630b549-15aa-45d8-b5e5-5b93926601f4",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -3793,7 +3793,7 @@
                 {
                     "children": [],
                     "display": "Antithrombin actual/normal in Platelet poor plasma by Chromogenic method",
-                    "id": "686bc0a2-9038-446b-94d4-b789f62f5dc0",
+                    "id": "6b69f1cd-3d41-4d2c-b64e-efa06bf32d01",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3823,7 +3823,7 @@
                 {
                     "children": [],
                     "display": "Antithrombin [Moles/volume] in Platelet poor plasma by Chromogenic method",
-                    "id": "e0f52646-90c7-45db-b0a3-366243508f68",
+                    "id": "621006a6-9f8e-4edd-8010-2c99d2607f17",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3853,7 +3853,7 @@
                 {
                     "children": [],
                     "display": "Antithrombin in Platelet poor plasma by Chromo.no addition of heparin",
-                    "id": "efc26df1-1b44-46b0-8835-1e6e3cb6e6e3",
+                    "id": "1f4f6387-a3ea-41e3-ab97-02ad822dffce",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3883,7 +3883,7 @@
                 {
                     "children": [],
                     "display": "Antithrombin [Units/volume] in Platelet poor plasma by Chromogenic method",
-                    "id": "1ef2a6fd-aded-45ab-9491-698d6ed1fabb",
+                    "id": "c7aad701-ca83-4da1-a885-a8aab4e20a58",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3912,7 +3912,7 @@
                 }
             ],
             "display": "Antithrombin III",
-            "id": "f63f3ff0-9678-40a7-a7fa-d545e7f8df45",
+            "id": "bd2a15dc-be98-4b15-9956-15cbb1c34416",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -3944,7 +3944,7 @@
                 {
                     "children": [],
                     "display": "Procalcitonin [Mass/volume] in Serum or Plasma by Immunoassay",
-                    "id": "961d50f9-79ba-4ca9-a159-a25d7f632877",
+                    "id": "a57b16c2-e689-41e0-9caa-9734aa4f6203",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3970,7 +3970,7 @@
                 {
                     "children": [],
                     "display": "Procalcitonin [Mass/volume] in Serum or Plasma",
-                    "id": "15604259-04c5-4322-843b-1bb7855ab8e4",
+                    "id": "11362a6a-e366-42a1-ae10-13d5f73c79fc",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3995,7 +3995,7 @@
                 }
             ],
             "display": "PCT (Procalcitonin)",
-            "id": "be91431f-e30c-49ff-bcd4-15733f371103",
+            "id": "21a90f42-530f-4c68-af16-f4439de2a01e",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -4023,7 +4023,7 @@
                 {
                     "children": [],
                     "display": "Interleukin 6 [Presence] in Serum or Plasma",
-                    "id": "a79bfa74-11a6-4a38-b742-e039471a8e4f",
+                    "id": "c4862a61-a017-4a74-91e8-63b09cc8987e",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -4049,7 +4049,7 @@
                 {
                     "children": [],
                     "display": "Interleukin 6 [Mass/volume] in Serum or Plasma",
-                    "id": "4cebe072-ffe9-439b-b1dc-67d139175a9b",
+                    "id": "57634939-8132-4267-a5d5-6f9ec218bc3a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -4075,7 +4075,7 @@
                 {
                     "children": [],
                     "display": "Interleukin 6 [Mass/volume] in Cerebral spinal fluid",
-                    "id": "eef092ae-2545-4fe9-83b0-750187d8f6b3",
+                    "id": "f91d1ff8-6808-4a0b-9e2c-dbe7dc17fbf9",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -4101,7 +4101,7 @@
                 {
                     "children": [],
                     "display": "Interleukin 6 [Mass/volume] in Body fluid",
-                    "id": "8471ebc4-eceb-484f-b72f-dd864ee84e9f",
+                    "id": "99540625-71a1-4e1e-8011-f881411d413b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -4126,7 +4126,7 @@
                 }
             ],
             "display": "Il-6 (Interleukin 6)",
-            "id": "115fce32-21f1-4b05-a9e7-829d54ae8e48",
+            "id": "2fcf41bf-4dc2-46e5-bd88-bd492a58a034",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -4154,7 +4154,7 @@
                 {
                     "children": [],
                     "display": "Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma by Immunoassay",
-                    "id": "b258bf17-6866-4be3-872b-009b1ba51209",
+                    "id": "c98fe5af-bf86-48ac-8aba-a2eb17d7bd0a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -4180,7 +4180,7 @@
                 {
                     "children": [],
                     "display": "Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma",
-                    "id": "d3a27d63-b74d-4a99-bbfc-4eb29efc1495",
+                    "id": "3abe5467-d919-42fe-bbc1-b3486f51b628",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -4205,7 +4205,7 @@
                 }
             ],
             "display": "NT-pro-BNP",
-            "id": "43727cb0-0cb4-48bc-be86-3bdaed6ebcbf",
+            "id": "1d6ec2f8-bdaa-40ba-b387-76ea8cb546f9",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -4233,7 +4233,7 @@
                 {
                     "children": [],
                     "display": "Fibrinogen [Mass/volume] in Platelet poor plasma by Heat denaturation",
-                    "id": "c7c16cf7-d6fc-4da3-8898-cd8d446cdb98",
+                    "id": "a41aba66-25af-4de2-807c-cc7df8e4f577",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -4263,7 +4263,7 @@
                 {
                     "children": [],
                     "display": "Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation.derived",
-                    "id": "8fb8d3dd-56eb-4e8c-ae3a-f0a82dcaffd6",
+                    "id": "2502afbc-8b1d-44c1-ad53-f3c708fc4cda",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -4293,7 +4293,7 @@
                 {
                     "children": [],
                     "display": "Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation assay",
-                    "id": "d93103b0-893d-45ce-a74a-a97f1bd29a49",
+                    "id": "f1f866f6-de5b-4613-a72c-c2424fba1e22",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -4322,7 +4322,7 @@
                 }
             ],
             "display": "Fibrinogen",
-            "id": "dced83f3-5e01-49a0-bd7b-bb9ae692dcc1",
+            "id": "e27bcf49-350c-422e-9c3b-08923274f546",
             "leaf": false,
             "selectable": false,
             "termCode": {
@@ -4352,7 +4352,7 @@
         {
             "children": [],
             "display": "SARS-CoV-2-RT-PCR",
-            "id": "50de5bcd-22a9-4985-980d-0828eba5e08f",
+            "id": "c29ca70a-e69c-47e6-8e65-22ddb99440fa",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -4389,7 +4389,7 @@
         {
             "children": [],
             "display": "SARS-CoV-2 (COVID-19) IgG IA Ql",
-            "id": "fc86f264-66da-448b-a8e6-6c4162580f5d",
+            "id": "827f8749-dcb2-481d-8912-868cb53080f7",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -4426,7 +4426,7 @@
         {
             "children": [],
             "display": "SARS-CoV-2 (COVID-19) IgG IA Qn",
-            "id": "cf82c9b0-3c00-4be0-84cd-1684305618fe",
+            "id": "15ad2c4c-501c-4377-a3f5-433f7e13fe56",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -4452,7 +4452,7 @@
         {
             "children": [],
             "display": "SARS-CoV-2 (COVID-19) IgM IA Ql",
-            "id": "3165aa9b-0ea0-45ff-9bcf-6c086ae943f3",
+            "id": "8dce506a-1d97-48f3-b57f-3098f672158f",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -4489,7 +4489,7 @@
         {
             "children": [],
             "display": "SARS-CoV-2 (COVID-19) IgM IA Qn",
-            "id": "78bbdc42-8fe7-4b47-918d-853675c8da81",
+            "id": "77342a20-695d-4292-826f-0ae848fd70bd",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -4515,7 +4515,7 @@
         {
             "children": [],
             "display": "SARS-CoV-2 (COVID-19) IgA IA Ql",
-            "id": "194de27f-071a-4329-9465-58a378de2059",
+            "id": "a072594a-93e0-4a59-9ee8-0c7a36a8495c",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -4552,7 +4552,7 @@
         {
             "children": [],
             "display": "SARS-CoV-2 (COVID-19) IgA IA Qn",
-            "id": "0fe0bc34-afc0-4dab-b0c4-61eb6384a6cc",
+            "id": "bca56be7-2a51-40bb-a4e0-2f462dc4071b",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -4578,7 +4578,7 @@
         {
             "children": [],
             "display": "SARS-CoV-2 (COVID-19) Ab IA Ql",
-            "id": "e21c9792-9fcf-4337-a3fc-7573e76bf94e",
+            "id": "44df7b45-12cb-4e28-aef7-fb69cef8e38e",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -4615,7 +4615,7 @@
         {
             "children": [],
             "display": "SARS-CoV-2 (COVID-19) Ab IA Qn",
-            "id": "d16bebbd-94d6-4bf3-a548-1e320a368e5b",
+            "id": "96bd704f-eb0e-4e07-af56-9be4938aa200",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -4640,7 +4640,7 @@
         }
     ],
     "display": "Laborwerte",
-    "id": "5e521091-0050-45be-9614-3cf35cb0bf93",
+    "id": "48c2d70a-3eb6-4482-893e-add954020532",
     "leaf": false,
     "selectable": false,
     "termCode": {
