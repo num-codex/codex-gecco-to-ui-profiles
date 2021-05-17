@@ -14007,38 +14007,6 @@
                 {
                     "children": [],
                     "termCode": {
-                        "code": "LA15920-4",
-                        "display": "Former smoker",
-                        "system": "http://loinc.org"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "LA18976-3",
-                        "display": "Current every day smoker",
-                        "system": "http://loinc.org"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "LA18978-9",
-                        "display": "Never smoker",
-                        "system": "http://loinc.org"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "LA18980-5",
-                        "display": "Unknown if ever smoked",
-                        "system": "http://loinc.org"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
                         "code": "72166-2",
                         "display": "Tobacco smoking status",
                         "system": "http://loinc.org"
@@ -15220,7 +15188,1432 @@
                     }
                 },
                 {
-                    "children": [],
+                    "children": [
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "110474005",
+                                "display": "Whole body hyperbaric oxygen therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "11140008",
+                                "display": "Respiratory assist, manual",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "11310004",
+                                "display": "Breathing exercise, blow bottle",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "12484000",
+                                "display": "Respiratory care and adjustment",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "127778006",
+                                "display": "Positive expiratory pressure mask physiotherapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "127779003",
+                                "display": "Oscillating positive expiratory pressure (flutter) physiotherapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "127780000",
+                                "display": "High frequency chest compression vest physiotherapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "127782008",
+                                "display": "Autogenic pulmonary drainage",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "12895002",
+                                "display": "Physiotherapeutic breathing exercise",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "1366004",
+                                "display": "Inhalation therapy procedure",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "182686001",
+                                "display": "Endotracheal respiratory assistance",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "182687005",
+                                "display": "Intermittent positive pressure ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "182713008",
+                                "display": "Catalytic oxygen therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "182714002",
+                                "display": "Oxygenator therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "182726007",
+                                "display": "Asthma control step 0",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "182727003",
+                                "display": "Asthma control step 1",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "182728008",
+                                "display": "Asthma control step 2",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "182729000",
+                                "display": "Asthma control step 3",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "182730005",
+                                "display": "Asthma control step 4",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "182731009",
+                                "display": "Asthma control step 5",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "18678000",
+                                "display": "Hyperbaric oxygen therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "19861002",
+                                "display": "Intermittent positive pressure breathing treatment with nebulized medication",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "20261004",
+                                "display": "Helium therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229286000",
+                                "display": "Respiratory expansion exercises",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229287009",
+                                "display": "Deep breathing exercises",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229288004",
+                                "display": "Lower lateral costal expansion exercises",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229289007",
+                                "display": "Basal expansion exercises",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229290003",
+                                "display": "Apical expansion exercises",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229291004",
+                                "display": "Thoracic expansion exercises",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229292006",
+                                "display": "Upper thoracic expansion exercises",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229293001",
+                                "display": "Lower thoracic expansion exercises",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229294007",
+                                "display": "Active cycle of breathing technique",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229295008",
+                                "display": "Forced expiration technique",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229296009",
+                                "display": "Sputum induction technique",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229297000",
+                                "display": "Expectoration technique",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229298005",
+                                "display": "Breathing control",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229299002",
+                                "display": "Relaxed breathing",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229300005",
+                                "display": "Inspiratory muscle training",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229301009",
+                                "display": "Incentive spirometry",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229302002",
+                                "display": "Ultrasonic humidification",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229303007",
+                                "display": "Mist inhalation therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229304001",
+                                "display": "Steam inhalations",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229305000",
+                                "display": "Menthol inhalations",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229306004",
+                                "display": "Positive pressure therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229308003",
+                                "display": "Intermittent CPAP",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229312009",
+                                "display": "Nasal ventilation therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229313004",
+                                "display": "Manual hyperinflation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229314005",
+                                "display": "Breathing awareness for childbirth",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "229809001",
+                                "display": "Diaphragmatic breathing exercises",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "230040009",
+                                "display": "Airway suction technique",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243130008",
+                                "display": "Humidification therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243131007",
+                                "display": "Helium inhalation therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243136002",
+                                "display": "Short-term oxygen therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243137006",
+                                "display": "Long-term oxygen therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243138001",
+                                "display": "High ambient pressure therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243140006",
+                                "display": "Lung inflation by intermittent compression of reservoir bag",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243141005",
+                                "display": "Mechanically assisted spontaneous ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243142003",
+                                "display": "Dual pressure spontaneous ventilation support",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243143008",
+                                "display": "Airway pressure release ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243144002",
+                                "display": "Patient triggered inspiratory assistance",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243145001",
+                                "display": "Diaphragmatic augmentation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243146000",
+                                "display": "Diaphragmatic augmentation by rocking bed",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243147009",
+                                "display": "Controlled ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243148004",
+                                "display": "Controlled mandatory ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243149007",
+                                "display": "Controlled mandatory ventilation with sigh",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243150007",
+                                "display": "Assisted controlled mandatory ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243151006",
+                                "display": "Mandatory minute volume ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243152004",
+                                "display": "Extended mandatory minute volume ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243153009",
+                                "display": "High frequency positive pressure ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243154003",
+                                "display": "High frequency jet ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243155002",
+                                "display": "High frequency oscillatory ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243156001",
+                                "display": "Continuous flow ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243157005",
+                                "display": "Liquid ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243158000",
+                                "display": "Fluorocarbon ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243159008",
+                                "display": "Intermittent negative pressure ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243160003",
+                                "display": "Control of end expiratory pressure",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243161004",
+                                "display": "Positive end expiratory pressure increased",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243162006",
+                                "display": "Positive end expiratory pressure increased to optimal PEEP",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243163001",
+                                "display": "Positive end expiratory pressure increased to best PEEP",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243164007",
+                                "display": "Positive end expiratory pressure reduced",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243166009",
+                                "display": "Positive end expiratory pressure reduced to optimal PEEP",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243167000",
+                                "display": "Positive end expiratory pressure reduced to best PEEP",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243168005",
+                                "display": "Positive end expiratory pressure withdrawn",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243169002",
+                                "display": "Zero end expiratory pressure maintained",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243170001",
+                                "display": "Negative end expiratory pressure applied",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243171002",
+                                "display": "NEEP increased - Negative end expiratory pressure increased",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243172009",
+                                "display": "NEEP decreased - Negative end expiratory pressure decreased",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243174005",
+                                "display": "Weaning from mechanically assisted ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243177003",
+                                "display": "Global oxygen delivery increase",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243178008",
+                                "display": "Reduction of oxygen consumption",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243180002",
+                                "display": "Expired air ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243181003",
+                                "display": "Expired air ventilation with airway aid",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243182005",
+                                "display": "Mouth to mouth expired air ventilation with airway",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243183000",
+                                "display": "Mouth to nose expired air ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "243184006",
+                                "display": "Ventilation with self-inflating bag",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "262277005",
+                                "display": "Warming of inhaled gases",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "266700009",
+                                "display": "Assisted breathing",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "266702001",
+                                "display": "Oxygen enrichment therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "26763009",
+                                "display": "Controlled ventilation procedure and therapy, initiation and management",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "270484008",
+                                "display": "Respiratory therapy by atmospheric control",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "276732005",
+                                "display": "Apneic oxygenation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "276737004",
+                                "display": "Domiciliary ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "281508008",
+                                "display": "Cuirasse ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "286812008",
+                                "display": "Pressure controlled ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "286813003",
+                                "display": "Pressure controlled SIMV",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "286814009",
+                                "display": "Inspired gas humidification",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "30050007",
+                                "display": "Inhalation anesthesia, machine system, semi-closed, no rebreathing of primary agent",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "302220000",
+                                "display": "Asthma control steps",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "304577004",
+                                "display": "Humidified oxygen therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "306765008",
+                                "display": "Respiratory drainage techniques",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "315041000",
+                                "display": "High concentration oxygen therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "34281000175105",
+                                "display": "Nocturnal continuous positive airway pressure",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "34291000175108",
+                                "display": "Nocturnal dual pressure spontaneous ventilation support",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "34431008",
+                                "display": "Physiotherapy of chest",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "37113006",
+                                "display": "Mouth-to-mouth resuscitation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "371605008",
+                                "display": "Deep breathing and coughing exercises",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "371907003",
+                                "display": "Oxygen administration by nasal cannula",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "371908008",
+                                "display": "Oxygen administration by mask",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "38158002",
+                                "display": "Deep breathing, clapping and postural drainage",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "38282001",
+                                "display": "Bennett respirator therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "385982006",
+                                "display": "Bronchial hygiene",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "386565009",
+                                "display": "Postural drainage therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "386566005",
+                                "display": "Postural drainage with chest clapping",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "387726004",
+                                "display": "Intermittent positive pressure breathing treatment without nebulized medication",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "387727008",
+                                "display": "Intermittent positive pressure breathing treatment",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "391893003",
+                                "display": "Manipulation of oxygen dynamics",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "39496003",
+                                "display": "Control of atmospheric pressure and composition with antigen-free air conditioning",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "397815001",
+                                "display": "Administration of cardiovascular drug to increase oxygen delivery",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "397867002",
+                                "display": "Alteration of hemoglobin concentration to increase oxygen delivery",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "397899008",
+                                "display": "Weaning from mechanically assisted ventilation commenced",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "397957008",
+                                "display": "Mechanical assistance to circulation to increase oxygen delivery",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "397998001",
+                                "display": "Weaning from mechanically assisted ventilation continued",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "398077001",
+                                "display": "Oxygen dynamic interventions",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "398287006",
+                                "display": "Alteration of circulating volume to increase oxygen delivery",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "405609003",
+                                "display": "Volume controlled ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "40617009",
+                                "display": "Artificial respiration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "408852001",
+                                "display": "Intermittent positive pressure ventilation via bag and mask",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "408853006",
+                                "display": "Intermittent positive pressure ventilation via endotracheal tube",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "423574009",
+                                "display": "Continuous positive airway pressure ventilation weaning protocol",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "424139009",
+                                "display": "Trial for spontaneous breathing",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "424172009",
+                                "display": "Dual pressure spontaneous ventilation support weaning protocol",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "425447009",
+                                "display": "Bag valve mask ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "425696007",
+                                "display": "Respiratory assist, manual, using bag-valve-mask",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "426990007",
+                                "display": "Home oxygen therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "428311008",
+                                "display": "Noninvasive ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "429253002",
+                                "display": "Oxygen administration by Venturi mask",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "438603002",
+                                "display": "Hyperventilation therapy for traumatic brain injury",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "44387004",
+                                "display": "Decompression chamber therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "447837008",
+                                "display": "Noninvasive positive pressure ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "448134000",
+                                "display": "Continuous positive airway pressure to nonventilated lung",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "448442005",
+                                "display": "Transtracheal jet ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "45851008",
+                                "display": "Positive end expiratory pressure ventilation therapy, initiation and management",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "47545007",
+                                "display": "Continuous positive airway pressure ventilation treatment",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "4764004",
+                                "display": "Jet ventilation procedure",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "52729008",
+                                "display": "Treatment by iron lung",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "53950000",
+                                "display": "Respiratory therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "55089006",
+                                "display": "Inspiration mandatory ventilation therapy, initiation and management",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "57485005",
+                                "display": "Oxygen therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "59427005",
+                                "display": "Synchronized intermittent mandatory ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "66852000",
+                                "display": "Flow and timed ventilation procedure, initiation and management",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "698510006",
+                                "display": "Respiratory therapy by modification of proportion of atmospheric gas",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "698799005",
+                                "display": "Respiratory therapy by control of atmospheric pressure",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "698800009",
+                                "display": "Respiratory therapy by control of atmospheric composition",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "698801008",
+                                "display": "Respiratory therapy by control of atmospheric pressure and composition",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "710976005",
+                                "display": "Maintaining ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "71786000",
+                                "display": "Intranasal oxygen therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "74596007",
+                                "display": "Resuscitation with artificial respiration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "76777009",
+                                "display": "Electrophrenic respiration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "773454006",
+                                "display": "Bird respiratory therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "787180006",
+                                "display": "Mechanical insufflation exsufflation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "788538002",
+                                "display": "Alcohol-oxygen vapor therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "80677001",
+                                "display": "Fog inhalation therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "82433009",
+                                "display": "Continuous negative pressure ventilation treatment",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "870391004",
+                                "display": "Assisted ventilation in prone position",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "870392006",
+                                "display": "Weaning from noninvasive ventilation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "870533002",
+                                "display": "Heated and humidified high flow oxygen therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "8948006",
+                                "display": "Assisted ventilation therapy, pressure or volume preset, initiation and management",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "9519000",
+                                "display": "Class in postural drainage",
+                                "system": "http://snomed.info/sct"
+                            }
+                        }
+                    ],
                     "termCode": {
                         "code": "53950000",
                         "display": "ademhalingstherapie (verrichting)",
@@ -15314,46 +16707,6 @@
                     "termCode": {
                         "code": "709044004",
                         "display": "Chronic kidney disease (disorder)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "261665006",
-                        "display": "Unknown (qualifier value)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "373066001",
-                        "display": "Yes (qualifier value)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "373067005",
-                        "display": "No (qualifier value)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "385432009",
-                        "display": "Not applicable (qualifier value)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "74964007",
-                        "display": "Other (qualifier value)",
                         "system": "http://snomed.info/sct"
                     }
                 },
@@ -15826,7 +17179,32 @@
         {
             "children": [
                 {
-                    "children": [],
+                    "children": [
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "16310003",
+                                "display": "Ultraschall",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "168537006",
+                                "display": "R\u00f6ntgen",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "77477000",
+                                "display": "CT",
+                                "system": "http://snomed.info/sct"
+                            }
+                        }
+                    ],
                     "termCode": {
                         "code": "363679005",
                         "display": "Imaging (procedure)",
@@ -15845,30 +17223,6 @@
                 {
                     "children": [],
                     "termCode": {
-                        "code": "LA15173-0",
-                        "display": "Pregnant",
-                        "system": "http://loinc.org"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "LA26683-5",
-                        "display": "Not pregnant",
-                        "system": "http://loinc.org"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "LA4489-6",
-                        "display": "Unknown",
-                        "system": "http://loinc.org"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
                         "code": "82810-3",
                         "display": "Pregnancy status",
                         "system": "http://loinc.org"
@@ -15877,1977 +17231,9 @@
                 {
                     "children": [],
                     "termCode": {
-                        "code": "10008004",
-                        "display": "Ewe",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "10117001",
-                        "display": "Finns",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "10292001",
-                        "display": "Guamians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "10432001",
-                        "display": "Onge",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "108342005",
-                        "display": "South Asian AND/OR Australian aborigine",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "113169009",
-                        "display": "Armenians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "113170005",
-                        "display": "Aymara",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "113171009",
-                        "display": "Coushatta",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "11794009",
-                        "display": "Kenyans",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "12556008",
-                        "display": "Tamils",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "13233008",
-                        "display": "Flathead",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "1340002",
-                        "display": "Malays",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "13440006",
-                        "display": "Tanganyikans",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "14045001",
-                        "display": "Caucasian (ethnic group)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "14176005",
-                        "display": "Danes",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "14470009",
-                        "display": "Tutsi",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "1451003",
-                        "display": "Greeks",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "14999008",
-                        "display": "Welsh",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "15086000",
-                        "display": "African American",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "15801006",
-                        "display": "Kapingas",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "160531006",
-                        "display": "Race: West indian",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "17095009",
-                        "display": "Norwegians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "17789004",
-                        "display": "Papuans",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "18167009",
-                        "display": "Black African (ethnic group)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "18575005",
-                        "display": "Oceanian",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "18583004",
-                        "display": "Estonians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "185984009",
-                        "display": "White - ethnic group",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "185988007",
-                        "display": "Black Caribbean",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "185990008",
-                        "display": "Black British",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "185995003",
-                        "display": "Black Indian sub-continent",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "186001005",
-                        "display": "Indian (East Indian)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "186002003",
-                        "display": "Pakistani",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "186003008",
-                        "display": "Bangladeshi",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "186019001",
-                        "display": "Other ethnic, mixed origin (ethnic group)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "186035008",
-                        "display": "New Zealand ethnic groups",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "186036009",
-                        "display": "New Zealand European",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "186039002",
-                        "display": "New Zealand Maori",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "186040000",
-                        "display": "Cook Island Maori",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "186041001",
-                        "display": "Niuean",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "186042008",
-                        "display": "Tokelauan",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "186044009",
-                        "display": "South East Asian",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "18664001",
-                        "display": "Xavante",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "19085009",
-                        "display": "Saipanese",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "1919006",
-                        "display": "Egyptians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "19434008",
-                        "display": "French",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "20140003",
-                        "display": "Hawaiians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "20291009",
-                        "display": "Lacandon",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "20449009",
-                        "display": "Javanese",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "21047009",
-                        "display": "Aleuts",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "2135-2",
-                        "display": "Hispanic or Latino",
-                        "system": "urn:oid:2.16.840.1.113883.6.238"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "21868006",
-                        "display": "Madagascans",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "21993009",
-                        "display": "Indonesians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "22007004",
-                        "display": "Shoshone",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "23517005",
-                        "display": "Polynesians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "23534002",
-                        "display": "Melanesians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "23922002",
-                        "display": "Batutsi",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "24812003",
-                        "display": "Mongol",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "25750005",
-                        "display": "Admiralty Islanders",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "25804004",
-                        "display": "English",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "26215007",
-                        "display": "South Asian Aborigine",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "2688009",
-                        "display": "Tristan da Cunhans",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "270460000",
-                        "display": "Black Caribbean/W.I./Guyana",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "270461001",
-                        "display": "Black N African/Arab/Iranian",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "270462008",
-                        "display": "Black East African Asian/Indo-Caribbean",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "2720008",
-                        "display": "Hututu",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "27301002",
-                        "display": "Paez",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "275586009",
-                        "display": "Black North African",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "275587000",
-                        "display": "Black Arab",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "275588005",
-                        "display": "Black Iranian",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "275589002",
-                        "display": "Black East African Asian",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "275590006",
-                        "display": "Black Indo-Caribbean",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "27683006",
-                        "display": "Ainu",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "27700004",
-                        "display": "Iraqi",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "28409002",
-                        "display": "Spaniards",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "2852001",
-                        "display": "Bhutanese",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "28562006",
-                        "display": "Poles",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "286009",
-                        "display": "Czech",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "28796001",
-                        "display": "Siamese",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "28821007",
-                        "display": "Easter Islanders",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "29343004",
-                        "display": "Bulgarian",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "309643000",
-                        "display": "Black West Indian",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "309644006",
-                        "display": "Black Guyana",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "312859007",
-                        "display": "Vietnamese",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "315236000",
-                        "display": "White British",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "315237009",
-                        "display": "White Irish",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "315240009",
-                        "display": "Black - ethnic group",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "315280000",
-                        "display": "Asian - ethnic group (ethnic group)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "315283003",
-                        "display": "Irish traveller",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "315634007",
-                        "display": "Black Caribbean and White",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "315635008",
-                        "display": "Black African and White",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "31637002",
-                        "display": "Italians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "32045009",
-                        "display": "Georgians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "32513008",
-                        "display": "Dyaks",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "32873005",
-                        "display": "Bloods",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "33182009",
-                        "display": "Trukese",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "3353005",
-                        "display": "Pueblo",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "33897005",
-                        "display": "Chinese",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "34334001",
-                        "display": "New Caledonians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "35007000",
-                        "display": "Utes",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "36329002",
-                        "display": "Slovak",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "3698008",
-                        "display": "Micronesians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "37474002",
-                        "display": "Ghanaians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "37843006",
-                        "display": "Fulani",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "38144004",
-                        "display": "Athabascans",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "3818007",
-                        "display": "Senegalese",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "38361009",
-                        "display": "Koreans",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "38750003",
-                        "display": "Bororo",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "39007007",
-                        "display": "Black Jews",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "39764005",
-                        "display": "Bantu",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "401213008",
-                        "display": "White Scottish",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "40165009",
-                        "display": "Buriats",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "40182006",
-                        "display": "Gypsies",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "4073004",
-                        "display": "Palauans",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "41076003",
-                        "display": "Mozambiquans",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "413465009",
-                        "display": "Afro-Caribbean",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "413466005",
-                        "display": "Afro-Caucasian",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "414152003",
-                        "display": "European",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "414551003",
-                        "display": "Japanese",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "414661004",
-                        "display": "Melanesian",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "414978006",
-                        "display": "Oriental",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "41798002",
-                        "display": "Caroline Islanders",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "42632009",
-                        "display": "Andamanese",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "4299001",
-                        "display": "Marathas",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "43056000",
-                        "display": "Cuna",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "43608005",
-                        "display": "Australian Aborigines",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "43890005",
-                        "display": "Dieguenos",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "44460002",
-                        "display": "Turks",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "445343003",
-                        "display": "Romanian",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "45465003",
-                        "display": "Basques",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "46110004",
-                        "display": "Somalis",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "46723002",
-                        "display": "Badagas",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "47250000",
-                        "display": "Bruneians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "47327008",
-                        "display": "Mexican Indians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "48118002",
-                        "display": "Yapese",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "48294008",
-                        "display": "Solomon Islanders",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "48375000",
-                        "display": "Seminole",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "48679001",
-                        "display": "Bogobos",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "49202008",
-                        "display": "Gilbertese",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "50405005",
-                        "display": "Senoi",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "51827000",
-                        "display": "Oriental Jews",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "52075006",
-                        "display": "Congolese",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "521000220104",
-                        "display": "Black Irish",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "53195006",
-                        "display": "Kirghiz",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "53460002",
-                        "display": "Serbs",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "55990000",
-                        "display": "Inca",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "56056003",
-                        "display": "Belgians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "57405008",
-                        "display": "Chenchu",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "57539009",
-                        "display": "Navaho",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "58047002",
-                        "display": "Barundi",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "59366001",
-                        "display": "Ibo",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "59487007",
-                        "display": "Syrians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "59597001",
-                        "display": "Marshallese",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "60157000",
-                        "display": "Ellice Islanders",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "62598008",
-                        "display": "Venezuelan Indians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "63457007",
-                        "display": "Maya",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "6373008",
-                        "display": "Choco",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "63732001",
-                        "display": "New Hebrideans",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "63736003",
-                        "display": "Taiwanese",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "64483007",
-                        "display": "Indians (Hindi-speaking)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "64693008",
-                        "display": "Hungarian",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "65776006",
-                        "display": "Blackfeet",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "66406004",
-                        "display": "Huasteco",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "66920001",
-                        "display": "Amerind",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "67165000",
-                        "display": "Lapps",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "67439005",
-                        "display": "Msutu",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "67931002",
-                        "display": "Aztec",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "68486007",
-                        "display": "Austrians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "69865008",
-                        "display": "Fijian",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "69983001",
-                        "display": "Irani",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "704385002",
-                        "display": "Punjabi",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "704386001",
-                        "display": "Orang asli",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "704387005",
-                        "display": "Kadazan",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "704388000",
-                        "display": "Melanau",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "704389008",
-                        "display": "Murut",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "704390004",
-                        "display": "Bajau",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "704391000",
-                        "display": "Bidayuh",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "704392007",
-                        "display": "Iban",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "71176007",
-                        "display": "Pygmies",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "718958002",
-                        "display": "Roma",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "718959005",
-                        "display": "Czech Roma",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "718960000",
-                        "display": "Romanian Roma",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "718961001",
-                        "display": "Slovak Roma",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "718962008",
-                        "display": "Bulgarian Roma",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "718963003",
-                        "display": "Hungarian Roma",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "718964009",
-                        "display": "Polish Roma",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "71949006",
-                        "display": "Chippewa",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "72201005",
-                        "display": "Hobe",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "72248007",
-                        "display": "Kikuyu",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "72337002",
-                        "display": "Brazilian Indians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "72809004",
-                        "display": "Icelanders",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "733078003",
-                        "display": "Ukrainian",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "733446001",
-                        "display": "Canadian",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "735001008",
-                        "display": "Scandinavian",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "73524008",
-                        "display": "Caingang",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "73736004",
-                        "display": "Maori",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "74159009",
-                        "display": "Melanuans",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "74302004",
-                        "display": "Apache",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "75301003",
-                        "display": "Mapuche",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "75326007",
-                        "display": "Labradors",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "75704009",
-                        "display": "Toba",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "76253004",
-                        "display": "Zulu",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "76460008",
-                        "display": "Yanomama",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "76574004",
-                        "display": "Swiss",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "76768002",
-                        "display": "Filipinos",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "76775001",
-                        "display": "Ugandans",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "76883002",
-                        "display": "Huichol",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "7695005",
-                        "display": "Germans",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "77502007",
-                        "display": "Atacamenos",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "77686000",
-                        "display": "Kwakiutl",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "79434006",
-                        "display": "Quechua",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "80208004",
-                        "display": "Portuguese",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "80528001",
-                        "display": "Xosa",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "81035008",
-                        "display": "Pakistani (Urduspeakers)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "8124001",
-                        "display": "West Africans",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "81283004",
-                        "display": "Todas",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "81403004",
-                        "display": "Swedes",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "81560001",
-                        "display": "Tongan",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "81653003",
-                        "display": "Pehuenches",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "81846005",
-                        "display": "Naiars",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "82174001",
-                        "display": "Shona",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "83365001",
-                        "display": "Thais",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "83584002",
-                        "display": "Luo",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "83939006",
-                        "display": "Irula",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "85163001",
-                        "display": "Russians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "85371009",
-                        "display": "Bushmen",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "85515006",
-                        "display": "Eskimo",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "86275006",
-                        "display": "Samoan",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "870448005",
-                        "display": "Khoikhoi",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "87323008",
-                        "display": "Nez Perc\u00e9",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "88790004",
-                        "display": "Abyssinians (Amharas)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "88839008",
-                        "display": "Sudanese",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "88934004",
-                        "display": "Nigerians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "89026003",
-                        "display": "Alacaluf",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "90027003",
-                        "display": "Arabs (ethnic group)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "90348007",
-                        "display": "Ghashgai",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "90822005",
-                        "display": "Gambians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "91066000",
-                        "display": "Tatars",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "91191002",
-                        "display": "Oraons",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "91488008",
-                        "display": "New Britons",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "9158000",
-                        "display": "Liberians",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "9533000",
-                        "display": "Dutch",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
                         "code": "372148003",
                         "display": "Ethnic group (ethnic group)",
                         "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "D",
-                        "display": "divers",
-                        "system": "http://fhir.de/CodeSystem/gender-amtlich-de"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "X",
-                        "display": "unbestimmt",
-                        "system": "http://fhir.de/CodeSystem/gender-amtlich-de"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "female",
-                        "display": "Female",
-                        "system": "http://hl7.org/fhir/administrative-gender"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "male",
-                        "display": "Male",
-                        "system": "http://hl7.org/fhir/administrative-gender"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "unknown",
-                        "display": "Unknown",
-                        "system": "http://hl7.org/fhir/administrative-gender"
                     }
                 },
                 {
@@ -17864,78 +17250,6 @@
                         "code": "424144002",
                         "display": "Current chronological age (observable entity)",
                         "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "1",
-                        "display": "Very Fit",
-                        "system": "https://www.netzwerk-universitaetsmedizin.de/fhir/CodeSystem/frailty-score"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "2",
-                        "display": "Well",
-                        "system": "https://www.netzwerk-universitaetsmedizin.de/fhir/CodeSystem/frailty-score"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "3",
-                        "display": "Managing Well",
-                        "system": "https://www.netzwerk-universitaetsmedizin.de/fhir/CodeSystem/frailty-score"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "4",
-                        "display": "Vulnerable",
-                        "system": "https://www.netzwerk-universitaetsmedizin.de/fhir/CodeSystem/frailty-score"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "5",
-                        "display": "Mildly Frail",
-                        "system": "https://www.netzwerk-universitaetsmedizin.de/fhir/CodeSystem/frailty-score"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "6",
-                        "display": "Moderately Frail",
-                        "system": "https://www.netzwerk-universitaetsmedizin.de/fhir/CodeSystem/frailty-score"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "7",
-                        "display": "Severely Frail",
-                        "system": "https://www.netzwerk-universitaetsmedizin.de/fhir/CodeSystem/frailty-score"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "8",
-                        "display": "Very Severely Frail",
-                        "system": "https://www.netzwerk-universitaetsmedizin.de/fhir/CodeSystem/frailty-score"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "9",
-                        "display": "Terminally Ill",
-                        "system": "https://www.netzwerk-universitaetsmedizin.de/fhir/CodeSystem/frailty-score"
                     }
                 },
                 {
@@ -17971,14 +17285,6 @@
         },
         {
             "children": [
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "840546002",
-                        "display": "Exposure to severe acute respiratory syndrome coronavirus 2 (event)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
                 {
                     "children": [],
                     "termCode": {
@@ -18446,6 +17752,14 @@
                             "termCode": {
                                 "code": "255604002",
                                 "display": "Mild (qualifier value)",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "261665006",
+                                "display": "Unknown (qualifier value)",
                                 "system": "http://snomed.info/sct"
                             }
                         },
@@ -19710,30 +19024,6 @@
                         "code": "30902-1",
                         "display": "Fibrinogen [Mass/volume] in Platelet poor plasma by Heat denaturation",
                         "system": "http://loinc.org"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "260373001",
-                        "display": "Detected (qualifier value)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "260415000",
-                        "display": "Not detected (qualifier value)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "419984006",
-                        "display": "Inconclusive (qualifier value)",
-                        "system": "http://snomed.info/sct"
                     }
                 },
                 {
@@ -23030,46 +22320,6 @@
                 {
                     "children": [],
                     "termCode": {
-                        "code": "306237005",
-                        "display": "Referral to palliative care service (procedure)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "32485007",
-                        "display": "Hospital admission (procedure)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "3457005",
-                        "display": "Patient referral (procedure)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "371827001",
-                        "display": "Patient discharged alive (finding)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "419099009",
-                        "display": "Dead (finding)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
                         "code": "55128-3",
                         "display": "Discharge disposition",
                         "system": "http://loinc.org"
@@ -23439,7 +22689,504 @@
         {
             "children": [
                 {
-                    "children": [],
+                    "children": [
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "108241001",
+                                "display": "Dialysis procedure",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "11932001",
+                                "display": "Stabilizing hemodialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "14130001000004103",
+                                "display": "Aquapheresis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "14684005",
+                                "display": "Peritoneal dialysis excluding cannulation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "182749009",
+                                "display": "Extracorporeal blood irradiation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "182750009",
+                                "display": "Ultrafiltration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "182753006",
+                                "display": "Intestinal dialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "225230008",
+                                "display": "Chronic peritoneal dialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "225231007",
+                                "display": "Stab peritoneal dialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233572003",
+                                "display": "Extracorporeal gas exchange",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233573008",
+                                "display": "Extracorporeal membrane oxygenation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233574002",
+                                "display": "Extracorporeal carbon dioxide removal",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233575001",
+                                "display": "Intermittent hemodialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233576000",
+                                "display": "Intermittent hemodialysis with sequential ultrafiltration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233577009",
+                                "display": "Intermittent hemodialysis with continuous ultrafiltration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233578004",
+                                "display": "Continuous hemodialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233579007",
+                                "display": "Continuous arteriovenous hemodialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233580005",
+                                "display": "Continuous venovenous hemodialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233581009",
+                                "display": "Hemofiltration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233582002",
+                                "display": "Intermittent hemofiltration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233583007",
+                                "display": "Continuous hemofiltration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233584001",
+                                "display": "Continuous arteriovenous hemofiltration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233585000",
+                                "display": "Continuous venovenous hemofiltration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233586004",
+                                "display": "Hemodiafiltration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233587008",
+                                "display": "Intermittent hemodiafiltration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233588003",
+                                "display": "Continuous hemodiafiltration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233589006",
+                                "display": "Continuous arteriovenous hemodiafiltration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233590002",
+                                "display": "Continuous venovenous hemodiafiltration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233592005",
+                                "display": "Plasma filtration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233595007",
+                                "display": "Intravenous gas exchange",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "238318009",
+                                "display": "Continuous ambulatory peritoneal dialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "238319001",
+                                "display": "Continuous cycling peritoneal dialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "238321006",
+                                "display": "Intermittent peritoneal dialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "238322004",
+                                "display": "Tidal peritoneal dialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "238323009",
+                                "display": "Night-time intermittent peritoneal dialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "265764009",
+                                "display": "Renal dialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "288182009",
+                                "display": "Extracorporeal kidney",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "302497006",
+                                "display": "Hemodialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "3257008",
+                                "display": "Empty and measure peritoneal dialysis fluid",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "341939001",
+                                "display": "Extracorporeal hemofiltration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "34897002",
+                                "display": "Hemodialysis, maintenance in hospital",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "381000124105",
+                                "display": "Increase dialyzer size for hemodialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "427053002",
+                                "display": "Extracorporeal albumin hemodialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "428648006",
+                                "display": "Automated peritoneal dialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "57274006",
+                                "display": "Initial hemodialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "676002",
+                                "display": "Peritoneal dialysis including cannulation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "67970008",
+                                "display": "Hemodialysis, maintenance at home",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "68341005",
+                                "display": "Hemodialysis, supervision at home",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "698074000",
+                                "display": "Sustained low-efficiency dialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "708930002",
+                                "display": "Maintenance hemodiafiltration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "708931003",
+                                "display": "Maintenance hemodialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "708932005",
+                                "display": "Emergency hemodialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "708933000",
+                                "display": "Emergency hemodiafiltration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "708934006",
+                                "display": "Maintenance hemofiltration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "71192002",
+                                "display": "Peritoneal dialysis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "714749008",
+                                "display": "Continuous renal replacement therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "715743002",
+                                "display": "Emergency hemofiltration",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "73257006",
+                                "display": "Peritoneal dialysis catheter maintenance",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "786451004",
+                                "display": "Venoarterial extracorporeal membrane oxygenation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "786452006",
+                                "display": "Arteriovenous extracorporeal membrane oxygenation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "786453001",
+                                "display": "Venovenous extracorporeal membrane oxygenation",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "895382009",
+                                "display": "Prolonged intermittent renal replacement therapy",
+                                "system": "http://snomed.info/sct"
+                            }
+                        }
+                    ],
                     "termCode": {
                         "code": "108241001",
                         "display": "dialyse (verrichting)",
@@ -23447,7 +23194,104 @@
                     }
                 },
                 {
-                    "children": [],
+                    "children": [
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "127788007",
+                                "display": "Apheresis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "19647005",
+                                "display": "Plasma exchange",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "20720000",
+                                "display": "Plasmapheresis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "225067007",
+                                "display": "Therapeutic plasma exchange",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233564000",
+                                "display": "Platelet apheresis using HLA matched donors",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233565004",
+                                "display": "Platelet apheresis using random donors",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "233594006",
+                                "display": "Lipopheresis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "438839005",
+                                "display": "Erythrocytapheresis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "448955002",
+                                "display": "Low density lipoprotein apheresis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "72541002",
+                                "display": "Plateletpheresis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "77257005",
+                                "display": "Leukopheresis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        },
+                        {
+                            "children": [],
+                            "termCode": {
+                                "code": "83794005",
+                                "display": "Extracorporeal photopheresis",
+                                "system": "http://snomed.info/sct"
+                            }
+                        }
+                    ],
                     "termCode": {
                         "code": "127788007",
                         "display": "Apheresis (procedure)",
@@ -23459,14 +23303,6 @@
                     "termCode": {
                         "code": "431182000",
                         "display": "pati\u00ebnt in buikligging plaatsen (verrichting)",
-                        "system": "http://snomed.info/sct"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "233573008",
-                        "display": "Extracorporeal membrane oxygenation (procedure)",
                         "system": "http://snomed.info/sct"
                     }
                 },
@@ -23508,62 +23344,6 @@
                     "termCode": {
                         "code": "2703-7",
                         "display": "Oxygen [Partial pressure] in Arterial blood",
-                        "system": "http://loinc.org"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "LA11849-9",
-                        "display": "Room air",
-                        "system": "http://loinc.org"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "LA11856-4",
-                        "display": "24% mask",
-                        "system": "http://loinc.org"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "LA11857-2",
-                        "display": "28% mask",
-                        "system": "http://loinc.org"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "LA11858-0",
-                        "display": "31% mask",
-                        "system": "http://loinc.org"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "LA11859-8",
-                        "display": "35% mask",
-                        "system": "http://loinc.org"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "LA11860-6",
-                        "display": "40% mask",
-                        "system": "http://loinc.org"
-                    }
-                },
-                {
-                    "children": [],
-                    "termCode": {
-                        "code": "LA11861-4",
-                        "display": "50% mask",
                         "system": "http://loinc.org"
                     }
                 },
