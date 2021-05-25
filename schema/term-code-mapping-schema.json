@@ -39,7 +39,7 @@
 					"items": { "$ref": "#/definitions/fixedCriteria"}
 				}
 			},
-			"required": ["key", "fhirResourceType", "termCodeSearchParameter"]
+			"required": ["key", "fhirResourceType"]
 		}
 	},
 	
