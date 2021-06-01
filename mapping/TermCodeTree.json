@@ -17168,6 +17168,14 @@
                         "display": "Immunization status",
                         "system": "num.codex"
                     }
+                },
+                {
+                    "children": [],
+                    "termCode": {
+                        "code": "304251008",
+                        "display": "Resuscitation status (observable entity)",
+                        "system": "http://snomed.info/sct"
+                    }
                 }
             ],
             "termCode": {
@@ -17208,6 +17216,14 @@
                     "termCode": {
                         "code": "363679005",
                         "display": "Imaging (procedure)",
+                        "system": "http://snomed.info/sct"
+                    }
+                },
+                {
+                    "children": [],
+                    "termCode": {
+                        "code": "118247008",
+                        "display": "Radiologic finding (finding)",
                         "system": "http://snomed.info/sct"
                     }
                 }

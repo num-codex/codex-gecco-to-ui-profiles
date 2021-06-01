@@ -3,7 +3,7 @@
         {
             "children": [],
             "display": "Schwangerschaft",
-            "id": "4075a508-1ce1-43ef-9e66-b59ba5babdf3",
+            "id": "022137d7-84a8-45e0-9478-1ded764a2b6d",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -40,7 +40,7 @@
         {
             "children": [],
             "display": "Ethnische Zugeh\u00f6rigkeit",
-            "id": "d887ad0e-f6ac-46a4-a160-92612c7e40d0",
+            "id": "8430781f-ac45-450e-9ded-ff3b35b3845a",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -1267,7 +1267,7 @@
         {
             "children": [],
             "display": "Biologisches Geschlecht",
-            "id": "9a21fe40-3bb1-4cdb-8671-e93445310c81",
+            "id": "57b6bc1e-6269-46ba-9f05-ce64a67a4bb6",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -1314,7 +1314,7 @@
         {
             "children": [],
             "display": "Alter",
-            "id": "559880e7-d82b-471b-8a07-ddd18704e9e9",
+            "id": "32d8a57c-49e1-46fa-bb41-ce951bfe9a25",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -1335,7 +1335,7 @@
         {
             "children": [],
             "display": "Frailty-Score",
-            "id": "7b4a9c94-e238-4a03-946d-878ec8334af6",
+            "id": "bf80a39f-d0f3-440f-97d2-1fb4ff5dd9ac",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -1402,7 +1402,7 @@
         {
             "children": [],
             "display": "Gewicht",
-            "id": "312d27c9-b110-4620-9a21-fa432e59bfd9",
+            "id": "440470e1-aa9d-41c4-ab1d-9bd46bda7d82",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -1428,7 +1428,7 @@
         {
             "children": [],
             "display": "K\u00f6rpergr\u00f6\u00dfe",
-            "id": "3fc00b2e-81d3-423f-b592-78815122f99a",
+            "id": "27d94543-b0bd-4f86-a55c-e791c88b87a2",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -1457,7 +1457,7 @@
         }
     ],
     "display": "Demographie",
-    "id": "15a84384-5532-4061-968d-f55001e7aa4c",
+    "id": "204c6534-4757-40de-9e01-9f6b37e60fde",
     "leaf": false,
     "selectable": false,
     "termCode": {
