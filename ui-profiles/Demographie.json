@@ -3,7 +3,7 @@
         {
             "children": [],
             "display": "Schwangerschaft",
-            "id": "022137d7-84a8-45e0-9478-1ded764a2b6d",
+            "id": "a137eae1-9931-41a4-9d06-26fe18323668",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -40,7 +40,7 @@
         {
             "children": [],
             "display": "Ethnische Zugeh\u00f6rigkeit",
-            "id": "8430781f-ac45-450e-9ded-ff3b35b3845a",
+            "id": "8df55fb2-d685-43e9-85b3-4e6dada23eb0",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -220,11 +220,6 @@
                             "system": "http://snomed.info/sct"
                         },
                         {
-                            "code": "186019001",
-                            "display": "Other ethnic, mixed origin (ethnic group)",
-                            "system": "http://snomed.info/sct"
-                        },
-                        {
                             "code": "186035008",
                             "display": "New Zealand ethnic groups",
                             "system": "http://snomed.info/sct"
@@ -352,6 +347,11 @@
                         {
                             "code": "26215007",
                             "display": "South Asian Aborigine",
+                            "system": "http://snomed.info/sct"
+                        },
+                        {
+                            "code": "26242008",
+                            "display": "Mixed (qualifier value)",
                             "system": "http://snomed.info/sct"
                         },
                         {
@@ -1267,7 +1267,7 @@
         {
             "children": [],
             "display": "Biologisches Geschlecht",
-            "id": "57b6bc1e-6269-46ba-9f05-ce64a67a4bb6",
+            "id": "f8558a0f-924f-4b23-9afc-0f8816355312",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -1314,7 +1314,7 @@
         {
             "children": [],
             "display": "Alter",
-            "id": "32d8a57c-49e1-46fa-bb41-ce951bfe9a25",
+            "id": "14d133ec-6e4c-4072-a7af-57daf34b2d67",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -1335,7 +1335,7 @@
         {
             "children": [],
             "display": "Frailty-Score",
-            "id": "bf80a39f-d0f3-440f-97d2-1fb4ff5dd9ac",
+            "id": "116ba443-4897-4fc5-8140-df7b560805a6",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -1402,7 +1402,7 @@
         {
             "children": [],
             "display": "Gewicht",
-            "id": "440470e1-aa9d-41c4-ab1d-9bd46bda7d82",
+            "id": "4c69d988-a717-4723-96fd-bf7a055d4d66",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -1428,7 +1428,7 @@
         {
             "children": [],
             "display": "K\u00f6rpergr\u00f6\u00dfe",
-            "id": "27d94543-b0bd-4f86-a55c-e791c88b87a2",
+            "id": "6e7a5b95-b364-4596-a789-b40c1f9a69d7",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -1457,7 +1457,7 @@
         }
     ],
     "display": "Demographie",
-    "id": "204c6534-4757-40de-9e01-9f6b37e60fde",
+    "id": "bd5248f9-d454-4776-b713-14995cde53cf",
     "leaf": false,
     "selectable": false,
     "termCode": {

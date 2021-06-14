@@ -5,7 +5,7 @@
                 {
                     "children": [],
                     "display": "Dialysis procedure",
-                    "id": "db800b92-69fe-4de9-ad6e-afc232417c02",
+                    "id": "2cb41664-8544-493a-9a6e-9ee289f823a7",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -19,7 +19,7 @@
                 {
                     "children": [],
                     "display": "Stabilizing hemodialysis",
-                    "id": "bd4c01ed-f50b-44cc-ad77-e155e761008a",
+                    "id": "a038379b-8cae-4497-b9a1-61b252116b92",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -33,7 +33,7 @@
                 {
                     "children": [],
                     "display": "Aquapheresis",
-                    "id": "95e1d35a-7af3-4f95-8a37-010838cb3a51",
+                    "id": "bf554362-f23f-4d98-9886-92c95d9cc296",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -47,7 +47,7 @@
                 {
                     "children": [],
                     "display": "Peritoneal dialysis excluding cannulation",
-                    "id": "6e8876e3-76ed-492f-89cb-b73ce35f40ea",
+                    "id": "7a633236-241a-4849-ba61-4242afdc4ae9",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -61,7 +61,7 @@
                 {
                     "children": [],
                     "display": "Extracorporeal blood irradiation",
-                    "id": "ffe6d261-ab21-4d98-9b55-02b9b673b64e",
+                    "id": "3e21d199-85da-4b29-9c23-752a7a4eaa37",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -75,7 +75,7 @@
                 {
                     "children": [],
                     "display": "Ultrafiltration",
-                    "id": "e14b18f2-7d8b-4d4c-b560-665da574f09d",
+                    "id": "0edf6e11-1b8f-403b-9f2a-cd1662d5b88e",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -89,7 +89,7 @@
                 {
                     "children": [],
                     "display": "Intestinal dialysis",
-                    "id": "f00074ec-0af1-4bb2-80fe-a9f9d9339e33",
+                    "id": "e7fce99d-73ec-4350-b853-b77d5ca50ab8",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -103,7 +103,7 @@
                 {
                     "children": [],
                     "display": "Chronic peritoneal dialysis",
-                    "id": "50605d53-9f20-4aa3-9f37-0f8ea268218a",
+                    "id": "64fe6b34-f85a-4d5d-a0c1-4f0b8089b375",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -117,7 +117,7 @@
                 {
                     "children": [],
                     "display": "Stab peritoneal dialysis",
-                    "id": "9a03f2ba-f34c-48ab-8e0b-17d5173b69fe",
+                    "id": "bd7ec49f-3ed5-48cb-b7df-b44eb34f1096",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -131,7 +131,7 @@
                 {
                     "children": [],
                     "display": "Extracorporeal gas exchange",
-                    "id": "7a6ab5d2-0832-4e43-aacc-7a965b0e5f5b",
+                    "id": "805ee1b6-f91a-4695-a367-436a462b89c7",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -145,7 +145,7 @@
                 {
                     "children": [],
                     "display": "Extracorporeal membrane oxygenation",
-                    "id": "d4f70517-13e7-46e6-858a-f71a25c458fc",
+                    "id": "dd505946-b20a-4278-9b55-0b5bf7288e9e",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -159,7 +159,7 @@
                 {
                     "children": [],
                     "display": "Extracorporeal carbon dioxide removal",
-                    "id": "ccbde463-42c8-47ab-8ae4-7daf837d34f3",
+                    "id": "b0a93fe4-0746-4c0b-b54c-b27505091d8f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -173,7 +173,7 @@
                 {
                     "children": [],
                     "display": "Intermittent hemodialysis",
-                    "id": "a8014c51-0484-4202-a130-c04f7dee8608",
+                    "id": "19089436-a8df-48ac-a455-f13d0beb0b68",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -187,7 +187,7 @@
                 {
                     "children": [],
                     "display": "Intermittent hemodialysis with sequential ultrafiltration",
-                    "id": "4862aaa5-5307-4bf2-ae6e-3374c65ac341",
+                    "id": "028f0c18-51ea-4ca7-8186-48806423d8ce",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -201,7 +201,7 @@
                 {
                     "children": [],
                     "display": "Intermittent hemodialysis with continuous ultrafiltration",
-                    "id": "bf27e0e7-d6b0-4124-9eb6-6cd8a610cade",
+                    "id": "6c7eb186-da1c-4bb4-93e2-508f6e4f4868",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -215,7 +215,7 @@
                 {
                     "children": [],
                     "display": "Continuous hemodialysis",
-                    "id": "42fc8f91-42f3-4500-bb3f-ee4fbd868293",
+                    "id": "054e653a-6202-4e4e-b056-5cd4484ccce5",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -229,7 +229,7 @@
                 {
                     "children": [],
                     "display": "Continuous arteriovenous hemodialysis",
-                    "id": "5a5e83d2-5c40-4d24-bb67-fac769be9787",
+                    "id": "464fe856-daa2-4b77-b819-c935c1f6ead5",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -243,7 +243,7 @@
                 {
                     "children": [],
                     "display": "Continuous venovenous hemodialysis",
-                    "id": "97a4233b-456b-4b38-8960-dda248a69098",
+                    "id": "ce3ad082-e45b-409d-a32d-74928f869e66",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -257,7 +257,7 @@
                 {
                     "children": [],
                     "display": "Hemofiltration",
-                    "id": "0a1086ef-5f58-4f61-b0cb-7f7db09e3843",
+                    "id": "72a48280-e9da-4c3e-b0e2-2748673dc519",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -271,7 +271,7 @@
                 {
                     "children": [],
                     "display": "Intermittent hemofiltration",
-                    "id": "2aae8795-a518-4be3-8450-c4551fd8d894",
+                    "id": "2626d8a3-684b-4d80-99f8-e4786768f95f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -285,7 +285,7 @@
                 {
                     "children": [],
                     "display": "Continuous hemofiltration",
-                    "id": "6e3713a4-b6c1-4669-81eb-4e0e16727c72",
+                    "id": "b9ef4dc0-5c80-4188-81ce-15135da255c5",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -299,7 +299,7 @@
                 {
                     "children": [],
                     "display": "Continuous arteriovenous hemofiltration",
-                    "id": "d99772cb-0fc5-4d46-bccc-9381c40bab24",
+                    "id": "db114363-7810-4f0e-9b9f-e97f84a7cc4a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -313,7 +313,7 @@
                 {
                     "children": [],
                     "display": "Continuous venovenous hemofiltration",
-                    "id": "f72cb8aa-b059-44e7-aa03-b152e74375ab",
+                    "id": "5e05b6fe-8e56-44c4-8525-d216245fb66d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -327,7 +327,7 @@
                 {
                     "children": [],
                     "display": "Hemodiafiltration",
-                    "id": "62f2b842-2777-4a3e-ae9f-9e360f3b8687",
+                    "id": "e0444a22-05f4-48c4-945a-1e7845a32f66",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -341,7 +341,7 @@
                 {
                     "children": [],
                     "display": "Intermittent hemodiafiltration",
-                    "id": "7f27c8f6-c4a7-4edf-abd6-441a89912cef",
+                    "id": "dd2cc0c8-13c5-4dab-9dc1-18b417e46528",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -355,7 +355,7 @@
                 {
                     "children": [],
                     "display": "Continuous hemodiafiltration",
-                    "id": "6f94a939-6f5d-4332-898d-88202d790ae3",
+                    "id": "1a58de59-fbc8-4f80-bf34-6e379463c921",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -369,7 +369,7 @@
                 {
                     "children": [],
                     "display": "Continuous arteriovenous hemodiafiltration",
-                    "id": "4f71daec-d7c7-47da-973b-632f635cecc3",
+                    "id": "32b2b6ec-aeca-4e2b-8f3f-7499bd3a159e",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -383,7 +383,7 @@
                 {
                     "children": [],
                     "display": "Continuous venovenous hemodiafiltration",
-                    "id": "3f349489-152b-45ad-b51a-7ba72755b956",
+                    "id": "7345f274-bc08-4b95-a7b9-675102b40118",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -397,7 +397,7 @@
                 {
                     "children": [],
                     "display": "Plasma filtration",
-                    "id": "aff0cd02-b548-4dc3-8ffe-3701f33aea02",
+                    "id": "0400d6e3-8354-486e-b9fe-0f43afc15b09",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -411,7 +411,7 @@
                 {
                     "children": [],
                     "display": "Intravenous gas exchange",
-                    "id": "fa46f795-dc6e-4ed9-b7e0-ded981cd4aaf",
+                    "id": "64014179-31bf-47bb-9a98-51b71469fdf0",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -425,7 +425,7 @@
                 {
                     "children": [],
                     "display": "Continuous ambulatory peritoneal dialysis",
-                    "id": "3d347545-0bf8-4586-a00f-52e46721ead1",
+                    "id": "bd3c56e0-ec13-49c0-9253-16f96c1ba2c7",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -439,7 +439,7 @@
                 {
                     "children": [],
                     "display": "Continuous cycling peritoneal dialysis",
-                    "id": "c9a0316a-cf99-4030-b3b6-42143ab1c6ba",
+                    "id": "60a8c6eb-ee63-4192-90d7-6ed00b2622ac",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -453,7 +453,7 @@
                 {
                     "children": [],
                     "display": "Intermittent peritoneal dialysis",
-                    "id": "2ee5d62b-4f0a-4d1f-a77a-756b289b0792",
+                    "id": "9fb2714e-d4c7-4404-aedc-d1534cdd31e5",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -467,7 +467,7 @@
                 {
                     "children": [],
                     "display": "Tidal peritoneal dialysis",
-                    "id": "ff6f5434-9655-4348-8af7-f8a7dba48aca",
+                    "id": "ee84db0d-1824-4567-8948-7674b8e87d08",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -481,7 +481,7 @@
                 {
                     "children": [],
                     "display": "Night-time intermittent peritoneal dialysis",
-                    "id": "961bf76c-983e-456c-8944-1152bbcf89da",
+                    "id": "d3b7a7d0-da2b-4690-ac70-9281349773b3",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -495,7 +495,7 @@
                 {
                     "children": [],
                     "display": "Renal dialysis",
-                    "id": "a8d9e2dc-e3b0-4b64-8c9d-18bf172d053a",
+                    "id": "a64450fe-74a5-4416-8ae3-ba27cd8049a9",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -509,7 +509,7 @@
                 {
                     "children": [],
                     "display": "Extracorporeal kidney",
-                    "id": "04a6d3d0-8f8e-4579-807f-23e10d0a1fe2",
+                    "id": "17e6e17b-d1f0-4a1d-b375-8fe6152fb9eb",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -523,7 +523,7 @@
                 {
                     "children": [],
                     "display": "Hemodialysis",
-                    "id": "b75fee5c-a60b-4779-a473-3fde69af13fb",
+                    "id": "f7a50ab9-7ec2-432e-a70a-afdbd37cea96",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -537,7 +537,7 @@
                 {
                     "children": [],
                     "display": "Empty and measure peritoneal dialysis fluid",
-                    "id": "4843e47d-7c86-47f9-b692-da5fb9378032",
+                    "id": "8289bc6d-977b-4eca-b7ee-ae703bc92c32",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -551,7 +551,7 @@
                 {
                     "children": [],
                     "display": "Extracorporeal hemofiltration",
-                    "id": "73f28aef-b237-4534-945e-d8a3c724668a",
+                    "id": "428b64c3-9f6f-47ae-98bb-20cab3c11206",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -565,7 +565,7 @@
                 {
                     "children": [],
                     "display": "Hemodialysis, maintenance in hospital",
-                    "id": "55402a54-4f8f-4ba7-9fb4-45044a652049",
+                    "id": "b47e2c24-5c65-428f-a2d7-53204e88f4fd",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -579,7 +579,7 @@
                 {
                     "children": [],
                     "display": "Increase dialyzer size for hemodialysis",
-                    "id": "55b3eaa4-e766-4f31-a1d8-6a94d90d7d84",
+                    "id": "040dfe9f-d1cf-45d4-98ed-4b6bcb86b931",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -593,7 +593,7 @@
                 {
                     "children": [],
                     "display": "Extracorporeal albumin hemodialysis",
-                    "id": "33d3d8c3-51b2-4b7a-b603-0cca3d8ceb9b",
+                    "id": "1b62782a-6e06-407e-9fe5-1328eb726ba2",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -607,7 +607,7 @@
                 {
                     "children": [],
                     "display": "Automated peritoneal dialysis",
-                    "id": "2b1e6063-59de-48d4-b641-0ea0865d098b",
+                    "id": "4c66e424-a3be-4d4e-9b7e-00a2513dc87a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -621,7 +621,7 @@
                 {
                     "children": [],
                     "display": "Initial hemodialysis",
-                    "id": "02a55ce8-efdd-4e1c-a195-ecd65e3b19b0",
+                    "id": "a3410816-82f2-433d-aa0d-325a66b2e649",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -635,7 +635,7 @@
                 {
                     "children": [],
                     "display": "Peritoneal dialysis including cannulation",
-                    "id": "bbcf3dbd-b7aa-4b65-bb46-43fd85b25448",
+                    "id": "e1fb717d-1b97-4e36-a02f-536d1fe1fa8b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -649,7 +649,7 @@
                 {
                     "children": [],
                     "display": "Hemodialysis, maintenance at home",
-                    "id": "1679d95f-0a81-4794-8a0b-35ce263d5223",
+                    "id": "48e4fb37-f7f8-448c-906a-fbb0dfa60446",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -663,7 +663,7 @@
                 {
                     "children": [],
                     "display": "Hemodialysis, supervision at home",
-                    "id": "61d2fb61-0567-4bd2-84b0-e9df999ed5da",
+                    "id": "5d3a38dc-8faf-4419-baa2-8789e0027ed0",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -677,7 +677,7 @@
                 {
                     "children": [],
                     "display": "Sustained low-efficiency dialysis",
-                    "id": "5e94f695-30d6-49b4-84fc-41245263fb8f",
+                    "id": "b4732c0a-e69c-421a-88a5-0bea5ca62ba7",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -691,7 +691,7 @@
                 {
                     "children": [],
                     "display": "Maintenance hemodiafiltration",
-                    "id": "053045e6-f34c-46a0-933e-ebc739cea8b5",
+                    "id": "bf7c38af-8058-48e8-aead-35a7949c0a9b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -705,7 +705,7 @@
                 {
                     "children": [],
                     "display": "Maintenance hemodialysis",
-                    "id": "284ab924-5361-4720-a6f5-5854e3b9265a",
+                    "id": "f5f04812-edbc-4b46-93e7-90e27d18bca9",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -719,7 +719,7 @@
                 {
                     "children": [],
                     "display": "Emergency hemodialysis",
-                    "id": "e5837fd1-19c2-414a-bde4-d68a8a4c45ec",
+                    "id": "d8afc40b-058e-44bf-a439-cc4c4e17d8cc",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -733,7 +733,7 @@
                 {
                     "children": [],
                     "display": "Emergency hemodiafiltration",
-                    "id": "2ccc6ed7-40e1-439f-b003-37c120a9ae00",
+                    "id": "c2ec9430-b0c7-4768-8a7c-90ae3b7c6c06",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -747,7 +747,7 @@
                 {
                     "children": [],
                     "display": "Maintenance hemofiltration",
-                    "id": "e27ca634-5e9f-43fd-a039-121305bd9f8d",
+                    "id": "ba9242bd-bc80-42ac-a200-72a9552992d0",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -761,7 +761,7 @@
                 {
                     "children": [],
                     "display": "Peritoneal dialysis",
-                    "id": "d4d522c0-60df-44ce-8b95-b154eb3e50a9",
+                    "id": "4c71bdc7-eb13-49bb-8a5e-88e67202ae37",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -775,7 +775,7 @@
                 {
                     "children": [],
                     "display": "Continuous renal replacement therapy",
-                    "id": "0d1df5c7-92eb-4a2c-958a-b306e7d1ba68",
+                    "id": "e8959ab2-d09b-4873-8586-585e4d3995fc",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -789,7 +789,7 @@
                 {
                     "children": [],
                     "display": "Emergency hemofiltration",
-                    "id": "15b42b49-2ef4-4265-9e23-8c2f5a816384",
+                    "id": "40bd038e-a99a-4033-8a92-755038acc070",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -803,7 +803,7 @@
                 {
                     "children": [],
                     "display": "Peritoneal dialysis catheter maintenance",
-                    "id": "2873c5ed-9099-4fc1-a714-561d97af0550",
+                    "id": "dbf9cb05-578f-47bf-ae62-0e66aa3ccd48",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -817,7 +817,7 @@
                 {
                     "children": [],
                     "display": "Venoarterial extracorporeal membrane oxygenation",
-                    "id": "7051c1d4-54a9-43d5-a7ef-6496e1364cc4",
+                    "id": "89d92878-fbca-45f2-b532-7754ee18cc65",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -831,7 +831,7 @@
                 {
                     "children": [],
                     "display": "Arteriovenous extracorporeal membrane oxygenation",
-                    "id": "bcfbbc37-4807-4b49-a152-e05c9acbab72",
+                    "id": "49620ac4-b19a-4877-9100-587688897e02",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -845,7 +845,7 @@
                 {
                     "children": [],
                     "display": "Venovenous extracorporeal membrane oxygenation",
-                    "id": "bc9d49a1-a607-4369-bef6-33195ac4e291",
+                    "id": "7f68d35a-5df3-4083-b5c0-180f1c5f7b2a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -859,7 +859,7 @@
                 {
                     "children": [],
                     "display": "Prolonged intermittent renal replacement therapy",
-                    "id": "2a1d05fe-5f16-4cd1-abca-0030ead3ef69",
+                    "id": "2af94024-1d04-4a7b-902b-76ac483296a3",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -872,7 +872,7 @@
                 }
             ],
             "display": "Dialyse / H\u00e4mofiltration",
-            "id": "0539b676-a086-446d-8bf1-429ec57ac37b",
+            "id": "a4263198-a496-4a73-b3ae-c023e6dfd297",
             "leaf": false,
             "selectable": true,
             "termCode": {
@@ -888,7 +888,7 @@
                 {
                     "children": [],
                     "display": "Apheresis",
-                    "id": "3b019662-600a-470d-9f6e-4bc034d5f90f",
+                    "id": "6fcf0eb7-56c5-4ee2-b371-4f74345c2832",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -902,7 +902,7 @@
                 {
                     "children": [],
                     "display": "Plasma exchange",
-                    "id": "db422b0e-d553-420c-9c4f-bac8ce53afec",
+                    "id": "fc187b36-55f0-4390-9275-fa0374ffad48",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -916,7 +916,7 @@
                 {
                     "children": [],
                     "display": "Plasmapheresis",
-                    "id": "897eb1cc-c10e-4573-95ce-99eac880f173",
+                    "id": "00340c6d-44f9-4474-9532-5639dddbafca",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -930,7 +930,7 @@
                 {
                     "children": [],
                     "display": "Therapeutic plasma exchange",
-                    "id": "040732df-f7fb-4934-82df-9318a71ddd5a",
+                    "id": "b214586a-2ff1-4878-a3ea-218f1f6e68d9",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -944,7 +944,7 @@
                 {
                     "children": [],
                     "display": "Platelet apheresis using HLA matched donors",
-                    "id": "8481fdcb-e775-4578-ab85-2ffca140201d",
+                    "id": "e2f8c525-bb62-4a31-9a17-238daece0cc9",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -958,7 +958,7 @@
                 {
                     "children": [],
                     "display": "Platelet apheresis using random donors",
-                    "id": "f12a399f-6089-47c0-9384-56d79a4dbd6a",
+                    "id": "70e1963b-40e9-4c70-bdc1-6e8dcb6ea0f3",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -972,7 +972,7 @@
                 {
                     "children": [],
                     "display": "Lipopheresis",
-                    "id": "102aef7e-9dbe-4e1f-a390-1f3698ccd58a",
+                    "id": "42c14f17-ff6e-410d-99cc-cb6752d1c65a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -986,7 +986,7 @@
                 {
                     "children": [],
                     "display": "Erythrocytapheresis",
-                    "id": "eb39a643-ddb2-4978-a995-b7e1386e731e",
+                    "id": "432434e9-9374-4bd8-96ad-5e0717cde60c",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1000,7 +1000,7 @@
                 {
                     "children": [],
                     "display": "Low density lipoprotein apheresis",
-                    "id": "530109a7-a42b-40fc-bafd-46ba0f33cc87",
+                    "id": "d78c4c9b-c78c-4d9a-adc2-fac61711ccb1",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1014,7 +1014,7 @@
                 {
                     "children": [],
                     "display": "Plateletpheresis",
-                    "id": "92dda586-3005-48b4-bb09-05981803e10e",
+                    "id": "7dad8d76-42ae-45ff-ac9f-84616275be3a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1028,7 +1028,7 @@
                 {
                     "children": [],
                     "display": "Leukopheresis",
-                    "id": "bc098258-f5eb-4e3d-a0fc-130a5f6a675a",
+                    "id": "d3759423-ff84-4b23-9b19-1ad6f0fec303",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1042,7 +1042,7 @@
                 {
                     "children": [],
                     "display": "Extracorporeal photopheresis",
-                    "id": "0dd1783b-a301-4473-8ba2-d50407395386",
+                    "id": "b04fba7c-e91d-4b66-90a4-dd790f051ecb",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1055,7 +1055,7 @@
                 }
             ],
             "display": "Apherese",
-            "id": "c83c6a1a-799b-4460-9fc3-d6c2436204e9",
+            "id": "8f7e6d42-be17-4ecf-b997-a7dbd898550d",
             "leaf": false,
             "selectable": true,
             "termCode": {
@@ -1069,7 +1069,7 @@
         {
             "children": [],
             "display": "Bauchlage",
-            "id": "82cdbe20-9cbd-40e5-903b-fadea4ab930b",
+            "id": "aab9d2a2-508c-4157-ae3b-91e31d29580a",
             "leaf": false,
             "selectable": true,
             "termCode": {
@@ -1083,7 +1083,7 @@
         {
             "children": [],
             "display": "ECMO-Therapie",
-            "id": "3b56d105-68d7-4863-a0d2-5b4f9d0b3db0",
+            "id": "a1d30402-8fe0-4792-84cd-212ca81c692c",
             "leaf": false,
             "selectable": true,
             "termCode": {
@@ -1097,7 +1097,7 @@
         {
             "children": [],
             "display": "Liegt der Patient auf der Intensivstation?",
-            "id": "6de79d5b-7fc9-4dc5-b5cb-79feb093b1eb",
+            "id": "b1b3f14c-2191-41a7-ad86-23264110bd5f",
             "leaf": true,
             "selectable": true,
             "termCode": {
@@ -1146,7 +1146,7 @@
                 {
                     "children": [],
                     "display": "Whole body hyperbaric oxygen therapy",
-                    "id": "7de99f28-c23f-4e44-b26d-29988c294525",
+                    "id": "28ee8804-a272-4278-a7cc-146e9990895c",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1160,7 +1160,7 @@
                 {
                     "children": [],
                     "display": "Respiratory assist, manual",
-                    "id": "28e74729-7e9a-4fb7-bc9c-3b97182b5fa2",
+                    "id": "4d7f54e6-ccaf-4521-aa37-b3e9ddc2b81b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1174,7 +1174,7 @@
                 {
                     "children": [],
                     "display": "Breathing exercise, blow bottle",
-                    "id": "e9cec74a-663c-44e4-9b08-47e80e922370",
+                    "id": "f9a09f3a-cd5b-4999-82d6-a6f96f0b3803",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1188,7 +1188,7 @@
                 {
                     "children": [],
                     "display": "Respiratory care and adjustment",
-                    "id": "ddb95d9b-5bf4-4084-a6de-942c03c57264",
+                    "id": "b9aa53f0-2ae8-49fd-aae1-44f75ac3090b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1202,7 +1202,7 @@
                 {
                     "children": [],
                     "display": "Positive expiratory pressure mask physiotherapy",
-                    "id": "8e112382-c1b9-45c1-b22b-6cf2a4455394",
+                    "id": "daf13df3-e664-4707-985d-07b35eefdfe2",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1216,7 +1216,7 @@
                 {
                     "children": [],
                     "display": "Oscillating positive expiratory pressure (flutter) physiotherapy",
-                    "id": "99f60544-c2d8-4472-81fc-4ead14b57bc3",
+                    "id": "fbd045f4-72a3-499a-b009-f408398ce58a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1230,7 +1230,7 @@
                 {
                     "children": [],
                     "display": "High frequency chest compression vest physiotherapy",
-                    "id": "c131a3a1-9248-4ba6-8f35-ca41518a479f",
+                    "id": "5147ab5c-b13c-4d0e-8655-857f1884ef66",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1244,7 +1244,7 @@
                 {
                     "children": [],
                     "display": "Autogenic pulmonary drainage",
-                    "id": "aef7f747-c8e3-4301-88c6-e6aa123727f0",
+                    "id": "158a4d02-ae06-40b6-86e1-38a5dafd5d07",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1258,7 +1258,7 @@
                 {
                     "children": [],
                     "display": "Physiotherapeutic breathing exercise",
-                    "id": "526b3e6c-3c15-438f-a083-6388d5eb4182",
+                    "id": "e158131f-0db9-45b5-b494-01cc0cf0fcbc",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1272,7 +1272,7 @@
                 {
                     "children": [],
                     "display": "Inhalation therapy procedure",
-                    "id": "aea6075b-426e-4ae3-8ca9-edcc5d7aa40b",
+                    "id": "ed2c604c-efef-43c6-97c8-525803300b67",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1286,7 +1286,7 @@
                 {
                     "children": [],
                     "display": "Endotracheal respiratory assistance",
-                    "id": "abed4977-2e22-4685-be0b-3b67c7ee9bbc",
+                    "id": "d280289b-f601-414b-9ca6-e1f43fdfb36a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1300,7 +1300,7 @@
                 {
                     "children": [],
                     "display": "Intermittent positive pressure ventilation",
-                    "id": "63891134-45fd-4eb2-860c-ea226910868e",
+                    "id": "c3f7f8d7-0923-47d4-8140-3c9785348e0d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1314,7 +1314,7 @@
                 {
                     "children": [],
                     "display": "Catalytic oxygen therapy",
-                    "id": "8e9419f4-b4e1-4ee8-ae51-0993c4f38483",
+                    "id": "74294d57-6ed4-4ccd-a252-5763b3ac634c",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1328,7 +1328,7 @@
                 {
                     "children": [],
                     "display": "Oxygenator therapy",
-                    "id": "632089c9-73af-40d0-948d-7c6f465b4b38",
+                    "id": "be1665cd-3a3a-4fe6-8f47-11b662f4b7fc",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1342,7 +1342,7 @@
                 {
                     "children": [],
                     "display": "Asthma control step 0",
-                    "id": "273d5ec6-f1e1-415d-af96-b16346e72f7f",
+                    "id": "00074fa6-8ee0-448b-984b-d9afe146b75a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1356,7 +1356,7 @@
                 {
                     "children": [],
                     "display": "Asthma control step 1",
-                    "id": "e857f758-0ba3-4115-abc3-34a5fd9d7362",
+                    "id": "0fe8cc66-2c5b-43b4-89bc-4430a09d6e56",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1370,7 +1370,7 @@
                 {
                     "children": [],
                     "display": "Asthma control step 2",
-                    "id": "d17e38da-1368-4991-b092-3a590873443f",
+                    "id": "3802ad26-5bd9-42e7-9bd3-7d5877455323",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1384,7 +1384,7 @@
                 {
                     "children": [],
                     "display": "Asthma control step 3",
-                    "id": "4b0ea174-171f-4080-bf7d-db12a5590644",
+                    "id": "f654eba1-9e3f-45f9-b1ce-88107ae96a51",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1398,7 +1398,7 @@
                 {
                     "children": [],
                     "display": "Asthma control step 4",
-                    "id": "60555db7-fa40-40a5-a50b-3a82406079c9",
+                    "id": "ddddcf0e-42b3-4081-b9f9-d46e6c943615",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1412,7 +1412,7 @@
                 {
                     "children": [],
                     "display": "Asthma control step 5",
-                    "id": "45947f68-ab4b-4cdf-bbfe-1f157136bb47",
+                    "id": "e5629c6b-6460-4b96-b6d8-469d7ef6ed56",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1426,7 +1426,7 @@
                 {
                     "children": [],
                     "display": "Hyperbaric oxygen therapy",
-                    "id": "0cecc004-5359-485a-994d-6bee72ef382c",
+                    "id": "0e28cad0-2560-49af-9046-9e2a9139f0b6",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1440,7 +1440,7 @@
                 {
                     "children": [],
                     "display": "Intermittent positive pressure breathing treatment with nebulized medication",
-                    "id": "cc2e7a2a-6487-405a-9b69-3ce922e67a7b",
+                    "id": "7d97675e-315e-4f92-9679-4217c97bf619",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1454,7 +1454,7 @@
                 {
                     "children": [],
                     "display": "Helium therapy",
-                    "id": "357d3ac1-d35b-477c-a961-adf33f409ed5",
+                    "id": "5a509599-c3ac-478f-b25c-392e9af21885",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1468,7 +1468,7 @@
                 {
                     "children": [],
                     "display": "Respiratory expansion exercises",
-                    "id": "4c69819e-3a22-4c64-8654-ffe02b8e04c1",
+                    "id": "49dd4705-7b11-4c84-921c-9976b056c04c",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1482,7 +1482,7 @@
                 {
                     "children": [],
                     "display": "Deep breathing exercises",
-                    "id": "93164889-cfcd-4e08-8be2-1a254e71e6eb",
+                    "id": "0707a704-d1ee-438b-933e-0e9eeb874026",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1496,7 +1496,7 @@
                 {
                     "children": [],
                     "display": "Lower lateral costal expansion exercises",
-                    "id": "c8cd8e62-5919-4521-9291-5817e9f968b5",
+                    "id": "cfbb1dda-e586-466c-8ece-ab0e88cd9d6f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1510,7 +1510,7 @@
                 {
                     "children": [],
                     "display": "Basal expansion exercises",
-                    "id": "08b7d413-ed15-49f4-bbe7-4f943add99ed",
+                    "id": "4fa8fce2-d261-47e8-89bf-8a197e86fa97",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1524,7 +1524,7 @@
                 {
                     "children": [],
                     "display": "Apical expansion exercises",
-                    "id": "358e691d-561c-428b-8b38-62afd6eb3998",
+                    "id": "7b5f859b-41f5-452b-a12d-282c4bae0fef",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1538,7 +1538,7 @@
                 {
                     "children": [],
                     "display": "Thoracic expansion exercises",
-                    "id": "f08c8a5d-a0be-450c-82b4-108b6886712b",
+                    "id": "bfe7c17b-7f80-48ce-924e-4596b6975fee",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1552,7 +1552,7 @@
                 {
                     "children": [],
                     "display": "Upper thoracic expansion exercises",
-                    "id": "c168d4ab-1e8e-42f9-85a7-c52c2bc10e98",
+                    "id": "14b62d16-e0a6-429b-84b8-73e46c16f216",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1566,7 +1566,7 @@
                 {
                     "children": [],
                     "display": "Lower thoracic expansion exercises",
-                    "id": "ea4617b8-4696-499c-a901-148da5ab2bb7",
+                    "id": "cec0014c-7aa2-4018-a7c6-36df6577b3b7",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1580,7 +1580,7 @@
                 {
                     "children": [],
                     "display": "Active cycle of breathing technique",
-                    "id": "38779016-68a1-4bbf-83c9-3b0448027c42",
+                    "id": "5c4b8367-3843-434f-a712-e28ab14a41a0",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1594,7 +1594,7 @@
                 {
                     "children": [],
                     "display": "Forced expiration technique",
-                    "id": "96fa4873-7917-486e-bb72-78ea7e2ba4f7",
+                    "id": "5d28d1e6-810b-476e-b75e-cc558da1e987",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1608,7 +1608,7 @@
                 {
                     "children": [],
                     "display": "Sputum induction technique",
-                    "id": "7105c60b-d312-4295-bf63-88ad6156169a",
+                    "id": "59f544a6-f266-487e-970e-3fb4724a5ef2",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1622,7 +1622,7 @@
                 {
                     "children": [],
                     "display": "Expectoration technique",
-                    "id": "617634a3-b74c-448a-a533-1270079c96b5",
+                    "id": "3a19a437-544a-4ba7-8534-7614a67acc40",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1636,7 +1636,7 @@
                 {
                     "children": [],
                     "display": "Breathing control",
-                    "id": "88c8f2e3-d596-491e-b548-e2bd71ebcb0b",
+                    "id": "1f309cba-89d0-4d17-a231-daca9a3ed2b7",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1650,7 +1650,7 @@
                 {
                     "children": [],
                     "display": "Relaxed breathing",
-                    "id": "a35cccb7-339e-4456-af0d-e06f381c4140",
+                    "id": "fa064ab2-27d7-412a-a75e-3d00691610db",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1664,7 +1664,7 @@
                 {
                     "children": [],
                     "display": "Inspiratory muscle training",
-                    "id": "3bac38ad-e823-49c7-8f83-08731e2db331",
+                    "id": "37d65d6d-cf53-435e-963a-9a5e70551dd9",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1678,7 +1678,7 @@
                 {
                     "children": [],
                     "display": "Incentive spirometry",
-                    "id": "88e1cea5-1188-46ab-b3c8-14eec11f2f2c",
+                    "id": "6439fa82-db52-4731-9114-3557a751b281",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1692,7 +1692,7 @@
                 {
                     "children": [],
                     "display": "Ultrasonic humidification",
-                    "id": "4519d279-ef56-46b0-9939-4c3f5c708b86",
+                    "id": "893fd233-f112-4064-a986-8601f80ce913",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1706,7 +1706,7 @@
                 {
                     "children": [],
                     "display": "Mist inhalation therapy",
-                    "id": "68fd9ce9-fcf0-47de-b46d-b8aab97730f1",
+                    "id": "fa86a434-9e6c-41c3-b0d1-316ab6d9e02c",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1720,7 +1720,7 @@
                 {
                     "children": [],
                     "display": "Steam inhalations",
-                    "id": "47f5c640-10ed-4076-9efb-7f1fab3040bd",
+                    "id": "15817a89-cab6-4aea-8e9e-8924e1b110c3",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1734,7 +1734,7 @@
                 {
                     "children": [],
                     "display": "Menthol inhalations",
-                    "id": "d503a2e2-cc16-4d0f-8626-9528f009ee6e",
+                    "id": "a1ae2c4a-eb28-4017-827e-8c9fa9c33759",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1748,7 +1748,7 @@
                 {
                     "children": [],
                     "display": "Positive pressure therapy",
-                    "id": "e55d0e77-917a-4387-be33-63c8a96a412f",
+                    "id": "999999b0-22c4-4415-b381-9b67c01168bd",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1762,7 +1762,7 @@
                 {
                     "children": [],
                     "display": "Intermittent CPAP",
-                    "id": "46b33f8b-427e-4e81-a029-c5286bc26369",
+                    "id": "7bc23032-3bc0-4e71-bb80-ee3a9b069a90",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1776,7 +1776,7 @@
                 {
                     "children": [],
                     "display": "Nasal ventilation therapy",
-                    "id": "c564a5a5-0dc3-4acc-9153-36735a80257d",
+                    "id": "fe797b9e-dca5-493c-b342-c33e63e3467f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1790,7 +1790,7 @@
                 {
                     "children": [],
                     "display": "Manual hyperinflation",
-                    "id": "d460a350-3752-4e0c-b233-0bca4e110eb9",
+                    "id": "bc1f5d92-0527-4c08-918f-5cf7ade20089",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1804,7 +1804,7 @@
                 {
                     "children": [],
                     "display": "Breathing awareness for childbirth",
-                    "id": "ab8c3512-3a7e-4bb4-9f00-33db9ac3fe1c",
+                    "id": "4101be5e-adf4-477f-969c-e6fbb67d8b77",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1818,7 +1818,7 @@
                 {
                     "children": [],
                     "display": "Diaphragmatic breathing exercises",
-                    "id": "36878dcd-69cc-416f-aea1-b32ad17e7e8b",
+                    "id": "e1d8274d-7aa6-4c70-87bf-2c2d573567ba",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1832,7 +1832,7 @@
                 {
                     "children": [],
                     "display": "Airway suction technique",
-                    "id": "67d0308f-339b-44b4-95dd-fb2f7b095872",
+                    "id": "535ba3de-d7f7-4c50-8659-283bf4d1a713",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1846,7 +1846,7 @@
                 {
                     "children": [],
                     "display": "Humidification therapy",
-                    "id": "f43d3405-9ec5-431f-8f3f-252478c9a715",
+                    "id": "3494917a-00f5-4a97-85d9-d52e2eb5c6bb",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1860,7 +1860,7 @@
                 {
                     "children": [],
                     "display": "Helium inhalation therapy",
-                    "id": "3e9a3fbd-b699-4975-b852-423e472a2847",
+                    "id": "e1adb906-a414-4868-aec8-03e9f3c312dc",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1874,7 +1874,7 @@
                 {
                     "children": [],
                     "display": "Short-term oxygen therapy",
-                    "id": "db39f76a-000f-4945-b07d-b2e408e62501",
+                    "id": "db64b57f-7220-436f-8823-3b85ccbd9844",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1888,7 +1888,7 @@
                 {
                     "children": [],
                     "display": "Long-term oxygen therapy",
-                    "id": "05e4edbc-8aa4-4b35-8274-d51a86b3ef94",
+                    "id": "29efac83-f6ea-49cd-8504-e1baf679300b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1902,7 +1902,7 @@
                 {
                     "children": [],
                     "display": "High ambient pressure therapy",
-                    "id": "2e845539-dc99-47de-b434-c17982fd75c1",
+                    "id": "6a08cce5-a4c6-48e3-8a1c-1d7c6f2b3f57",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1916,7 +1916,7 @@
                 {
                     "children": [],
                     "display": "Lung inflation by intermittent compression of reservoir bag",
-                    "id": "a0e0d94a-d696-4049-b818-2f551e65f07d",
+                    "id": "28343b2f-681e-47d8-b991-21f469fc89b8",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1930,7 +1930,7 @@
                 {
                     "children": [],
                     "display": "Mechanically assisted spontaneous ventilation",
-                    "id": "caa66320-4698-4cad-81fd-41517e875ae1",
+                    "id": "39b842a1-171a-489a-9d66-03befedc43ca",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1944,7 +1944,7 @@
                 {
                     "children": [],
                     "display": "Dual pressure spontaneous ventilation support",
-                    "id": "fb166216-bd33-495c-aae7-9f2336fb8858",
+                    "id": "de54112a-f472-4ec7-be8b-a1944a2f9fec",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1958,7 +1958,7 @@
                 {
                     "children": [],
                     "display": "Airway pressure release ventilation",
-                    "id": "4419fb3e-40c9-4b50-9602-906737039871",
+                    "id": "fd728181-d077-4c21-907c-781af23b1185",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1972,7 +1972,7 @@
                 {
                     "children": [],
                     "display": "Patient triggered inspiratory assistance",
-                    "id": "89092943-1e43-4813-8ab9-4e33b81a1144",
+                    "id": "5d02629a-d928-4448-88f6-f90a1e40e6a1",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -1986,7 +1986,7 @@
                 {
                     "children": [],
                     "display": "Diaphragmatic augmentation",
-                    "id": "23e2861d-1e63-4a23-a6e5-88bd05f65ce2",
+                    "id": "c9ca1b36-9989-4c48-8c86-c5049c9299da",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2000,7 +2000,7 @@
                 {
                     "children": [],
                     "display": "Diaphragmatic augmentation by rocking bed",
-                    "id": "7f9cdb2f-d21e-44f6-a7f6-b4187eaf44e2",
+                    "id": "2b2765f4-7932-4a8d-90b0-b856bf2c8915",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2014,7 +2014,7 @@
                 {
                     "children": [],
                     "display": "Controlled ventilation",
-                    "id": "f0121ee6-1e4f-4bb2-b498-ce1641005d8a",
+                    "id": "6f3fcb1d-eda7-4f13-a897-5a17059f1376",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2028,7 +2028,7 @@
                 {
                     "children": [],
                     "display": "Controlled mandatory ventilation",
-                    "id": "71918c6a-3da3-491a-93ab-6a80dc2ee4ab",
+                    "id": "4b9b3448-dd40-44a2-8291-a5fa06e4d908",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2042,7 +2042,7 @@
                 {
                     "children": [],
                     "display": "Controlled mandatory ventilation with sigh",
-                    "id": "5d6b6348-27e0-4c20-85ba-5c5657113f3d",
+                    "id": "3a33d851-c912-4e22-9210-a7fc6b120281",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2056,7 +2056,7 @@
                 {
                     "children": [],
                     "display": "Assisted controlled mandatory ventilation",
-                    "id": "26db668b-4e81-4d91-99c7-0771972c34d2",
+                    "id": "fd9c0dbf-3315-4c0a-a6f7-198c42b056b8",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2070,7 +2070,7 @@
                 {
                     "children": [],
                     "display": "Mandatory minute volume ventilation",
-                    "id": "185ce3fa-ca83-4013-8479-f295de0f9409",
+                    "id": "10a56676-07a8-4688-8c9b-52c23dbd55f0",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2084,7 +2084,7 @@
                 {
                     "children": [],
                     "display": "Extended mandatory minute volume ventilation",
-                    "id": "561e7ad6-22ac-4430-bf21-16173dc9367b",
+                    "id": "3d6c4934-9b49-4163-9df6-550d55a1e380",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2098,7 +2098,7 @@
                 {
                     "children": [],
                     "display": "High frequency positive pressure ventilation",
-                    "id": "0ac8065f-7f42-4e08-8934-edc1a67d5ccf",
+                    "id": "dcea9e96-872a-40bd-b896-13c96f7cdfae",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2112,7 +2112,7 @@
                 {
                     "children": [],
                     "display": "High frequency jet ventilation",
-                    "id": "6129651a-4342-4baa-a27f-81e7e4d4e8a0",
+                    "id": "6b18d022-80ce-45e2-9914-d90d7eaffbd8",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2126,7 +2126,7 @@
                 {
                     "children": [],
                     "display": "High frequency oscillatory ventilation",
-                    "id": "982bc3f6-3d3f-4cd2-a04b-f91ea2222f31",
+                    "id": "f34d43c5-aa87-4d95-8f5c-e460e96f63cd",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2140,7 +2140,7 @@
                 {
                     "children": [],
                     "display": "Continuous flow ventilation",
-                    "id": "9982d1cf-ee9a-4d86-87d2-ff5977fb87c7",
+                    "id": "34e16fa4-0552-42bd-a31b-b83e6a79d54d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2154,7 +2154,7 @@
                 {
                     "children": [],
                     "display": "Liquid ventilation",
-                    "id": "d05e7955-e83f-4bbe-ab5a-e33498f18577",
+                    "id": "87619a05-6c72-46db-a18c-0db47776ff88",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2168,7 +2168,7 @@
                 {
                     "children": [],
                     "display": "Fluorocarbon ventilation",
-                    "id": "1e5c0cb6-d90d-4465-9797-0c3066474c37",
+                    "id": "3c9f333d-7052-4abc-92a7-2f17b1cb69d2",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2182,7 +2182,7 @@
                 {
                     "children": [],
                     "display": "Intermittent negative pressure ventilation",
-                    "id": "9810bd7d-edcf-442b-b6b7-a461a8136ded",
+                    "id": "d4146d7f-ef9a-4f81-bf50-0f23d896ad91",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2196,7 +2196,7 @@
                 {
                     "children": [],
                     "display": "Control of end expiratory pressure",
-                    "id": "d1a6119d-60fc-4153-86f6-b7a06e6f734f",
+                    "id": "529f5edf-834d-4fd9-850e-68a13686e877",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2210,7 +2210,7 @@
                 {
                     "children": [],
                     "display": "Positive end expiratory pressure increased",
-                    "id": "d834a041-c695-4b84-ab55-5b692df24be0",
+                    "id": "784cf5b3-694b-444a-ac6e-87e30618773d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2224,7 +2224,7 @@
                 {
                     "children": [],
                     "display": "Positive end expiratory pressure increased to optimal PEEP",
-                    "id": "05858706-7c87-43d5-89ad-37e7b598143b",
+                    "id": "0a4ff225-dd3f-469f-b735-23dea61f7c32",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2238,7 +2238,7 @@
                 {
                     "children": [],
                     "display": "Positive end expiratory pressure increased to best PEEP",
-                    "id": "7a99476b-9438-4027-982b-2039785207f5",
+                    "id": "09140905-6538-431c-ab60-e7c615c8e149",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2252,7 +2252,7 @@
                 {
                     "children": [],
                     "display": "Positive end expiratory pressure reduced",
-                    "id": "9a5bb684-5a1c-4a55-b823-da4c58694655",
+                    "id": "adb09fe5-52d5-4d39-84e8-521fccd150f9",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2266,7 +2266,7 @@
                 {
                     "children": [],
                     "display": "Positive end expiratory pressure reduced to optimal PEEP",
-                    "id": "e15b6a8f-11d5-4929-8a10-8dcd386b1cff",
+                    "id": "ad431887-adfd-4d92-a78f-800f73f67bb3",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2280,7 +2280,7 @@
                 {
                     "children": [],
                     "display": "Positive end expiratory pressure reduced to best PEEP",
-                    "id": "0527e1ae-c5ad-4a0c-98c9-d846339e5b06",
+                    "id": "49234099-d3d9-4d1a-b4b1-b64d0530532f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2294,7 +2294,7 @@
                 {
                     "children": [],
                     "display": "Positive end expiratory pressure withdrawn",
-                    "id": "90fa9b5e-f0bf-42a0-b1aa-1e24d51d9765",
+                    "id": "61568d1c-ffbb-4d53-9989-62f408afb61e",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2308,7 +2308,7 @@
                 {
                     "children": [],
                     "display": "Zero end expiratory pressure maintained",
-                    "id": "86ed23c8-18da-445f-a6ee-911778124378",
+                    "id": "c139a3c8-1597-46e1-aa75-648c63c62105",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2322,7 +2322,7 @@
                 {
                     "children": [],
                     "display": "Negative end expiratory pressure applied",
-                    "id": "a8b93d99-3f57-4044-8c4f-36072c37fa0f",
+                    "id": "741dbb16-0e45-4a60-916d-9431f616b08d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2336,7 +2336,7 @@
                 {
                     "children": [],
                     "display": "NEEP increased - Negative end expiratory pressure increased",
-                    "id": "eab0c896-5612-42e6-a311-dfe3ca2d2871",
+                    "id": "c562bc23-7214-4479-8e9f-ef413a5378c6",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2350,7 +2350,7 @@
                 {
                     "children": [],
                     "display": "NEEP decreased - Negative end expiratory pressure decreased",
-                    "id": "c7e2468d-6eb6-41d0-ba5e-5d65e19599be",
+                    "id": "3ca03afa-5bd3-4b4f-af45-429d17e8d68b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2364,7 +2364,7 @@
                 {
                     "children": [],
                     "display": "Weaning from mechanically assisted ventilation",
-                    "id": "5316583b-7ca9-466c-ab51-889b71298616",
+                    "id": "69c3976e-c949-49ba-9661-f093fa4d10d6",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2378,7 +2378,7 @@
                 {
                     "children": [],
                     "display": "Global oxygen delivery increase",
-                    "id": "64dfe3cc-1c24-4433-a870-bfca88f27a54",
+                    "id": "eed9ecd3-4e59-4cca-8302-4cbdf70192c2",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2392,7 +2392,7 @@
                 {
                     "children": [],
                     "display": "Reduction of oxygen consumption",
-                    "id": "1b92ecd1-7f50-4a88-ab63-196d012dfb1a",
+                    "id": "ff1a9e75-644a-480a-a1f2-f0deebbb2a37",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2406,7 +2406,7 @@
                 {
                     "children": [],
                     "display": "Expired air ventilation",
-                    "id": "1ef1836e-97f7-4e30-8823-7a8fb6922440",
+                    "id": "6de35837-b0c8-4c5a-b896-a54825097458",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2420,7 +2420,7 @@
                 {
                     "children": [],
                     "display": "Expired air ventilation with airway aid",
-                    "id": "edb3b9ab-ccc1-4ac8-a707-0d8050fc57b0",
+                    "id": "fe0167b9-be23-442e-a720-e5097c1a07b3",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2434,7 +2434,7 @@
                 {
                     "children": [],
                     "display": "Mouth to mouth expired air ventilation with airway",
-                    "id": "f8fce77c-89b8-4bdb-9719-88c1e2ce01d0",
+                    "id": "f05f104a-4e5a-4772-a7cc-2a92e127fcc7",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2448,7 +2448,7 @@
                 {
                     "children": [],
                     "display": "Mouth to nose expired air ventilation",
-                    "id": "cb5490d1-0cd2-4720-9c98-e506c525b809",
+                    "id": "c2e91d2e-ad97-47e2-a53b-fddb9ed8f087",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2462,7 +2462,7 @@
                 {
                     "children": [],
                     "display": "Ventilation with self-inflating bag",
-                    "id": "ce63642e-a2d6-4503-a0a9-520551b33c39",
+                    "id": "4e10338d-87f3-4cf4-b1d7-66b604606ffc",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2476,7 +2476,7 @@
                 {
                     "children": [],
                     "display": "Warming of inhaled gases",
-                    "id": "65842250-a372-45d8-9010-9dcbd0ac5da8",
+                    "id": "02539837-9875-460b-b71d-d1e1a6160da8",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2490,7 +2490,7 @@
                 {
                     "children": [],
                     "display": "Assisted breathing",
-                    "id": "ea90c0b1-e557-4541-b2ab-900e2ab51d73",
+                    "id": "9d7f4898-149c-4964-b374-7d10b86615e1",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2504,7 +2504,7 @@
                 {
                     "children": [],
                     "display": "Oxygen enrichment therapy",
-                    "id": "0f90438c-b0ba-40d2-8146-e10002650965",
+                    "id": "fd1f7769-9b5c-422d-b147-7874858a8305",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2518,7 +2518,7 @@
                 {
                     "children": [],
                     "display": "Controlled ventilation procedure and therapy, initiation and management",
-                    "id": "0e533d76-67a9-4794-b84e-674d8040f06a",
+                    "id": "63139877-9648-47e8-8653-e8556e343a05",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2532,7 +2532,7 @@
                 {
                     "children": [],
                     "display": "Respiratory therapy by atmospheric control",
-                    "id": "438b70d2-b9b1-4efe-8e64-df35d2374e4c",
+                    "id": "45116c1d-90d6-41de-bee8-c117dd9614b7",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2546,7 +2546,7 @@
                 {
                     "children": [],
                     "display": "Apneic oxygenation",
-                    "id": "0c481ff7-9dd9-410b-afcd-c4f6eb8f691b",
+                    "id": "d7e1cb1b-4d19-4b9f-bb74-aaa507f53be2",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2560,7 +2560,7 @@
                 {
                     "children": [],
                     "display": "Domiciliary ventilation",
-                    "id": "6bfe2332-bb4a-42f1-b69e-9132e653a60c",
+                    "id": "35d68c1c-7378-49ed-88f6-84146e96c8cd",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2574,7 +2574,7 @@
                 {
                     "children": [],
                     "display": "Cuirasse ventilation",
-                    "id": "9e238b1a-9eae-48f4-b120-7bd4c1a256bc",
+                    "id": "ead15b60-b321-4197-b2ae-b8473e415727",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2588,7 +2588,7 @@
                 {
                     "children": [],
                     "display": "Pressure controlled ventilation",
-                    "id": "e0de1283-3086-4288-9d54-dfcc46e1770d",
+                    "id": "cb57171a-573c-4588-aedf-cfb788f69404",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2602,7 +2602,7 @@
                 {
                     "children": [],
                     "display": "Pressure controlled SIMV",
-                    "id": "a32c1280-dfbc-4a55-9602-56ad3c2c8c17",
+                    "id": "1cb73b71-dcd0-4078-9a79-7e285bbc94c8",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2616,7 +2616,7 @@
                 {
                     "children": [],
                     "display": "Inspired gas humidification",
-                    "id": "81e133e6-ab00-4941-9284-8b469753b68c",
+                    "id": "a44d5581-c818-465d-9b06-cb7cb7e7594e",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2630,7 +2630,7 @@
                 {
                     "children": [],
                     "display": "Inhalation anesthesia, machine system, semi-closed, no rebreathing of primary agent",
-                    "id": "668e4ad8-fb36-4c01-8565-a2f5317cbc79",
+                    "id": "51479a70-22eb-4159-9471-2f8c7beedf42",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2644,7 +2644,7 @@
                 {
                     "children": [],
                     "display": "Asthma control steps",
-                    "id": "c5175811-6a05-4f4c-be94-b8aab842ac26",
+                    "id": "3c696899-d8d3-4142-92f8-b990c582eae3",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2658,7 +2658,7 @@
                 {
                     "children": [],
                     "display": "Humidified oxygen therapy",
-                    "id": "63336ecd-dca7-4b46-86fe-8841bea26530",
+                    "id": "0fc45674-0061-486c-b561-5fe79cb6586c",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2672,7 +2672,7 @@
                 {
                     "children": [],
                     "display": "Respiratory drainage techniques",
-                    "id": "ab3be363-eb62-4312-9406-17b70748ef51",
+                    "id": "efd369d7-99de-4125-806b-7c0213679b5a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2686,7 +2686,7 @@
                 {
                     "children": [],
                     "display": "High concentration oxygen therapy",
-                    "id": "1b201499-ee16-4b3f-a190-c3e3ce1fb8e1",
+                    "id": "203b6632-7f1f-4e56-9e80-c766438c438e",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2700,7 +2700,7 @@
                 {
                     "children": [],
                     "display": "Nocturnal continuous positive airway pressure",
-                    "id": "50320aae-6a8d-4798-998c-5ffde1a2307a",
+                    "id": "bf8d13df-4bdf-4f9c-bdad-ba0c45de00c5",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2714,7 +2714,7 @@
                 {
                     "children": [],
                     "display": "Nocturnal dual pressure spontaneous ventilation support",
-                    "id": "80a9d220-b14c-4009-b534-2d6093a01fea",
+                    "id": "a0b47479-fb63-44e3-9eb2-f17a5b413940",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2728,7 +2728,7 @@
                 {
                     "children": [],
                     "display": "Physiotherapy of chest",
-                    "id": "53de20ab-53fa-4a37-8045-548b48e852d8",
+                    "id": "11ae501f-f462-476b-99a9-d90d4044dc77",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2742,7 +2742,7 @@
                 {
                     "children": [],
                     "display": "Mouth-to-mouth resuscitation",
-                    "id": "e5b8375a-b456-4cf9-8141-1e9a4e63e547",
+                    "id": "13531070-cfeb-47ed-b932-e892be76e97b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2756,7 +2756,7 @@
                 {
                     "children": [],
                     "display": "Deep breathing and coughing exercises",
-                    "id": "356fbe9f-a279-4ac7-8b12-9bcb7b08a32b",
+                    "id": "e72e974f-f5a9-4d4d-af10-58d407ca35e7",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2770,7 +2770,7 @@
                 {
                     "children": [],
                     "display": "Oxygen administration by nasal cannula",
-                    "id": "96904f14-bff3-4220-8889-176241fa07cf",
+                    "id": "f51eabfd-501c-47a1-8e66-85de0a07e1e5",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2784,7 +2784,7 @@
                 {
                     "children": [],
                     "display": "Oxygen administration by mask",
-                    "id": "34f484b6-74f3-40c5-8100-7a69cbea5fed",
+                    "id": "5a92cf8d-de9b-4328-9020-9f847a88ec30",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2798,7 +2798,7 @@
                 {
                     "children": [],
                     "display": "Deep breathing, clapping and postural drainage",
-                    "id": "65b5f2b0-ee79-41ce-8477-7a9b0cbc6ba7",
+                    "id": "9d523039-44ba-4a72-8f78-a8191c3009ee",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2812,7 +2812,7 @@
                 {
                     "children": [],
                     "display": "Bennett respirator therapy",
-                    "id": "88303272-a520-4124-9e37-5c3a39aa6837",
+                    "id": "eee1a003-0d36-4864-9491-09b9f240ef79",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2826,7 +2826,7 @@
                 {
                     "children": [],
                     "display": "Bronchial hygiene",
-                    "id": "e3f9c520-99d2-47c9-ae6a-5d612afd7a26",
+                    "id": "c6261a77-8e9e-4a76-9644-a99df516153b",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2840,7 +2840,7 @@
                 {
                     "children": [],
                     "display": "Postural drainage therapy",
-                    "id": "76aac914-b760-457b-a604-e46970cd7868",
+                    "id": "e0607999-9dca-4814-8bd5-d277660ff1f2",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2854,7 +2854,7 @@
                 {
                     "children": [],
                     "display": "Postural drainage with chest clapping",
-                    "id": "1f7bfe3c-d0d9-4765-8549-47efb35745fe",
+                    "id": "b936ba60-5c2c-4380-b92f-0d0e94d3b5ba",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2868,7 +2868,7 @@
                 {
                     "children": [],
                     "display": "Intermittent positive pressure breathing treatment without nebulized medication",
-                    "id": "d474cc6b-4bf8-4aa5-b5ae-702f8e6e3167",
+                    "id": "cf263e5d-9c19-4f51-b15b-ec29beb0126f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2882,7 +2882,7 @@
                 {
                     "children": [],
                     "display": "Intermittent positive pressure breathing treatment",
-                    "id": "77517c54-f4e3-48d7-a8b1-13da4d19720c",
+                    "id": "cd161ed8-a9a4-4386-8692-709c7d00ab71",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2896,7 +2896,7 @@
                 {
                     "children": [],
                     "display": "Manipulation of oxygen dynamics",
-                    "id": "915d5ac1-9ee7-41b6-bfcf-4c6f27422b92",
+                    "id": "a7313253-3d8e-4e46-8682-f7ff5529bfc2",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2910,7 +2910,7 @@
                 {
                     "children": [],
                     "display": "Control of atmospheric pressure and composition with antigen-free air conditioning",
-                    "id": "90ff5155-9c45-4f32-a791-f9213270755b",
+                    "id": "a27e01f7-52ce-4550-980f-7f5a8cb7d56d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2924,7 +2924,7 @@
                 {
                     "children": [],
                     "display": "Administration of cardiovascular drug to increase oxygen delivery",
-                    "id": "a42bda3c-4601-49c8-bc90-66d8bf2b8377",
+                    "id": "be030339-d8c2-4fad-b21b-5e4532dcc452",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2938,7 +2938,7 @@
                 {
                     "children": [],
                     "display": "Alteration of hemoglobin concentration to increase oxygen delivery",
-                    "id": "f99f32fa-7ed3-48f4-bf10-6dc6cd2617ee",
+                    "id": "5dcdd3be-d4e2-48e8-b4bb-2dbcd74511eb",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2952,7 +2952,7 @@
                 {
                     "children": [],
                     "display": "Weaning from mechanically assisted ventilation commenced",
-                    "id": "e5c1b3fc-2cca-48e1-a978-a7e85ac647c8",
+                    "id": "9e75f601-51b1-4605-aec9-6f464e1ffe73",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2966,7 +2966,7 @@
                 {
                     "children": [],
                     "display": "Mechanical assistance to circulation to increase oxygen delivery",
-                    "id": "b2452f02-ffdd-490a-b9e4-dbc78975bc62",
+                    "id": "5215cea1-e6c3-4f73-bf5c-7a1bf6a80d95",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2980,7 +2980,7 @@
                 {
                     "children": [],
                     "display": "Weaning from mechanically assisted ventilation continued",
-                    "id": "05dea2e0-72e3-45b0-9e2d-d450b655f25f",
+                    "id": "177c2082-29d0-4951-b9a4-fab4151f5355",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -2994,7 +2994,7 @@
                 {
                     "children": [],
                     "display": "Oxygen dynamic interventions",
-                    "id": "56d53279-148c-447b-b9da-da3c8fd1395b",
+                    "id": "21d289fd-f5e0-4e14-a7c9-86b290fda5c3",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3008,7 +3008,7 @@
                 {
                     "children": [],
                     "display": "Alteration of circulating volume to increase oxygen delivery",
-                    "id": "c230eb9f-01cb-4392-ab3f-0eab5ceddad2",
+                    "id": "fd9b7c7d-7e23-44eb-a30d-bc366215ce6e",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3022,7 +3022,7 @@
                 {
                     "children": [],
                     "display": "Volume controlled ventilation",
-                    "id": "4abcf5f2-ce52-4200-b819-9f7dee6f7c3e",
+                    "id": "358fd8f6-9d8d-4099-8752-32699a449485",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3036,7 +3036,7 @@
                 {
                     "children": [],
                     "display": "Artificial respiration",
-                    "id": "4fdc6d21-7e24-4e45-b063-b04515d5f1ca",
+                    "id": "2d317e1e-cfba-4b38-8bea-9a68c03b9b7a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3050,7 +3050,7 @@
                 {
                     "children": [],
                     "display": "Intermittent positive pressure ventilation via bag and mask",
-                    "id": "7b9104e5-e055-406a-b402-aab82def828a",
+                    "id": "141d713f-9755-46e3-b065-adb54576534a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3064,7 +3064,7 @@
                 {
                     "children": [],
                     "display": "Intermittent positive pressure ventilation via endotracheal tube",
-                    "id": "992f36f1-2a3d-468f-8324-7e0c5de883c2",
+                    "id": "6d01c37a-f9b2-4957-a27c-db007977ced1",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3078,7 +3078,7 @@
                 {
                     "children": [],
                     "display": "Continuous positive airway pressure ventilation weaning protocol",
-                    "id": "f9634f3e-5a3c-402d-b27e-591642364580",
+                    "id": "5bfb57e2-a359-43bc-96af-17eb3ad6170f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3092,7 +3092,7 @@
                 {
                     "children": [],
                     "display": "Trial for spontaneous breathing",
-                    "id": "64c985f9-9e1f-4616-9534-40b91f1438dc",
+                    "id": "e0cb6446-5892-4069-90be-b25db24cb7a5",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3106,7 +3106,7 @@
                 {
                     "children": [],
                     "display": "Dual pressure spontaneous ventilation support weaning protocol",
-                    "id": "f0da467b-f540-4d8a-b8e8-519b09718211",
+                    "id": "718810f2-81c6-49ea-9c05-8bc3ad56d8b5",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3120,7 +3120,7 @@
                 {
                     "children": [],
                     "display": "Bag valve mask ventilation",
-                    "id": "fcaac0b9-0d5d-49b6-9d24-035113a8cbbd",
+                    "id": "e9e21a5a-3af7-4537-b5c5-42c78dc0673f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3134,7 +3134,7 @@
                 {
                     "children": [],
                     "display": "Respiratory assist, manual, using bag-valve-mask",
-                    "id": "a29e4780-31bb-4de3-8f62-2d6d48d13320",
+                    "id": "8450732f-20b4-4081-aee5-997d32c9f7dd",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3148,7 +3148,7 @@
                 {
                     "children": [],
                     "display": "Home oxygen therapy",
-                    "id": "13609569-6a75-43aa-a813-641c37fdbb02",
+                    "id": "308b49ca-8b60-4711-8a4b-c4df1cf22612",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3162,7 +3162,7 @@
                 {
                     "children": [],
                     "display": "Noninvasive ventilation",
-                    "id": "fa58dde7-2846-4ba0-848f-edd64ec45ff7",
+                    "id": "6afb7e60-1fa7-49f8-876a-e8d2bc987214",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3176,7 +3176,7 @@
                 {
                     "children": [],
                     "display": "Oxygen administration by Venturi mask",
-                    "id": "d4b113a0-83b7-480d-822a-b2d06213b5cc",
+                    "id": "e4b4c49e-595c-462d-96f7-ff69130b464d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3190,7 +3190,7 @@
                 {
                     "children": [],
                     "display": "Hyperventilation therapy for traumatic brain injury",
-                    "id": "25fe76fd-211b-4a53-90c6-2c48c7c154f1",
+                    "id": "9cf89435-eaad-47f1-87f8-55ce9bff8495",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3204,7 +3204,7 @@
                 {
                     "children": [],
                     "display": "Decompression chamber therapy",
-                    "id": "10661c76-7be4-4c67-9dcd-c34f77ffe9b7",
+                    "id": "e803b49a-8bcf-4aef-9a8d-424efd68eec4",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3218,7 +3218,7 @@
                 {
                     "children": [],
                     "display": "Noninvasive positive pressure ventilation",
-                    "id": "8e9988ce-f423-4cd5-a629-680550486d65",
+                    "id": "30c539da-e157-4c1e-ad2e-10ca969b94a4",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3232,7 +3232,7 @@
                 {
                     "children": [],
                     "display": "Continuous positive airway pressure to nonventilated lung",
-                    "id": "7a6a7628-36d3-44e4-b138-e5fb6e946a6b",
+                    "id": "0b31277a-f377-4d0e-bf12-d79ed472b41f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3246,7 +3246,7 @@
                 {
                     "children": [],
                     "display": "Transtracheal jet ventilation",
-                    "id": "6e08aaa9-f859-4ffe-8e50-6412f8bca486",
+                    "id": "ebc73e91-2ec0-46fd-8a04-f8d98806f5da",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3260,7 +3260,7 @@
                 {
                     "children": [],
                     "display": "Positive end expiratory pressure ventilation therapy, initiation and management",
-                    "id": "d04af1f5-51ab-4fe4-a741-a6f48be4b33d",
+                    "id": "f2a4209c-f874-4baf-b57e-f22ac2d51848",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3274,7 +3274,7 @@
                 {
                     "children": [],
                     "display": "Continuous positive airway pressure ventilation treatment",
-                    "id": "6486dbf5-ecdc-4ea3-8035-01b9f04bbd5a",
+                    "id": "d6dc6ce7-d145-45b5-9a13-be9005af095a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3288,7 +3288,7 @@
                 {
                     "children": [],
                     "display": "Jet ventilation procedure",
-                    "id": "c1a0b050-d6d7-4c48-bfac-9145d1ea6d9b",
+                    "id": "13bc7358-c9f5-402c-9c06-c291971e1d07",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3302,7 +3302,7 @@
                 {
                     "children": [],
                     "display": "Treatment by iron lung",
-                    "id": "346cbcb8-9e53-4c8c-88b6-c66f69fd27d4",
+                    "id": "90a28dfb-ae76-4a9a-a5fd-0cecbd98c3fc",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3316,7 +3316,7 @@
                 {
                     "children": [],
                     "display": "Respiratory therapy",
-                    "id": "18a59db9-d5e7-4f05-bad8-0692dae970a6",
+                    "id": "165a2ebc-d05a-4273-bc0c-063ca9827049",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3330,7 +3330,7 @@
                 {
                     "children": [],
                     "display": "Inspiration mandatory ventilation therapy, initiation and management",
-                    "id": "6deb51a7-e55e-4996-9243-cf3aa47c4fbd",
+                    "id": "59d6bede-585c-4a2c-98da-cb5a0cac8fd5",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3344,7 +3344,7 @@
                 {
                     "children": [],
                     "display": "Oxygen therapy",
-                    "id": "60bf05d0-c0f2-451f-99ca-20d6cad85874",
+                    "id": "42db8dc6-db2c-43df-8ac4-95c5794a383f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3358,7 +3358,7 @@
                 {
                     "children": [],
                     "display": "Synchronized intermittent mandatory ventilation",
-                    "id": "7d0def42-f26c-40d5-818d-116ab0e3f3aa",
+                    "id": "24835a0f-4e53-4dc9-a59d-c26fc99df4b0",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3372,7 +3372,7 @@
                 {
                     "children": [],
                     "display": "Flow and timed ventilation procedure, initiation and management",
-                    "id": "05f421e5-85bf-4732-987a-15985e14cef3",
+                    "id": "157991f8-ed4d-40f2-a8d4-fc89b83f2b14",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3386,7 +3386,7 @@
                 {
                     "children": [],
                     "display": "Respiratory therapy by modification of proportion of atmospheric gas",
-                    "id": "55b18453-880f-4550-88d7-561b1a001cc6",
+                    "id": "ed78fedc-1277-4397-9e10-42ad75ee4dba",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3400,7 +3400,7 @@
                 {
                     "children": [],
                     "display": "Respiratory therapy by control of atmospheric pressure",
-                    "id": "c896a52a-bb8a-4833-bc29-128d0d4521e6",
+                    "id": "7e6005fc-ef1f-47bf-828a-bfae05ca1ad3",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3414,7 +3414,7 @@
                 {
                     "children": [],
                     "display": "Respiratory therapy by control of atmospheric composition",
-                    "id": "4737b54b-a7cf-4e7c-91a4-34a1a09d25ae",
+                    "id": "555b85c0-98d4-4f85-acae-c3b122e6e51d",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3428,7 +3428,7 @@
                 {
                     "children": [],
                     "display": "Respiratory therapy by control of atmospheric pressure and composition",
-                    "id": "8de0040b-1f07-425c-a816-f4b8aa043160",
+                    "id": "a7955d21-6f62-4c2d-a850-a2976f9474d7",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3442,7 +3442,7 @@
                 {
                     "children": [],
                     "display": "Maintaining ventilation",
-                    "id": "33c51b61-4292-4be1-8cfd-fdc35b347374",
+                    "id": "ba0059da-6852-42f6-8acb-69401e167835",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3456,7 +3456,7 @@
                 {
                     "children": [],
                     "display": "Intranasal oxygen therapy",
-                    "id": "77e0a3ee-7655-4d89-809d-65418f1d3adc",
+                    "id": "b8b443e6-7fc4-4d75-ab98-020899e83183",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3470,7 +3470,7 @@
                 {
                     "children": [],
                     "display": "Resuscitation with artificial respiration",
-                    "id": "f6ad486b-54da-4f74-bb68-8be83b1b96a7",
+                    "id": "c0509a6f-c31d-45bb-a973-d82798b897b2",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3484,7 +3484,7 @@
                 {
                     "children": [],
                     "display": "Electrophrenic respiration",
-                    "id": "743e8b7e-7bb8-4131-af4a-a7b678e70bc5",
+                    "id": "e83eb2d9-9d7a-4a3a-9111-a86281583371",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3498,7 +3498,7 @@
                 {
                     "children": [],
                     "display": "Bird respiratory therapy",
-                    "id": "de29e795-3c73-47d8-8248-bb474a3bb517",
+                    "id": "3662ca0f-297b-47e5-9d29-f1ffd58a4c1e",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3512,7 +3512,7 @@
                 {
                     "children": [],
                     "display": "Mechanical insufflation exsufflation",
-                    "id": "462d8ad5-60dc-4119-90bd-8f413aa9983a",
+                    "id": "d363d67a-4e7d-46b2-a573-e0b77459621f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3526,7 +3526,7 @@
                 {
                     "children": [],
                     "display": "Alcohol-oxygen vapor therapy",
-                    "id": "feaad3b3-0a0e-454f-9fbf-fdc2d83357bb",
+                    "id": "c8c0b6a6-8fb0-4902-ac2c-c19224798041",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3540,7 +3540,7 @@
                 {
                     "children": [],
                     "display": "Fog inhalation therapy",
-                    "id": "02935339-7425-4142-a097-0db9ec3b3820",
+                    "id": "a7d16088-236e-48f6-a7c8-618e7473095f",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3554,7 +3554,7 @@
                 {
                     "children": [],
                     "display": "Continuous negative pressure ventilation treatment",
-                    "id": "ae85690d-c0a5-4710-aa6a-ef87f3b013aa",
+                    "id": "23393c23-3dca-4112-9db7-d548f28bdf53",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3568,7 +3568,7 @@
                 {
                     "children": [],
                     "display": "Assisted ventilation in prone position",
-                    "id": "41ad5795-b5c9-47ba-86a9-742e58c6f09b",
+                    "id": "1719bc97-f7ba-4a32-89ea-2318f80ecafa",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3582,7 +3582,7 @@
                 {
                     "children": [],
                     "display": "Weaning from noninvasive ventilation",
-                    "id": "f8eac031-10d6-4e85-9d83-ae9dfaecf5c8",
+                    "id": "3877064b-a3e0-4b4b-9351-cdd5d1f85844",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3596,7 +3596,7 @@
                 {
                     "children": [],
                     "display": "Heated and humidified high flow oxygen therapy",
-                    "id": "1613d253-fcbd-4029-9a1a-214ba9f7e555",
+                    "id": "189ee451-dd49-4395-b8aa-eef32f2e74af",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3610,7 +3610,7 @@
                 {
                     "children": [],
                     "display": "Assisted ventilation therapy, pressure or volume preset, initiation and management",
-                    "id": "34095fed-0c11-4fd3-9b64-364920e4d9b9",
+                    "id": "878cb91d-5ebf-4bc6-9dc3-39af8014550a",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3624,7 +3624,7 @@
                 {
                     "children": [],
                     "display": "Class in postural drainage",
-                    "id": "d8f8e12d-de6e-4e95-8b38-ec426e9053c8",
+                    "id": "994e5516-bafa-48b9-8130-f5463b7acbbe",
                     "leaf": true,
                     "selectable": true,
                     "termCode": {
@@ -3637,7 +3637,7 @@
                 }
             ],
             "display": "Beatmungstherapie",
-            "id": "47496ffd-6986-4131-ac01-cff140cb08fa",
+            "id": "ab779785-4304-4f3b-9a92-f7322e5b6fe5",
             "leaf": false,
             "selectable": true,
             "termCode": {
@@ -3650,7 +3650,7 @@
         }
     ],
     "display": "Therapie",
-    "id": "817741f4-9793-4baa-93cb-11338819a4c3",
+    "id": "03b2b085-2d13-4527-83a9-0f3669d56c95",
     "leaf": false,
     "selectable": false,
     "termCode": {
