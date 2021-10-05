@@ -37,7 +37,9 @@
 					"type": "array",
 					"minItems": 0,
 					"items": { "$ref": "#/definitions/fixedCriteria"}
-				}
+				},
+				"valueSearchParameter": {"type":  "string"},
+				"valueFhirPath": {"type":  "string"}
 			},
 			"required": ["key", "fhirResourceType"]
 		}

@@ -1,5 +1,5 @@
 {
-  "$schema": "http://num.codex/draft-1/ui-profile/schema#",
+  "$schema": "http://num.codex/draft-2/ui-profile/schema#",
   "definitions": {
     "unit": {
       "type": "object",
@@ -113,6 +113,85 @@
         }
       ]
     },
+    "attributeDefinition": {
+      "type": "object",
+      "description": "Defintion of the value of the criterion",
+      "properties": {
+        "type": {
+          "enum": [
+            "concept",
+            "quantity"
+          ]
+        }
+      },
+      "required": [
+        "type"
+      ],
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "concept"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "attributeCode": {"$ref": "#/definitions/termCode"},
+              "type": {
+                "const": "concept"
+              },
+              "selectableConcepts": {
+                "type": "array",
+                "minItems": 1,
+                "items": {
+                  "$ref": "#/definitions/termCode"
+                }
+              }
+            },
+            "required": [
+              "attributeCode",
+              "type",
+              "selectableConcepts"
+            ]
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "quantity"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "attributeCode": {"$ref": "#/definitions/termCode"},
+              "type": {
+                "const": "quantity"
+              },
+              "precision": {
+                "type": "integer"
+              },
+              "allowedUnits": {
+                "type": "array",
+                "minItems": 0,
+                "items": {
+                  "$ref": "#/definitions"
+                }
+              }
+            },
+            "required": [
+              "attributeCode",
+              "type",
+              "precision"
+            ]
+          }
+        }
+      ]
+    },
+
     "terminologyEntry": {
       "type": "object",
       "description": "Terminology Entry with all properties of a TermCode identified criterion",
@@ -142,11 +221,14 @@
             "$ref": "#/definitions/terminologyEntry"
           }
         },
-        "valueDefinitions": {
+        "valueDefinition": {
+            "$ref": "#/definitions/valueDefinition"
+        },
+        "attributeDefinitions": {
           "type": "array",
           "minItems": 0,
           "items": {
-            "$ref": "#/definitions/valueDefinition"
+            "$ref": "#/definitions/attributeDefinition"
           }
         }
       },
