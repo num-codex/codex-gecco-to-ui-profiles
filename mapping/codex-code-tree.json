@@ -34089,7 +34089,7 @@
                         {
                             "children": [],
                             "termCode": {
-                                "code": "D11AX22",
+                                "code": "P02CF01",
                                 "display": "Ivermectin",
                                 "system": "http://fhir.de/CodeSystem/bfarm/atc",
                                 "version": "2021"
@@ -34098,7 +34098,7 @@
                         {
                             "children": [],
                             "termCode": {
-                                "code": "P02CF01",
+                                "code": "D11AX22",
                                 "display": "Ivermectin",
                                 "system": "http://fhir.de/CodeSystem/bfarm/atc",
                                 "version": "2021"
