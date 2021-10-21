@@ -16,6 +16,13 @@
         "display"
       ]
     },
+	"termCodes": {
+		"value": {
+			"type": "array",
+			"minItems": 1,
+			"items": {"$ref": "#/definitions/termCode"}
+		}
+	}
     "termCode": {
       "type": "object",
       "description": "The termCode defines a concept based on a coding system (i.e. LOINC). The triplet of code, system and version identify the concept.",
@@ -211,8 +218,8 @@
         "timeRestrictionAllowed": {
           "type": "boolean"
         },
-        "termCode": {
-          "$ref": "#/definitions/termCode"
+        "termCodes": {
+          "$ref": "#/definitions/termCodes"
         },
         "children": {
           "type": "array",
